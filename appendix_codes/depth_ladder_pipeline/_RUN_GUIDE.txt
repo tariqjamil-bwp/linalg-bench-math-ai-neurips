@@ -1,0 +1,187 @@
+IBP DEPTH LADDER — RUN GUIDE
+
+
+WHAT THIS TREE IS
+------------------
+A self-contained pipeline for one experiment: the IBP recursion-depth
+benchmark, 340 SymPy-verified integrals of x^n·trig(bx), n = 0..16, 20
+problems per level. Four models, one call per problem per repeat,
+symbolic-only grading.
+
+  appendix_data_codes/
+    common/                      shared: models.py, inference_llm.py, textguard.py
+    depth_ladder_pipeline/
+      ibp_run_live.py             inference — one call per problem, per model
+      subcat_config_ibp.py        ibp answer extractor (monitoring tally only)
+      ibp_symbolic_check.py       LaTeX-parsing helpers reused by the grader
+      ibp_grade_depth_ladder.py   the symbolic grader
+      ibp_build_deliverables.py   writes the 3 deliverables
+    scaffold_grad_pipeline/      a sibling pipeline in this repo
+
+ibp_run_live.py is the only file here that reads from common/ (the model
+registry and API transport). It adds ../common to its own import path at
+startup, so no install step or symlink is needed — this works the same way
+on any OS, straight from a git clone or zip download.
+
+
+STEP 0 - VERIFY THE GRADER BEFORE SPENDING ANYTHING
+-----------------------------------------------------
+  cd depth_ladder_pipeline
+  BANK=<path-to>/ibp_depth_ladder_problems.csv
+
+  python3 ibp_grade_depth_ladder.py --self-test --bank $BANK
+
+Must print "SELF-TEST PASSED - 340/340". This grades the bank's own stored
+answers through the full extract -> clean -> parse -> differentiate path,
+plus a trailing-constant regression block. If it is not 340/340, do not run
+any inference.
+
+KNOWN ENVIRONMENT DEPENDENCY: the parse step uses sympy's LaTeX parser,
+which requires antlr4-python3-runtime==4.11 for sympy 1.14.0. An older
+antlr4 (e.g. 4.9.3) makes every parse fail, and the self-test reports
+0/340 with no other symptom. This is a dependency-pinning issue, not a
+grading-logic bug. Pin antlr4-python3-runtime==4.11 before trusting a
+self-test result.
+
+
+THE FOUR MODELS
+-----------------
+Registered in models.py.
+
+  Llama-3.3-70B
+  Qwen3-235B
+  Claude-4.5-Sonnet
+  Gemini-3.1-Pro
+
+Keys needed: ANTHROPIC_API_KEY, OPENROUTER_API_KEY, GEMINI_API_KEY. Copy the
+repo root's .env.example to .env and fill these in — one file, shared by
+every pipeline under appendix_codes/.
+
+
+PATHS — EVERY ONE IS TYPED ON THE COMMAND LINE
+-------------------------------------------------
+There are NO default paths and NO path environment variables. Every command
+below names its own input and output.
+
+  flag              required   what it names
+  ----------------  ---------  --------------------------------------------
+  --projects-root   YES        the output tree. Must already exist; it is
+                                never created on demand, so a typo is an
+                                error rather than a new empty experiment.
+  --bank            YES        the input CSV. --input is an accepted alias.
+  --subcat          no (ibp)   the {subcat} path segment. Only "ibp" is
+                                served; anything else is rejected by argparse.
+  --output          no         overrides the run directory for a one-off.
+  --outdir          no         overrides the deliverables directory.
+  --results         no         overrides the response-file glob.
+
+Throughout this guide:
+
+  ROOT=../projects
+  BANK=<path-to>/ibp_depth_ladder_problems.csv
+
+The bank and its metadata can live anywhere you name — this pipeline's own
+source/ folder is a convenience copy for reference, not a required
+location. --bank always names the file explicitly.
+
+The resolved absolute paths are printed before the first API call.
+
+
+WHERE OUTPUT GOES
+--------------------
+  <projects-root>/
+    ibp/                           <- --subcat
+      Llama-3.3-70B/
+        run1_full/                 IBP_..._run1_response.jsonl, .log, RUN.txt
+        run2_full/                 a second repeat, tagged --variant rep2
+      Claude-4.5-Sonnet/
+      Gemini-3.1-Pro/
+      Qwen3-235B/
+      deliverables/                the three deliverable files, flat
+
+One directory per run, numbered monotonically and never reused. The run
+number is chosen by the code; both the root and the run directory are
+printed before anything is spent.
+
+
+REPEATS
+---------
+Each run makes one call per problem. To collect a second repeat, run again
+with --variant rep2 (rep1 is the default) — it lands in its own run
+directory alongside the first.
+
+
+STEP 1 - INFERENCE  (all four models)
+-----------------------------------------------
+  cd depth_ladder_pipeline
+  ROOT=../projects
+  BANK=<path-to>/ibp_depth_ladder_problems.csv
+
+  # dry run first - no API calls (lands in ibp/{model}/run{n}_dryrun/)
+  python3 ibp_run_live.py --projects-root $ROOT --bank $BANK \
+      --model Llama-3.3-70B --limit 5 --dry-run
+
+  # full run: 340 problems, one call each
+  python3 ibp_run_live.py --projects-root $ROOT --bank $BANK \
+      --model Llama-3.3-70B
+
+  # a second repeat is a second run
+  python3 ibp_run_live.py --projects-root $ROOT --bank $BANK \
+      --model Llama-3.3-70B --variant rep2
+
+  # resume after an interruption - skips completed (id, variant) pairs.
+  # Pass the run directory explicitly: a bare re-run would take the NEXT
+  # free number and resume against an empty directory.
+  python3 ibp_run_live.py --projects-root $ROOT --bank $BANK \
+      --model Llama-3.3-70B \
+      --resume all --output $ROOT/ibp/Llama-3.3-70B/run1_full
+
+Read the PATHS block it prints before it makes the first call. It names the
+root, the subcat, the bank (with its row count) and the run directory, and
+says whether that directory is new or is being resumed.
+
+The bank is read AS SHIPPED. No prep script, no renamed copy. Problem_ID
+lower-cases to problem_id and resolves to id through the existing alias map.
+
+Temperature is hard-coded 0.0. There is no flag to set it.
+
+--limit counts PROBLEMS: one call per problem, so --limit 5 is 5 calls.
+
+Repeat the run for each of the four models (Llama-3.3-70B, Qwen3-235B,
+Claude-4.5-Sonnet, Gemini-3.1-Pro), twice each (rep1, rep2), for
+340 x 4 x 2 = 2,720 calls total.
+
+
+STEP 2 - GRADE AND BUILD DELIVERABLES
+------------------------------------------
+  python3 ibp_build_deliverables.py --projects-root $ROOT --bank $BANK \
+      --planned 2720
+
+It reads every run of every model under <projects-root>/ibp/ and writes to
+<projects-root>/ibp/deliverables/. It prints the glob it used. If the glob
+finds nothing it exits non-zero and says where it looked - an empty
+deliverables set must never be mistaken for a finished run. Override the
+glob with --results and the output directory with --outdir for a one-off.
+
+Writes into one flat directory:
+  ibp_results_raw.csv        one row per (model, problem, repeat)
+  ibp_results_by_level.csv   per (model, n, repeat) + Clopper-Pearson CI
+  ibp_run_summary.json       totals, per-model counts, versions, errors
+
+Grading ~2,720 responses takes ~10 min. Identical response text is graded
+once and cached - at temperature 0 the two repeats are often byte-identical,
+so this roughly halves the work.
+
+
+TRUNCATION
+------------
+A cut-off derivation always scores as a failure rather than being assumed
+away on the strength of a bigger budget:
+  1. Every cut response carries truncated=TRUE and tokens_used in
+     ibp_results_raw.csv.
+  2. ibp_results_by_level.csv carries n_truncated and truncation_rate per
+     (model, n, repeat), so truncation is visible next to the accuracy it
+     affects.
+  3. ibp_build_deliverables EXITS NON-ZERO if a model's truncation rate at
+     n >= 12 exceeds its rate at n <= 4 by more than 10 points — that
+     model's depth curve must not be submitted as a measure of ability.

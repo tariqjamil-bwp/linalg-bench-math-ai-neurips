@@ -1,0 +1,157 @@
+════════════════════════════════════════════════════════════════════════════
+  OP-COUNT CONTROL — RUN GUIDE
+  appendix_data_codes/opcount_control/
+════════════════════════════════════════════════════════════════════════════
+
+REQUIREMENTS
+────────────
+Python 3.10+ with requests and numpy (everything else is stdlib).
+OPENROUTER_API_KEY set in the environment — every model in this pipeline is
+called through OpenRouter. Copy the repo root's .env.example to .env and
+fill this in — one file, shared by every pipeline under appendix_codes/.
+Run every command from this directory.
+
+DIRECTORY LAYOUT
+─────────────────
+  opcount_control/                 code, no bundled input data
+    results/                       created on first run, all run output
+      opcount_results_raw.csv        one row per API call (all commands append here)
+      opcount_results_aggregated.csv build_opcount_aggregated.py's output
+      opcount_run_summary.json       build_opcount_run_summary.py's output
+      opcount_experiment.log         warnings/errors from any run
+
+No external input CSV is needed: every problem (matrix chain) is generated
+internally and deterministically from CELL_SEEDS in
+run_opcount_experiment.py, so there is nothing to bundle or freeze upfront.
+
+────────────────────────────────────────────────────────────────────────────
+  FILES
+────────────────────────────────────────────────────────────────────────────
+  run_opcount_experiment.py       problem generation, grading, live API calls
+  build_opcount_aggregated.py     aggregates raw CSV into per-cell accuracy
+                                   with Clopper-Pearson 95% CIs
+  opcount_abort_check.py          internal convenience gate check (not a
+                                   formal deliverable) over a model list you
+                                   specify yourself
+  build_opcount_run_summary.py    writes opcount_run_summary.json from the
+                                   raw CSV, CELL_SEEDS, and a few values you
+                                   must supply (see STEP 3)
+
+────────────────────────────────────────────────────────────────────────────
+  THE RUN
+────────────────────────────────────────────────────────────────────────────
+
+STEP 0 — optional sanity gate before spending a full run's worth of calls
+
+    python3 opcount_abort_check.py --models claude-4.5-sonnet gemini-3.1-pro \
+        qwen3-235b llama-3.3-70b
+
+  Runs CHAINED-SHALLOW matvec k=6, N=15, 1 repeat, for each model you list,
+  and checks each scores at least 90%. This is internal tooling used during
+  data collection to catch integration bugs early and save tokens — it is
+  not one of the experiment's formal deliverables. --models takes any subset
+  of the registry in run_opcount_experiment.py; --n and --threshold override
+  the defaults. Reuses any matching rows already in opcount_results_raw.csv
+  instead of re-spending API calls.
+
+STEP 1 — run a model at one or more chain lengths
+
+    python3 run_opcount_experiment.py --model claude-4.5-sonnet --k 6 11 \
+        [--N 15] [--max-tokens 8000]
+
+  Appends every call's row to results/opcount_results_raw.csv (created if
+  missing). --model is one of the keys in the MODELS dict at the top of
+  run_opcount_experiment.py; --k accepts one or more chain lengths in a
+  single invocation. Skip-if-done: a (model, k) cell already present in the
+  raw CSV under phase "phase2_frontier" is not re-run — safe to repeat the
+  same command to top up a partial run.
+
+  Repeat this command once per model you need data for.
+
+STEP 2 — aggregate
+
+    python3 build_opcount_aggregated.py --raw results/opcount_results_raw.csv \
+        --out results/opcount_results_aggregated.csv
+
+  Reads every row in the raw CSV, groups by (model, condition, op_type, k),
+  and writes one row per cell with mean_accuracy, range_accuracy across
+  repeats, and a Clopper-Pearson 95% CI (ci_lower/ci_upper) computed from
+  the pooled correct/total counts. A parse failure or ungraded row counts
+  as incorrect, not excluded — the same PASS/FAIL rule the raw CSV's own
+  pass column encodes.
+
+STEP 3 — run summary
+
+    python3 build_opcount_run_summary.py \
+        --raw results/opcount_results_raw.csv \
+        --out results/opcount_run_summary.json \
+        --total-calls-planned 1920 \
+        --grading-rule-locked-at 2026-09-01T00:00:00Z \
+        --abort-models claude-4.5-sonnet gemini-3.1-pro qwen3-235b llama-3.3-70b
+
+  Writes opcount_run_summary.json, the run-summary deliverable. total_calls_completed,
+  abort_check_accuracy_by_model, abort_triggered, cell_seeds and seed_base
+  are all derived from the raw CSV and this repo's own CELL_SEEDS — never
+  hand-copied. --total-calls-planned and --grading-rule-locked-at must be
+  supplied: they are commitments made before the first API call and cannot
+  be reconstructed from output data after the fact. --abort-models defaults
+  to every model with a CHAINED-SHALLOW matvec k=6 row already in the raw
+  CSV; --threshold (default 0.90) sets the cutoff behind abort_triggered.
+
+────────────────────────────────────────────────────────────────────────────
+  READING THE RAW CSV — SUPERSEDED ROWS AND KNOWN-WEAK CELLS
+────────────────────────────────────────────────────────────────────────────
+
+Every command appends, and nothing is ever rewritten, so a cell that was
+collected twice keeps both attempts. Filter on read; do not assume one row
+per (model, k).
+
+k=1 — two models carry a buggy and a corrected attempt
+  A harness bug spoiled the first k=1 run for deepseek-v3 (80.0%) and
+  llama-3.3-70b (6.7%), both recorded under phase "3". Both were re-run;
+  the corrected rows are under phase "phase1_k1_fix" (100.0% each). For
+  these two models use phase1_k1_fix and drop their phase "3" k=1 rows.
+
+  Averaging k=1 over every phase yields 84/101 = 83.2%, against the correct
+  71/71 = 100.0% — a 16.8-point understatement of the trivial baseline, which
+  flattens the accuracy-vs-chain-length curve the experiment exists to show.
+
+  gpt-4o, mistral-large-2512 and qwen-2.5-72b are unaffected: their only k=1
+  rows sit under phase "phase4_cheap" and are valid.
+
+qwen3-235b at k=23 — unreliable cell
+  9 of its 30 calls parse-failed (30%); reasoning alone consumed 36-39k
+  tokens against a 64k cap. Treat the cell as unreliable rather than as a
+  30% accuracy result, and do not re-run it at a higher cap unilaterally.
+
+qwen-2.5-72b — uneven cell sizes
+  Some cells hold fewer than the design N=15 (11 rows at k=1). Usable, with
+  correspondingly wider confidence intervals; deliberately not topped up.
+
+Column encoding
+  pass, parse_fail, reasoning_tokens and first_error_step are plain integers
+  — no "1.0"/"0.0" forms — and the file uses LF line endings throughout.
+  pass is blank on exactly the 31 parse_fail=1 rows, where no verdict was
+  produced. reasoning_tokens is blank on 68 rows the provider did not report
+  it for (unrelated to parse failures), and first_error_step is blank
+  wherever no first error step was localised.
+
+────────────────────────────────────────────────────────────────────────────
+  COMMAND-LINE FLAGS
+────────────────────────────────────────────────────────────────────────────
+  --model         run_opcount_experiment.py only; one key from MODELS.
+  --k             run_opcount_experiment.py only; one or more chain lengths.
+  --N             problems per k; default 15 (run_opcount_experiment.py) or
+                   via --n on opcount_abort_check.py (same default).
+  --max-tokens    run_opcount_experiment.py only; overrides MAX_TOKENS for
+                   every k in that invocation.
+  --models        opcount_abort_check.py only; required, one or more model
+                   keys to gate on — no hardcoded set.
+  --threshold     default 0.90; abort_triggered/gate cutoff, shared by
+                   opcount_abort_check.py and build_opcount_run_summary.py.
+  --raw / --out   build_opcount_aggregated.py and build_opcount_run_summary.py;
+                   input/output paths.
+  --total-calls-planned      build_opcount_run_summary.py only; required.
+  --grading-rule-locked-at   build_opcount_run_summary.py only; required.
+  --abort-models              build_opcount_run_summary.py only; optional,
+                               default is every model with a k=6 matvec row.

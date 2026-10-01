@@ -1,0 +1,421 @@
+problem_id,symmetry,spectrum_type,problem_latex,answer_latex
+C_5x5_eig_007,symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & -3 & -2 & -1 & 5 \\ -3 & 2 & -4 & -2 & -1 \\ -2 & -4 & 6 & 1 & 1 \\ -1 & -2 & 1 & -4 & -4 \\ 5 & -1 & 1 & -4 & 2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -6.7782, -5.3145, 1.4187, 7.7088, 8.9652"
+C_5x5_eig_008,symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -2 & -5 & -2 & -3 & 2 \\ -5 & 8 & 5 & 2 & -5 \\ -2 & 5 & 4 & -8 & 3 \\ -3 & 2 & -8 & 0 & 7 \\ 2 & -5 & 3 & 7 & 2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -13.2528, -4.1038, 5.6542, 8.7978, 14.9047"
+C_5x5_eig_009,symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 4 & 2 & -1 & -4 & 1 \\ 2 & -6 & -6 & -3 & 2 \\ -1 & -6 & 6 & -4 & 1 \\ -4 & -3 & -4 & 4 & -2 \\ 1 & 2 & 1 & -2 & 8 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -9.9891, -0.6487, 5.9924, 9.1452, 11.5002"
+C_5x5_eig_010,symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & 0 & -1 & 8 & 3 \\ 0 & -2 & 4 & -3 & -1 \\ -1 & 4 & 8 & 5 & 6 \\ 8 & -3 & 5 & 0 & 7 \\ 3 & -1 & 6 & 7 & 0 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -10.5361, -5.9796, -1.7772, 7.5096, 16.7833"
+C_5x5_eig_011,symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 4 & 2 & -1 & -6 & -5 \\ 2 & -6 & 1 & 3 & 2 \\ -1 & 1 & -2 & 8 & -2 \\ -6 & 3 & 8 & 8 & 3 \\ -5 & 2 & -2 & 3 & -8 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -11.8497, -8.1126, -3.8837, 3.6081, 16.2379"
+C_5x5_eig_012,symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -4 & 0 & 1 & 7 & -6 \\ 0 & 0 & 7 & 1 & 3 \\ 1 & 7 & -2 & -5 & 7 \\ 7 & 1 & -5 & -6 & -6 \\ -6 & 3 & 7 & -6 & -2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -14.9334, -10.246, -6.224, 3.6107, 13.7927"
+C_5x5_eig_013,symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -2 & 6 & -1 & -1 & -1 \\ 6 & 2 & 0 & 2 & -3 \\ -1 & 0 & 4 & -1 & 4 \\ -1 & 2 & -1 & -2 & -4 \\ -1 & -3 & 4 & -4 & 8 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -7.2171, -2.8922, 1.8605, 5.1509, 13.0979"
+C_5x5_eig_014,symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & 2 & 0 & 7 & -6 \\ 2 & -6 & 4 & -6 & 3 \\ 0 & 4 & 4 & -6 & 1 \\ 7 & -6 & -6 & -6 & 0 \\ -6 & 3 & 1 & 0 & 0 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -16.2815, -5.7005, -2.5592, 5.0255, 11.5157"
+C_5x5_eig_015,symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -8 & -8 & 4 & -5 & 4 \\ -8 & 4 & -3 & -4 & -5 \\ 4 & -3 & -4 & 7 & 3 \\ -5 & -4 & 7 & -8 & -1 \\ 4 & -5 & 3 & -1 & 0 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -19.1648, -7.762, -3.0933, 0.5059, 13.5143"
+C_5x5_eig_016,symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 2 & -2 & -3 & 1 & 1 \\ -2 & 2 & -2 & 2 & 3 \\ -3 & -2 & 0 & -5 & -4 \\ 1 & 2 & -5 & 4 & 3 \\ 1 & 3 & -4 & 3 & 6 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -4.5384, -1.1893, 1.9752, 4.3756, 13.3769"
+C_5x5_eig_017,symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 6 & 3 & 0 & 3 & -1 \\ 3 & -2 & -4 & -1 & -5 \\ 0 & -4 & 4 & -1 & 1 \\ 3 & -1 & -1 & 0 & -5 \\ -1 & -5 & 1 & -5 & -6 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -11.7353, -2.216, 0.8395, 5.2662, 9.8456"
+C_5x5_eig_018,symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 2 & 1 & 0 & 2 & 5 \\ 1 & -6 & 2 & -1 & -1 \\ 0 & 2 & -2 & 2 & 3 \\ 2 & -1 & 2 & -6 & -2 \\ 5 & -1 & 3 & -2 & -6 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -12.1739, -5.5221, -4.3283, -0.8575, 4.8818"
+C_5x5_eig_019,symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -2 & 6 & 1 & 5 & -4 \\ 6 & 8 & 1 & -2 & -4 \\ 1 & 1 & 8 & -1 & -1 \\ 5 & -2 & -1 & 8 & 1 \\ -4 & -4 & -1 & 1 & 4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -7.2881, 1.5017, 7.3518, 10.2105, 14.2241"
+C_5x5_eig_020,symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 6 & 3 & -6 & 5 & 0 \\ 3 & -6 & 2 & 2 & -3 \\ -6 & 2 & -8 & 3 & 4 \\ 5 & 2 & 3 & 6 & -1 \\ 0 & -3 & 4 & -1 & -8 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -15.3957, -6.4408, -4.4876, 4.282, 12.0422"
+C_5x5_eig_021,symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 4 & -5 & -6 & 2 & 2 \\ -5 & 0 & -3 & 0 & -1 \\ -6 & -3 & -8 & 1 & -3 \\ 2 & 0 & 1 & -6 & -7 \\ 2 & -1 & -3 & -7 & -4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -12.8626, -12.5311, -0.091, 2.6143, 8.8703"
+C_5x5_eig_022,symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -4 & 6 & -1 & 5 & 1 \\ 6 & 6 & 0 & 4 & -5 \\ -1 & 0 & 8 & -7 & 1 \\ 5 & 4 & -7 & -2 & -6 \\ 1 & -5 & 1 & -6 & 8 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -10.6371, -5.0039, 4.7065, 8.9435, 17.991"
+C_5x5_eig_023,symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 6 & 1 & 3 & -4 & -1 \\ 1 & 6 & 0 & -1 & 1 \\ 3 & 0 & 2 & -5 & -1 \\ -4 & -1 & -5 & 4 & -2 \\ -1 & 1 & -1 & -2 & 2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -3.0393, 1.0136, 3.473, 6.1481, 12.4046"
+C_5x5_eig_024,symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & 0 & 2 & -1 & 0 \\ 0 & -2 & -1 & 0 & 0 \\ 2 & -1 & 4 & -2 & 4 \\ -1 & 0 & -2 & 2 & -2 \\ 0 & 0 & 4 & -2 & -8 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -9.4313, -2.175, -0.5563, 0.8645, 7.2982"
+C_5x5_eig_025,symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 6 & -6 & -2 & 1 & -5 \\ -6 & -8 & 7 & -3 & -5 \\ -2 & 7 & 8 & -4 & 2 \\ 1 & -3 & -4 & -8 & -3 \\ -5 & -5 & 2 & -3 & 6 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -14.9647, -8.6688, 3.7204, 8.7047, 15.2084"
+C_5x5_eig_026,symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -8 & 0 & -4 & 6 & -5 \\ 0 & 4 & 5 & -5 & -4 \\ -4 & 5 & 4 & -5 & 3 \\ 6 & -5 & -5 & -4 & 2 \\ -5 & -4 & 3 & 2 & 2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -14.169, -4.7539, -4.1247, 7.6842, 13.3634"
+C_5x5_eig_027,symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -6 & -4 & -2 & -2 & 0 \\ -4 & 8 & 4 & -2 & -4 \\ -2 & 4 & -2 & 0 & -7 \\ -2 & -2 & 0 & 4 & -3 \\ 0 & -4 & -7 & -3 & -4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -11.2326, -6.7066, -0.7558, 5.7749, 12.9201"
+C_5x5_eig_028,symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -6 & -4 & 0 & -3 & -5 \\ -4 & -4 & 1 & 5 & 1 \\ 0 & 1 & 2 & 0 & 2 \\ -3 & 5 & 0 & -4 & -5 \\ -5 & 1 & 2 & -5 & 0 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -12.3292, -9.5007, 0.9266, 3.666, 5.2373"
+C_5x5_eig_029,symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & 2 & 3 & -4 & 0 \\ 2 & 0 & -3 & -1 & -1 \\ 3 & -3 & -4 & -1 & -2 \\ -4 & -1 & -1 & -8 & 4 \\ 0 & -1 & -2 & 4 & 6 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -10.5712, -7.34, 1.4244, 2.4724, 8.0145"
+C_5x5_eig_030,symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 8 & -1 & 8 & 2 & -5 \\ -1 & -4 & 5 & 1 & -1 \\ 8 & 5 & 8 & 2 & 0 \\ 2 & 1 & 2 & 2 & -7 \\ -5 & -1 & 0 & -7 & -4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -10.1388, -6.2652, 2.4807, 5.7313, 18.192"
+C_5x5_eig_031,symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -2 & -6 & 4 & -5 & -4 \\ -6 & 2 & -1 & -3 & 6 \\ 4 & -1 & -8 & 4 & 1 \\ -5 & -3 & 4 & -2 & 2 \\ -4 & 6 & 1 & 2 & -2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -14.1258, -8.0137, -3.3794, 2.6703, 10.8486"
+C_5x5_eig_032,symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 4 & 0 & 5 & -3 & 4 \\ 0 & -6 & -3 & -5 & 3 \\ 5 & -3 & 0 & 6 & -3 \\ -3 & -5 & 6 & -4 & 2 \\ 4 & 3 & -3 & 2 & 8 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -12.717, -7.5702, 3.1693, 8.1141, 11.0039"
+C_5x5_eig_033,symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -8 & -5 & -1 & -3 & 4 \\ -5 & 8 & -2 & 5 & 1 \\ -1 & -2 & 6 & 0 & 2 \\ -3 & 5 & 0 & 0 & -1 \\ 4 & 1 & 2 & -1 & -8 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -13.2304, -5.4614, -1.8069, 6.0273, 12.4714"
+C_5x5_eig_034,symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 4 & -1 & 1 & -2 & 2 \\ -1 & 4 & -4 & -2 & 2 \\ 1 & -4 & -8 & 5 & 0 \\ -2 & -2 & 5 & -2 & 1 \\ 2 & 2 & 0 & 1 & 6 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -11.4447, -2.6291, 3.7638, 6.2743, 8.0357"
+C_5x5_eig_035,symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & 3 & -4 & 4 & -4 \\ 3 & -2 & -5 & -3 & -2 \\ -4 & -5 & 0 & -1 & 1 \\ 4 & -3 & -1 & -6 & -2 \\ -4 & -2 & 1 & -2 & -2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -10.3949, -6.3088, -3.4305, 0.8821, 9.252"
+C_5x5_eig_036,symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 8 & 4 & -6 & -2 & -4 \\ 4 & 6 & 0 & 3 & 2 \\ -6 & 0 & 2 & -7 & 0 \\ -2 & 3 & -7 & 2 & 1 \\ -4 & 2 & 0 & 1 & 6 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -8.1399, 1.7856, 5.8842, 9.9395, 14.5305"
+C_5x5_eig_037,non_symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -1 & -3 & 4 & 4 & 1 \\ -2 & -3 & 3 & 1 & -1 \\ 3 & 2 & -3 & -1 & 0 \\ 1 & 4 & -1 & -3 & -3 \\ 2 & -1 & -2 & -4 & 2 \end{bmatrix}","\lambda = -9.9339, -2.2421, -1.8696, 1.9001, 4.1455"
+C_5x5_eig_038,non_symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & 3 & 2 & 0 & 3 \\ 3 & 4 & -4 & -2 & 2 \\ 2 & -3 & 2 & -3 & 0 \\ 3 & 3 & 3 & -4 & 0 \\ 4 & 4 & 2 & -4 & -3 \end{bmatrix}","\lambda = -5.2931, -3.8052, -1.4109, 1.9887, 7.5205"
+C_5x5_eig_039,non_symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -3 & 4 & 0 & 2 & 2 \\ 1 & -3 & -3 & -2 & -3 \\ 4 & 0 & 4 & 2 & 4 \\ -1 & 3 & 2 & 3 & -2 \\ 2 & -3 & 1 & -4 & 3 \end{bmatrix}","\lambda = -5.782, -1.8593, 0.6323, 4.0705, 6.9385"
+C_5x5_eig_040,non_symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 4 & -3 & -1 & -3 & -2 \\ -1 & 4 & 0 & 1 & 2 \\ -2 & -3 & 2 & 4 & 3 \\ 1 & 3 & 2 & 0 & 3 \\ 0 & 1 & 2 & 3 & 4 \end{bmatrix}","\lambda = -1.9805, -0.3986, 2.7818, 4.8316, 8.7656"
+C_5x5_eig_041,non_symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -3 & -3 & 1 & -3 & 4 \\ 2 & 0 & -2 & 1 & -3 \\ 0 & -3 & -1 & 3 & 0 \\ 2 & 0 & 1 & 3 & -4 \\ 1 & -3 & -1 & -1 & -1 \end{bmatrix}","\lambda = -4.0958, -2.8202, -1.3323, 2.1302, 4.1181"
+C_5x5_eig_042,non_symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 4 & 2 & -3 & -1 & 0 \\ -4 & 0 & 0 & 3 & -2 \\ -2 & 2 & 0 & -2 & -3 \\ 2 & 3 & 3 & -2 & 2 \\ 0 & -3 & -3 & 4 & 1 \end{bmatrix}","\lambda = -4.4484, -2.0292, 1.1937, 2.5053, 5.7786"
+C_5x5_eig_043,non_symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 4 & 0 & -4 & -4 & -3 \\ -2 & -3 & 1 & 2 & -2 \\ -2 & -1 & 4 & -1 & 2 \\ 3 & 4 & 0 & 1 & -4 \\ -3 & -3 & 4 & -2 & 3 \end{bmatrix}","\lambda = -4.1277, -0.4096, 0.567, 3.5391, 9.4312"
+C_5x5_eig_044,non_symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -3 & -4 & 3 & 2 & -3 \\ 0 & 1 & -2 & 1 & 0 \\ 2 & -4 & 2 & -1 & 3 \\ 2 & 3 & -4 & 1 & 3 \\ 0 & -1 & -4 & 3 & -3 \end{bmatrix}","\lambda = -5.3338, -2.5608, -0.921, 1.2962, 5.5194"
+C_5x5_eig_045,non_symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -2 & 2 & -1 & -1 & -1 \\ 3 & 3 & -4 & -2 & 1 \\ 2 & -3 & -1 & 0 & -4 \\ -4 & 2 & -1 & -4 & 3 \\ -4 & 0 & 0 & -2 & 1 \end{bmatrix}","\lambda = -4.7845, -3.2166, -1.4956, 2.148, 4.3487"
+C_5x5_eig_046,non_symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & 1 & -1 & -1 & -4 \\ 4 & -2 & -3 & -1 & 1 \\ -4 & -3 & 2 & -2 & -1 \\ -1 & -4 & -3 & -2 & 4 \\ -3 & 1 & 3 & 1 & -1 \end{bmatrix}","\lambda = -7.0835, -2.7243, -0.7146, 1.4591, 6.0632"
+C_5x5_eig_047,non_symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -4 & -1 & 1 & 0 & 3 \\ 3 & 4 & -3 & 3 & 0 \\ -2 & -4 & 1 & -4 & 0 \\ -1 & 3 & -3 & -4 & 0 \\ 3 & 2 & 4 & 4 & 4 \end{bmatrix}","\lambda = -6.6863, -3.1703, -1.6276, 4.888, 7.5961"
+C_5x5_eig_048,non_symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 2 & -4 & -4 & 0 & -4 \\ -2 & -1 & 2 & -2 & -3 \\ -2 & -1 & -2 & 0 & 0 \\ 4 & -2 & -2 & 0 & 3 \\ -3 & -4 & -1 & 0 & -1 \end{bmatrix}","\lambda = -6.202, -3.1577, -1.6839, 3.5637, 5.4799"
+C_5x5_eig_049,non_symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -1 & 1 & 2 & 2 & -1 \\ 4 & 2 & -1 & -3 & 2 \\ 3 & 0 & 0 & 0 & 0 \\ 4 & -2 & 2 & -1 & 3 \\ -3 & 4 & 3 & 3 & 2 \end{bmatrix}","\lambda = -7.5439, -1.0945, 2.4797, 3.5998, 4.5589"
+C_5x5_eig_050,non_symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -1 & -2 & 3 & 0 & -3 \\ -4 & -3 & 4 & -4 & -3 \\ 4 & 3 & 0 & -2 & 1 \\ -4 & -2 & -4 & 4 & 4 \\ 3 & 4 & -2 & -2 & 1 \end{bmatrix}","\lambda = -5.3322, -1.2827, 0.7906, 1.5398, 5.2845"
+C_5x5_eig_051,non_symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & -2 & -3 & 3 & 3 \\ -1 & -1 & 4 & -3 & 3 \\ 0 & 2 & 3 & 2 & -2 \\ 2 & -2 & 1 & 0 & 4 \\ 4 & -2 & -4 & 3 & -4 \end{bmatrix}","\lambda = -7.2801, -3.9871, -1.2128, 4.6416, 5.8384"
+C_5x5_eig_052,non_symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -2 & -4 & -2 & -1 & -3 \\ -4 & -1 & -1 & 0 & 4 \\ -2 & -3 & 2 & -4 & -3 \\ 1 & 3 & -1 & 3 & 2 \\ -3 & 2 & 1 & 2 & 1 \end{bmatrix}","\lambda = -6.001, -2.0559, -0.4248, 5.164, 6.3177"
+C_5x5_eig_053,non_symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -4 & 4 & 3 & -1 & -4 \\ 0 & 3 & -1 & 1 & -2 \\ 2 & -1 & 4 & 3 & -3 \\ -3 & -4 & 2 & 3 & 1 \\ -1 & -1 & 2 & 4 & -2 \end{bmatrix}","\lambda = -5.7288, -0.9277, 0.6786, 3.9687, 6.0091"
+C_5x5_eig_054,non_symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 4 & 2 & 1 & 1 & 3 \\ 3 & -2 & 2 & 0 & 1 \\ 4 & 3 & -1 & -2 & 4 \\ -2 & -4 & -2 & -3 & -4 \\ 0 & -2 & -2 & 0 & -4 \end{bmatrix}","\lambda = -4.8702, -3.7413, -1.9071, -0.0253, 4.5439"
+C_5x5_eig_055,non_symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 4 & -4 & -3 & 2 & -3 \\ 1 & -2 & -2 & 4 & 0 \\ 0 & 1 & -1 & -2 & -2 \\ 4 & -1 & 2 & -4 & -4 \\ -3 & -1 & -3 & -3 & 0 \end{bmatrix}","\lambda = -5.0056, -3.3234, -1.7996, 0.8949, 6.2337"
+C_5x5_eig_056,non_symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 3 & 0 & 1 & 0 & 0 \\ 1 & 3 & -4 & -2 & -1 \\ 3 & -4 & -3 & -3 & 0 \\ 3 & 0 & -3 & -3 & -2 \\ -4 & 2 & -1 & -1 & 0 \end{bmatrix}","\lambda = -7.5927, -1.4447, 1.3165, 3.2589, 4.462"
+C_5x5_eig_057,non_symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -4 & -2 & -2 & 3 & 4 \\ 1 & -3 & -4 & 4 & -2 \\ -4 & 0 & 4 & 4 & 2 \\ 4 & 3 & 3 & 3 & -1 \\ 3 & 2 & 4 & 2 & 0 \end{bmatrix}","\lambda = -9.5533, -2.6995, 2.313, 2.8846, 7.0552"
+C_5x5_eig_058,non_symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 1 & 4 & -3 & 1 & 4 \\ 2 & -2 & -2 & 1 & 0 \\ -2 & -4 & -2 & -1 & 4 \\ -1 & 3 & -4 & -4 & 4 \\ 4 & 1 & -3 & 2 & 3 \end{bmatrix}","\lambda = -6.5053, -4.3151, -2.0574, 2.2688, 6.6091"
+C_5x5_eig_059,non_symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 4 & -2 & 0 & 0 & 0 \\ 2 & 3 & 4 & 3 & 1 \\ 0 & 4 & -2 & -3 & 2 \\ -4 & 0 & -2 & -2 & -1 \\ -3 & 4 & 2 & 1 & -4 \end{bmatrix}","\lambda = -5.727, -4.4791, -0.3569, 4.4031, 5.1599"
+C_5x5_eig_060,non_symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 3 & 1 & -3 & 1 & 0 \\ 4 & 2 & -4 & -4 & -2 \\ -2 & -1 & -2 & 0 & 0 \\ 4 & -3 & 4 & -4 & 2 \\ 0 & -3 & -4 & 3 & 2 \end{bmatrix}","\lambda = -6.2745, -3.8597, -0.183, 4.5054, 6.8119"
+C_5x5_eig_061,non_symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -4 & 4 & -3 & 2 & -2 \\ 1 & 2 & -3 & 0 & 0 \\ -3 & 1 & -3 & 2 & -1 \\ -1 & -3 & 0 & 4 & -4 \\ -3 & 0 & -1 & 1 & -1 \end{bmatrix}","\lambda = -6.2483, -1.4991, -1.1785, 2.6452, 4.2807"
+C_5x5_eig_062,non_symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -4 & -3 & -2 & 1 & 3 \\ -4 & -1 & 4 & 1 & 2 \\ -2 & 1 & 1 & -4 & 0 \\ 0 & 3 & -2 & 2 & 4 \\ 1 & 1 & -3 & 3 & 1 \end{bmatrix}","\lambda = -6.8086, -3.2488, -1.4139, 3.6132, 6.8582"
+C_5x5_eig_063,non_symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 4 & 0 & -3 & 4 & -1 \\ -2 & -4 & -2 & 3 & -1 \\ -4 & -1 & -2 & 3 & 0 \\ -2 & 3 & 1 & -2 & -2 \\ -1 & -1 & 2 & -4 & -4 \end{bmatrix}","\lambda = -7.9884, -5.2007, -0.4454, 1.2258, 4.4087"
+C_5x5_eig_064,non_symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -4 & -1 & 4 & 0 & 1 \\ -1 & -3 & -4 & -3 & 0 \\ 4 & 0 & -3 & -1 & 1 \\ -3 & -3 & -2 & 2 & -3 \\ -2 & 3 & 2 & -4 & 1 \end{bmatrix}","\lambda = -7.011, -5.3953, -0.8946, -0.0187, 6.3195"
+C_5x5_eig_065,non_symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 1 & 2 & 3 & -1 & -4 \\ 4 & 1 & -2 & -2 & 2 \\ -3 & 3 & -4 & 4 & -1 \\ 0 & 3 & 3 & 3 & 3 \\ -3 & 0 & -2 & 4 & 4 \end{bmatrix}","\lambda = -4.4844, -1.1708, -0.3652, 3.2015, 7.819"
+C_5x5_eig_066,non_symmetric,irrational,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 2 & 0 & 2 & -1 & 2 \\ -1 & 4 & -4 & 1 & 4 \\ 2 & -4 & -4 & 1 & 3 \\ -3 & 1 & -2 & 4 & -3 \\ 3 & 3 & 1 & -4 & -4 \end{bmatrix}","\lambda = -8.1541, -4.5267, 1.3421, 6.3094, 7.0293"
+C_5x5_eig_067,symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 4 & 0 & -2 & -4 & 6 \\ 0 & 7 & 2 & 1 & 6 \\ -2 & 2 & 9 & 0 & 5 \\ -4 & 1 & 0 & 11 & 4 \\ 6 & 6 & 5 & 4 & 1 \end{bmatrix}","\lambda = -8, 4, 8, 12, 16"
+C_5x5_eig_068,symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 8 & 2 & 4 & -4 & -4 \\ 2 & 0 & 4 & 4 & -4 \\ 4 & 4 & 0 & 2 & 4 \\ -4 & 4 & 2 & 8 & 4 \\ -4 & -4 & 4 & 4 & -2 \end{bmatrix}","\lambda = -10, -2, 2, 10, 14"
+C_5x5_eig_069,symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 12 & -5 & 2 & -2 & -4 \\ -5 & -4 & -2 & -2 & 0 \\ 2 & -2 & -5 & 0 & -4 \\ -2 & -2 & 0 & 2 & -1 \\ -4 & 0 & -4 & -1 & -2 \end{bmatrix}","\lambda = -9, -5, -1, 3, 15"
+C_5x5_eig_070,symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 2 & -3 & -2 & -6 & -2 \\ -3 & -2 & 2 & -4 & 0 \\ -2 & 2 & 3 & -4 & 4 \\ -6 & -4 & -4 & 4 & -3 \\ -2 & 0 & 4 & -3 & -4 \end{bmatrix}","\lambda = -9, -5, -1, 7, 11"
+C_5x5_eig_071,symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 6 & 0 & -2 & -1 & 3 \\ 0 & 2 & 2 & -3 & 1 \\ -2 & 2 & 4 & -4 & 4 \\ -1 & -3 & -4 & 0 & 0 \\ 3 & 1 & 4 & 0 & 8 \end{bmatrix}","\lambda = -4, 0, 4, 8, 12"
+C_5x5_eig_072,symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -7 & 2 & -4 & -2 & 4 \\ 2 & -2 & 4 & 3 & 0 \\ -4 & 4 & -8 & 6 & 3 \\ -2 & 3 & 6 & -6 & 2 \\ 4 & 0 & 3 & 2 & 0 \end{bmatrix}","\lambda = -15, -11, -3, 1, 5"
+C_5x5_eig_073,symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 2 & -4 & 2 & -3 & 7 \\ -4 & 6 & 2 & 1 & -5 \\ 2 & 2 & 0 & 4 & 4 \\ -3 & 1 & 4 & 8 & -4 \\ 7 & -5 & 4 & -4 & 0 \end{bmatrix}","\lambda = -8, -4, 4, 8, 16"
+C_5x5_eig_074,symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 3 & -2 & -4 & 4 & 0 \\ -2 & 0 & 12 & 12 & -2 \\ -4 & 12 & -6 & 0 & -4 \\ 4 & 12 & 0 & 6 & 4 \\ 0 & -2 & -4 & 4 & -3 \end{bmatrix}","\lambda = -18, -9, 0, 9, 18"
+C_5x5_eig_075,symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -1 & 5 & 4 & -6 & 6 \\ 5 & 7 & 0 & -2 & -2 \\ 4 & 0 & 9 & -1 & -4 \\ -6 & -2 & -1 & 5 & 0 \\ 6 & -2 & -4 & 0 & 2 \end{bmatrix}","\lambda = -10, 2, 6, 10, 14"
+C_5x5_eig_076,symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -4 & -4 & 3 & 0 & 4 \\ -4 & -2 & -2 & -1 & -2 \\ 3 & -2 & 0 & 2 & 0 \\ 0 & -1 & 2 & 6 & 6 \\ 4 & -2 & 0 & 6 & -1 \end{bmatrix}","\lambda = -9, -5, -1, 3, 11"
+C_5x5_eig_077,symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & -7 & 2 & 3 & 4 \\ -7 & -2 & -4 & -4 & -5 \\ 2 & -4 & -2 & -4 & -2 \\ 3 & -4 & -4 & 6 & 1 \\ 4 & -5 & -2 & 1 & 4 \end{bmatrix}","\lambda = -10, -6, 2, 6, 14"
+C_5x5_eig_078,symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 3 & 0 & -4 & 1 & 5 \\ 0 & -5 & -4 & -5 & -1 \\ -4 & -4 & -1 & 6 & 6 \\ 1 & -5 & 6 & -7 & 0 \\ 5 & -1 & 6 & 0 & 5 \end{bmatrix}","\lambda = -13, -9, -1, 7, 11"
+C_5x5_eig_079,symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -8 & 0 & -1 & -2 & 3 \\ 0 & -4 & -3 & 2 & 1 \\ -1 & -3 & -2 & 4 & 0 \\ -2 & 2 & 4 & -6 & -4 \\ 3 & 1 & 0 & -4 & -10 \end{bmatrix}","\lambda = -14, -10, -6, -2, 2"
+C_5x5_eig_080,symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & 3 & -6 & -2 & -2 \\ 3 & 4 & -4 & 0 & 2 \\ -6 & -4 & -2 & 3 & 4 \\ -2 & 0 & 3 & 6 & -4 \\ -2 & 2 & 4 & -4 & -1 \end{bmatrix}","\lambda = -9, -5, 3, 7, 11"
+C_5x5_eig_081,symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -2 & 6 & 2 & -1 & 0 \\ 6 & 4 & -5 & 4 & 6 \\ 2 & -5 & -4 & 0 & -2 \\ -1 & 4 & 0 & -6 & 4 \\ 0 & 6 & -2 & 4 & 1 \end{bmatrix}","\lambda = -11, -7, -3, 1, 13"
+C_5x5_eig_082,symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -4 & 1 & -2 & -4 & 4 \\ 1 & 4 & 6 & -4 & 0 \\ -2 & 6 & 6 & 6 & -1 \\ -4 & -4 & 6 & 1 & -6 \\ 4 & 0 & -1 & -6 & -6 \end{bmatrix}","\lambda = -11, -7, -3, 9, 13"
+C_5x5_eig_083,symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & 2 & 0 & 2 & 6 \\ 2 & 0 & -6 & -2 & 6 \\ 0 & -6 & 8 & -2 & 2 \\ 2 & -2 & -2 & 4 & 4 \\ 6 & 6 & 2 & 4 & -4 \end{bmatrix}","\lambda = -12, -4, 4, 8, 12"
+C_5x5_eig_084,symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 2 & 2 & 3 & 4 & 0 \\ 2 & -3 & -2 & -4 & 4 \\ 3 & -2 & -2 & 6 & 2 \\ 4 & -4 & 6 & -4 & 3 \\ 0 & 4 & 2 & 3 & 4 \end{bmatrix}","\lambda = -11, -7, 1, 5, 9"
+C_5x5_eig_085,symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 1 & 2 & 4 & -2 & -4 \\ 2 & -9 & 9 & 0 & 3 \\ 4 & 9 & 1 & 3 & 0 \\ -2 & 0 & 3 & -5 & 1 \\ -4 & 3 & 0 & 1 & 1 \end{bmatrix}","\lambda = -15, -7, -3, 5, 9"
+C_5x5_eig_086,symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -2 & 0 & 3 & 4 & -4 \\ 0 & 8 & -2 & -1 & 6 \\ 3 & -2 & 2 & 2 & 0 \\ 4 & -1 & 2 & 0 & -2 \\ -4 & 6 & 0 & -2 & 1 \end{bmatrix}","\lambda = -7, -3, 1, 5, 13"
+C_5x5_eig_087,symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & 8 & -4 & 0 & 2 \\ 8 & 0 & 4 & -2 & 0 \\ -4 & 4 & 6 & -4 & -4 \\ 0 & -2 & -4 & 8 & 0 \\ 2 & 0 & -4 & 0 & 8 \end{bmatrix}","\lambda = -10, 2, 6, 10, 14"
+C_5x5_eig_088,symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 8 & 2 & -4 & -4 & 2 \\ 2 & 3 & -4 & 0 & 3 \\ -4 & -4 & 9 & 3 & 6 \\ -4 & 0 & 3 & 1 & -2 \\ 2 & 3 & 6 & -2 & 7 \end{bmatrix}","\lambda = -4, 0, 4, 12, 16"
+C_5x5_eig_089,symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & 0 & 2 & 4 & 6 \\ 0 & 3 & 2 & 1 & -6 \\ 2 & 2 & 5 & 0 & -5 \\ 4 & 1 & 0 & 7 & -4 \\ 6 & -6 & -5 & -4 & -3 \end{bmatrix}","\lambda = -12, 0, 4, 8, 12"
+C_5x5_eig_090,symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -5 & 5 & 0 & 6 & 1 \\ 5 & -3 & 1 & 4 & 0 \\ 0 & 1 & 7 & 6 & 5 \\ 6 & 4 & 6 & 1 & -4 \\ 1 & 0 & 5 & -4 & 5 \end{bmatrix}","\lambda = -11, -7, 1, 9, 13"
+C_5x5_eig_091,symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & -6 & 2 & -2 & 3 \\ -6 & 2 & 4 & -3 & 4 \\ 2 & 4 & 1 & -4 & 2 \\ -2 & -3 & -4 & -6 & 0 \\ 3 & 4 & 2 & 0 & -4 \end{bmatrix}","\lambda = -11, -7, -3, 5, 9"
+C_5x5_eig_092,symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -1 & 2 & -6 & -2 & 6 \\ 2 & -3 & -2 & 0 & 4 \\ -6 & -2 & 5 & -4 & 0 \\ -2 & 0 & -4 & 1 & 2 \\ 6 & 4 & 0 & 2 & -7 \end{bmatrix}","\lambda = -13, -5, -1, 3, 11"
+C_5x5_eig_093,symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 5 & 6 & -2 & 3 & 2 \\ 6 & 7 & 4 & -4 & -3 \\ -2 & 4 & 6 & -2 & -4 \\ 3 & -4 & -2 & 1 & 0 \\ 2 & -3 & -4 & 0 & -1 \end{bmatrix}","\lambda = -6, -2, 2, 10, 14"
+C_5x5_eig_094,symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 3 & -4 & 3 & -2 & 0 \\ -4 & -3 & -6 & -4 & 3 \\ 3 & -6 & -1 & 2 & -2 \\ -2 & -4 & 2 & -2 & 4 \\ 0 & 3 & -2 & 4 & 5 \end{bmatrix}","\lambda = -10, -6, 2, 6, 10"
+C_5x5_eig_095,symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 9 & 3 & 3 & -5 & 1 \\ 3 & 10 & -1 & 2 & 0 \\ 3 & -1 & -2 & 4 & 6 \\ -5 & 2 & 4 & -4 & -1 \\ 1 & 0 & 6 & -1 & 0 \end{bmatrix}","\lambda = -11, -3, 5, 9, 13"
+C_5x5_eig_096,symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 12 & -4 & 0 & -2 & 4 \\ -4 & -5 & 4 & 8 & -10 \\ 0 & 4 & 6 & 2 & -4 \\ -2 & 8 & 2 & -11 & -2 \\ 4 & -10 & -4 & -2 & -2 \end{bmatrix}","\lambda = -18, -9, 0, 9, 18"
+C_5x5_eig_097,non_symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 5 & 0 & 4 & -7 & 6 \\ -4 & 5 & 4 & -3 & 2 \\ 3 & 0 & 4 & -3 & 3 \\ -6 & 0 & -6 & 4 & -6 \\ -10 & 0 & -10 & 10 & -11 \end{bmatrix}","\lambda = -2, -1, 1, 4, 5"
+C_5x5_eig_098,non_symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 2 & 10 & 6 & 4 & 1 \\ 0 & -11 & 0 & -6 & 0 \\ 1 & 4 & -3 & 2 & -1 \\ 0 & 12 & 0 & 7 & 0 \\ 6 & 10 & 6 & 4 & -3 \end{bmatrix}","\lambda = -5, -4, -3, 1, 3"
+C_5x5_eig_099,non_symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 5 & -10 & -8 & 8 & -7 \\ -2 & -1 & 0 & -2 & 4 \\ 2 & 6 & 5 & 2 & -4 \\ 1 & -2 & 2 & 4 & 1 \\ 0 & -12 & -6 & 6 & 0 \end{bmatrix}","\lambda = -1, 0, 3, 5, 6"
+C_5x5_eig_100,non_symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -2 & -6 & -2 & 5 & -4 \\ -2 & 3 & 2 & 2 & -2 \\ 1 & -10 & -5 & -1 & 2 \\ 2 & -6 & -2 & 1 & -4 \\ 2 & -6 & -2 & -2 & -1 \end{bmatrix}","\lambda = -4, -3, -1, 1, 3"
+C_5x5_eig_101,non_symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -9 & 4 & -4 & -3 & 3 \\ -4 & -1 & -4 & -3 & 3 \\ 8 & -4 & 3 & 4 & -4 \\ -4 & -2 & 6 & 6 & -1 \\ -2 & -2 & 8 & 10 & -5 \end{bmatrix}","\lambda = -5, -3, -2, -1, 5"
+C_5x5_eig_102,non_symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 6 & 5 & 6 & -1 & -1 \\ 1 & -4 & -6 & -5 & -1 \\ -3 & 5 & 6 & 8 & 3 \\ -5 & 5 & 6 & 10 & 5 \\ 12 & 0 & 0 & -12 & -7 \end{bmatrix}","\lambda = -1, 0, 1, 5, 6"
+C_5x5_eig_103,non_symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -9 & -1 & 5 & 12 & -5 \\ 7 & -1 & -5 & -12 & 5 \\ 0 & -1 & -4 & 8 & -1 \\ -5 & 0 & 5 & 9 & -5 \\ 3 & 0 & -3 & 6 & -2 \end{bmatrix}","\lambda = -5, -3, -2, -1, 4"
+C_5x5_eig_104,non_symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -7 & 1 & 2 & 2 & 8 \\ 4 & 6 & 2 & -6 & 0 \\ -11 & 1 & 6 & 2 & 8 \\ -7 & 1 & 2 & 2 & 8 \\ -1 & 1 & 2 & -1 & 5 \end{bmatrix}","\lambda = -3, 0, 4, 5, 6"
+C_5x5_eig_105,non_symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & -3 & -3 & -3 & 2 \\ -1 & 2 & 1 & -4 & -2 \\ -5 & 7 & 2 & 7 & -2 \\ 4 & -8 & -4 & -2 & 4 \\ 3 & -6 & -3 & -6 & 2 \end{bmatrix}","\lambda = -3, -1, 0, 2, 6"
+C_5x5_eig_106,non_symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 2 & 0 & -1 & -3 & -3 \\ -3 & -1 & 1 & 3 & 3 \\ 6 & 3 & 3 & 3 & 0 \\ -1 & 1 & 1 & 3 & 3 \\ -3 & 0 & -1 & -3 & 2 \end{bmatrix}","\lambda = -1, 0, 2, 3, 5"
+C_5x5_eig_107,non_symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -5 & 8 & 12 & 5 & 4 \\ -8 & 9 & 10 & 3 & 4 \\ 4 & -2 & 1 & 2 & 0 \\ 4 & -6 & -10 & -4 & -4 \\ -7 & 7 & 6 & 0 & 2 \end{bmatrix}","\lambda = -2, -1, 1, 2, 3"
+C_5x5_eig_108,non_symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 6 & -11 & 0 & 1 & 6 \\ 5 & -10 & -10 & -1 & 5 \\ 1 & -1 & 5 & 1 & 1 \\ 5 & -5 & 0 & 6 & 5 \\ 0 & 0 & -10 & -2 & 0 \end{bmatrix}","\lambda = -5, 0, 1, 5, 6"
+C_5x5_eig_109,non_symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & -3 & 3 & 0 & 4 \\ 8 & 0 & -8 & 1 & -8 \\ 10 & -1 & -7 & 1 & -10 \\ 10 & 4 & -10 & -3 & -10 \\ -3 & -3 & 3 & 0 & 7 \end{bmatrix}","\lambda = -6, -5, 1, 3, 4"
+C_5x5_eig_110,non_symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -7 & 2 & 2 & 0 & -2 \\ -5 & 3 & -2 & 5 & -3 \\ -10 & 2 & 5 & 0 & -2 \\ -8 & 0 & 8 & -5 & 0 \\ 9 & -2 & -4 & 5 & 2 \end{bmatrix}","\lambda = -5, -1, 0, 1, 3"
+C_5x5_eig_111,non_symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -2 & 5 & 1 & -5 & -4 \\ 8 & 0 & 6 & -1 & 1 \\ -3 & -5 & -6 & 5 & 4 \\ 7 & 2 & 5 & -3 & 3 \\ 1 & 4 & 1 & -4 & -8 \end{bmatrix}","\lambda = -6, -5, -4, -3, -1"
+C_5x5_eig_112,non_symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -3 & 6 & 1 & -1 & -2 \\ 1 & 2 & 1 & 0 & 1 \\ -4 & 2 & 0 & -7 & 3 \\ 8 & -8 & 0 & 5 & 3 \\ 8 & -8 & 0 & 8 & 0 \end{bmatrix}","\lambda = -3, 0, 1, 2, 4"
+C_5x5_eig_113,non_symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 3 & 0 & 0 & 8 & -7 \\ 5 & 0 & -6 & 0 & 9 \\ -10 & 0 & 6 & -10 & 0 \\ -7 & 0 & 0 & -12 & 7 \\ -6 & 0 & 0 & -6 & 2 \end{bmatrix}","\lambda = -5, -4, 0, 2, 6"
+C_5x5_eig_114,non_symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 6 & -4 & -2 & 8 & -8 \\ -7 & -1 & -3 & -4 & 8 \\ 2 & 2 & 6 & -4 & -4 \\ -5 & 2 & 5 & -10 & 3 \\ 7 & -2 & 3 & 4 & -11 \end{bmatrix}","\lambda = -6, -3, -2, 0, 1"
+C_5x5_eig_115,non_symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -1 & 6 & 4 & 2 & 0 \\ -11 & 1 & 2 & -9 & 2 \\ 11 & 2 & 1 & 9 & -2 \\ 11 & -4 & -2 & 6 & -2 \\ 1 & 7 & 5 & 6 & 2 \end{bmatrix}","\lambda = -3, -1, 3, 4, 6"
+C_5x5_eig_116,non_symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 5 & 3 & 6 & -3 & 3 \\ 6 & -9 & -5 & -2 & -12 \\ -6 & -6 & -10 & 2 & -6 \\ 0 & -8 & -8 & -2 & -8 \\ 0 & 9 & 9 & 0 & 12 \end{bmatrix}","\lambda = -6, -2, -1, 2, 3"
+C_5x5_eig_117,non_symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 8 & 2 & -2 & -2 & -6 \\ -9 & -4 & 2 & 2 & 5 \\ -6 & 0 & 3 & 0 & 6 \\ -4 & 0 & -1 & 2 & 4 \\ 11 & 2 & -2 & -2 & -9 \end{bmatrix}","\lambda = -3, -2, 0, 2, 3"
+C_5x5_eig_118,non_symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -11 & -12 & 0 & -3 & 3 \\ 6 & 7 & 0 & 3 & -3 \\ 3 & 3 & 0 & 0 & 2 \\ 11 & 11 & 0 & 4 & -2 \\ -7 & -7 & 0 & 0 & 2 \end{bmatrix}","\lambda = -5, 0, 1, 2, 4"
+C_5x5_eig_119,non_symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 4 & -2 & 3 & -5 & 2 \\ 10 & -8 & 3 & -5 & 2 \\ -2 & 2 & -4 & 0 & 0 \\ -2 & 0 & -5 & -1 & 2 \\ 8 & -3 & 2 & -5 & -1 \end{bmatrix}","\lambda = -6, -4, -3, -1, 4"
+C_5x5_eig_120,non_symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & 6 & 11 & -8 & -3 \\ -4 & -4 & -8 & 4 & 4 \\ 0 & -6 & -1 & -2 & -1 \\ 0 & -6 & -3 & 0 & -1 \\ -8 & -8 & -4 & -4 & 4 \end{bmatrix}","\lambda = -4, -3, 0, 2, 4"
+C_5x5_eig_121,non_symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & -9 & 3 & 3 & 3 \\ -1 & -6 & 3 & -1 & 3 \\ -1 & -2 & -2 & -1 & 4 \\ -1 & -7 & 5 & -4 & 5 \\ -1 & 0 & 3 & -1 & -3 \end{bmatrix}","\lambda = -6, -5, -3, -1, 0"
+C_5x5_eig_122,non_symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 5 & 5 & -5 & 1 & 4 \\ -12 & -6 & 1 & 3 & 2 \\ -2 & 5 & -10 & 5 & 12 \\ 0 & 1 & -1 & 0 & 2 \\ 8 & 9 & -9 & 1 & 9 \end{bmatrix}","\lambda = -5, -1, 0, 1, 3"
+C_5x5_eig_123,non_symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 2 & 1 & -1 & 2 & 1 \\ -3 & -1 & -5 & 3 & 1 \\ -2 & 3 & -3 & 7 & 4 \\ 1 & 3 & 3 & 1 & 1 \\ -1 & 1 & -7 & 8 & 4 \end{bmatrix}","\lambda = -3, 0, 1, 2, 3"
+C_5x5_eig_124,non_symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 5 & 4 & -4 & -8 & 4 \\ 1 & -4 & -1 & 1 & -2 \\ 3 & 4 & -9 & -7 & 4 \\ 5 & -2 & 2 & -2 & -2 \\ 4 & -3 & 3 & 2 & -5 \end{bmatrix}","\lambda = -6, -5, -3, -2, 1"
+C_5x5_eig_125,non_symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -10 & -4 & -4 & -4 & -4 \\ 2 & 2 & 1 & 1 & 1 \\ 3 & 3 & 0 & 0 & 3 \\ 8 & 0 & 6 & 6 & 0 \\ 11 & 5 & 3 & 3 & 6 \end{bmatrix}","\lambda = -2, 0, 1, 2, 3"
+C_5x5_eig_126,non_symmetric,integer,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 1 & 5 & 0 & 3 & -2 \\ -6 & -1 & 0 & 6 & 2 \\ -11 & -4 & 0 & 11 & 5 \\ 6 & 5 & 0 & -2 & -2 \\ -6 & -4 & 0 & 6 & 5 \end{bmatrix}","\lambda = -5, 0, 1, 3, 4"

@@ -1,0 +1,141 @@
+Problem_ID,n,trig,b,problem_latex,answer_latex
+IBP_n00_sin_b10_05,0,sin,10,"Evaluate the indefinite integral.
+
+\int \sin(10x)\,dx
+
+Show all steps. Give the antiderivative (omit the constant of integration) inside \boxed{}.",- \frac{\cos{\left(10 x \right)}}{10}
+IBP_n00_cos_b06_08,0,cos,6,"Evaluate the indefinite integral.
+
+\int \cos(6x)\,dx
+
+Show all steps. Give the antiderivative (omit the constant of integration) inside \boxed{}.",\frac{\sin{\left(6 x \right)}}{6}
+IBP_n01_sin_b10_07,1,sin,10,"Evaluate the indefinite integral.
+
+\int x \sin(10x)\,dx
+
+Show all steps. Give the antiderivative (omit the constant of integration) inside \boxed{}.",- \frac{x \cos{\left(10 x \right)}}{10} + \frac{\sin{\left(10 x \right)}}{100}
+IBP_n01_cos_b09_08,1,cos,9,"Evaluate the indefinite integral.
+
+\int x \cos(9x)\,dx
+
+Show all steps. Give the antiderivative (omit the constant of integration) inside \boxed{}.",\frac{x \sin{\left(9 x \right)}}{9} + \frac{\cos{\left(9 x \right)}}{81}
+IBP_n02_sin_b04_06,2,sin,4,"Evaluate the indefinite integral.
+
+\int x^{2} \sin(4x)\,dx
+
+Show all steps. Give the antiderivative (omit the constant of integration) inside \boxed{}.",- \frac{x^{2} \cos{\left(4 x \right)}}{4} + \frac{x \sin{\left(4 x \right)}}{8} + \frac{\cos{\left(4 x \right)}}{32}
+IBP_n02_cos_b03_08,2,cos,3,"Evaluate the indefinite integral.
+
+\int x^{2} \cos(3x)\,dx
+
+Show all steps. Give the antiderivative (omit the constant of integration) inside \boxed{}.",\frac{x^{2} \sin{\left(3 x \right)}}{3} + \frac{2 x \cos{\left(3 x \right)}}{9} - \frac{2 \sin{\left(3 x \right)}}{27}
+IBP_n03_cos_b09_07,3,cos,9,"Evaluate the indefinite integral.
+
+\int x^{3} \cos(9x)\,dx
+
+Show all steps. Give the antiderivative (omit the constant of integration) inside \boxed{}.",\frac{x^{3} \sin{\left(9 x \right)}}{9} + \frac{x^{2} \cos{\left(9 x \right)}}{27} - \frac{2 x \sin{\left(9 x \right)}}{243} - \frac{2 \cos{\left(9 x \right)}}{2187}
+IBP_n04_sin_b06_01,4,sin,6,"Evaluate the indefinite integral.
+
+\int x^{4} \sin(6x)\,dx
+
+Show all steps. Give the antiderivative (omit the constant of integration) inside \boxed{}.",- \frac{x^{4} \cos{\left(6 x \right)}}{6} + \frac{x^{3} \sin{\left(6 x \right)}}{9} + \frac{x^{2} \cos{\left(6 x \right)}}{18} - \frac{x \sin{\left(6 x \right)}}{54} - \frac{\cos{\left(6 x \right)}}{324}
+IBP_n04_cos_b10_02,4,cos,10,"Evaluate the indefinite integral.
+
+\int x^{4} \cos(10x)\,dx
+
+Show all steps. Give the antiderivative (omit the constant of integration) inside \boxed{}.",\frac{x^{4} \sin{\left(10 x \right)}}{10} + \frac{x^{3} \cos{\left(10 x \right)}}{25} - \frac{3 x^{2} \sin{\left(10 x \right)}}{250} - \frac{3 x \cos{\left(10 x \right)}}{1250} + \frac{3 \sin{\left(10 x \right)}}{12500}
+IBP_n04_cos_b06_04,4,cos,6,"Evaluate the indefinite integral.
+
+\int x^{4} \cos(6x)\,dx
+
+Show all steps. Give the antiderivative (omit the constant of integration) inside \boxed{}.",\frac{x^{4} \sin{\left(6 x \right)}}{6} + \frac{x^{3} \cos{\left(6 x \right)}}{9} - \frac{x^{2} \sin{\left(6 x \right)}}{18} - \frac{x \cos{\left(6 x \right)}}{54} + \frac{\sin{\left(6 x \right)}}{324}
+IBP_n05_sin_b02_06,5,sin,2,"Evaluate the indefinite integral.
+
+\int x^{5} \sin(2x)\,dx
+
+Show all steps. Give the antiderivative (omit the constant of integration) inside \boxed{}.",- \frac{x^{5} \cos{\left(2 x \right)}}{2} + \frac{5 x^{4} \sin{\left(2 x \right)}}{4} + \frac{5 x^{3} \cos{\left(2 x \right)}}{2} - \frac{15 x^{2} \sin{\left(2 x \right)}}{4} - \frac{15 x \cos{\left(2 x \right)}}{4} + \frac{15 \sin{\left(2 x \right)}}{8}
+IBP_n05_cos_b09_06,5,cos,9,"Evaluate the indefinite integral.
+
+\int x^{5} \cos(9x)\,dx
+
+Show all steps. Give the antiderivative (omit the constant of integration) inside \boxed{}.",\frac{x^{5} \sin{\left(9 x \right)}}{9} + \frac{5 x^{4} \cos{\left(9 x \right)}}{81} - \frac{20 x^{3} \sin{\left(9 x \right)}}{729} - \frac{20 x^{2} \cos{\left(9 x \right)}}{2187} + \frac{40 x \sin{\left(9 x \right)}}{19683} + \frac{40 \cos{\left(9 x \right)}}{177147}
+IBP_n05_cos_b08_09,5,cos,8,"Evaluate the indefinite integral.
+
+\int x^{5} \cos(8x)\,dx
+
+Show all steps. Give the antiderivative (omit the constant of integration) inside \boxed{}.",\frac{x^{5} \sin{\left(8 x \right)}}{8} + \frac{5 x^{4} \cos{\left(8 x \right)}}{64} - \frac{5 x^{3} \sin{\left(8 x \right)}}{128} - \frac{15 x^{2} \cos{\left(8 x \right)}}{1024} + \frac{15 x \sin{\left(8 x \right)}}{4096} + \frac{15 \cos{\left(8 x \right)}}{32768}
+IBP_n06_cos_b01_08,6,cos,1,"Evaluate the indefinite integral.
+
+\int x^{6} \cos(x)\,dx
+
+Show all steps. Give the antiderivative (omit the constant of integration) inside \boxed{}.",x^{6} \sin{\left(x \right)} + 6 x^{5} \cos{\left(x \right)} - 30 x^{4} \sin{\left(x \right)} - 120 x^{3} \cos{\left(x \right)} + 360 x^{2} \sin{\left(x \right)} + 720 x \cos{\left(x \right)} - 720 \sin{\left(x \right)}
+IBP_n07_sin_b10_02,7,sin,10,"Evaluate the indefinite integral.
+
+\int x^{7} \sin(10x)\,dx
+
+Show all steps. Give the antiderivative (omit the constant of integration) inside \boxed{}.",- \frac{x^{7} \cos{\left(10 x \right)}}{10} + \frac{7 x^{6} \sin{\left(10 x \right)}}{100} + \frac{21 x^{5} \cos{\left(10 x \right)}}{500} - \frac{21 x^{4} \sin{\left(10 x \right)}}{1000} - \frac{21 x^{3} \cos{\left(10 x \right)}}{2500} + \frac{63 x^{2} \sin{\left(10 x \right)}}{25000} + \frac{63 x \cos{\left(10 x \right)}}{125000} - \frac{63 \sin{\left(10 x \right)}}{1250000}
+IBP_n07_sin_b08_07,7,sin,8,"Evaluate the indefinite integral.
+
+\int x^{7} \sin(8x)\,dx
+
+Show all steps. Give the antiderivative (omit the constant of integration) inside \boxed{}.",- \frac{x^{7} \cos{\left(8 x \right)}}{8} + \frac{7 x^{6} \sin{\left(8 x \right)}}{64} + \frac{21 x^{5} \cos{\left(8 x \right)}}{256} - \frac{105 x^{4} \sin{\left(8 x \right)}}{2048} - \frac{105 x^{3} \cos{\left(8 x \right)}}{4096} + \frac{315 x^{2} \sin{\left(8 x \right)}}{32768} + \frac{315 x \cos{\left(8 x \right)}}{131072} - \frac{315 \sin{\left(8 x \right)}}{1048576}
+IBP_n08_sin_b10_08,8,sin,10,"Evaluate the indefinite integral.
+
+\int x^{8} \sin(10x)\,dx
+
+Show all steps. Give the antiderivative (omit the constant of integration) inside \boxed{}.",- \frac{x^{8} \cos{\left(10 x \right)}}{10} + \frac{2 x^{7} \sin{\left(10 x \right)}}{25} + \frac{7 x^{6} \cos{\left(10 x \right)}}{125} - \frac{21 x^{5} \sin{\left(10 x \right)}}{625} - \frac{21 x^{4} \cos{\left(10 x \right)}}{1250} + \frac{21 x^{3} \sin{\left(10 x \right)}}{3125} + \frac{63 x^{2} \cos{\left(10 x \right)}}{31250} - \frac{63 x \sin{\left(10 x \right)}}{156250} - \frac{63 \cos{\left(10 x \right)}}{1562500}
+IBP_n08_cos_b04_04,8,cos,4,"Evaluate the indefinite integral.
+
+\int x^{8} \cos(4x)\,dx
+
+Show all steps. Give the antiderivative (omit the constant of integration) inside \boxed{}.",\frac{x^{8} \sin{\left(4 x \right)}}{4} + \frac{x^{7} \cos{\left(4 x \right)}}{2} - \frac{7 x^{6} \sin{\left(4 x \right)}}{8} - \frac{21 x^{5} \cos{\left(4 x \right)}}{16} + \frac{105 x^{4} \sin{\left(4 x \right)}}{64} + \frac{105 x^{3} \cos{\left(4 x \right)}}{64} - \frac{315 x^{2} \sin{\left(4 x \right)}}{256} - \frac{315 x \cos{\left(4 x \right)}}{512} + \frac{315 \sin{\left(4 x \right)}}{2048}
+IBP_n09_sin_b04_00,9,sin,4,"Evaluate the indefinite integral.
+
+\int x^{9} \sin(4x)\,dx
+
+Show all steps. Give the antiderivative (omit the constant of integration) inside \boxed{}.",- \frac{x^{9} \cos{\left(4 x \right)}}{4} + \frac{9 x^{8} \sin{\left(4 x \right)}}{16} + \frac{9 x^{7} \cos{\left(4 x \right)}}{8} - \frac{63 x^{6} \sin{\left(4 x \right)}}{32} - \frac{189 x^{5} \cos{\left(4 x \right)}}{64} + \frac{945 x^{4} \sin{\left(4 x \right)}}{256} + \frac{945 x^{3} \cos{\left(4 x \right)}}{256} - \frac{2835 x^{2} \sin{\left(4 x \right)}}{1024} - \frac{2835 x \cos{\left(4 x \right)}}{2048} + \frac{2835 \sin{\left(4 x \right)}}{8192}
+IBP_n09_cos_b08_09,9,cos,8,"Evaluate the indefinite integral.
+
+\int x^{9} \cos(8x)\,dx
+
+Show all steps. Give the antiderivative (omit the constant of integration) inside \boxed{}.",\frac{x^{9} \sin{\left(8 x \right)}}{8} + \frac{9 x^{8} \cos{\left(8 x \right)}}{64} - \frac{9 x^{7} \sin{\left(8 x \right)}}{64} - \frac{63 x^{6} \cos{\left(8 x \right)}}{512} + \frac{189 x^{5} \sin{\left(8 x \right)}}{2048} + \frac{945 x^{4} \cos{\left(8 x \right)}}{16384} - \frac{945 x^{3} \sin{\left(8 x \right)}}{32768} - \frac{2835 x^{2} \cos{\left(8 x \right)}}{262144} + \frac{2835 x \sin{\left(8 x \right)}}{1048576} + \frac{2835 \cos{\left(8 x \right)}}{8388608}
+IBP_n10_sin_b05_06,10,sin,5,"Evaluate the indefinite integral.
+
+\int x^{10} \sin(5x)\,dx
+
+Show all steps. Give the antiderivative (omit the constant of integration) inside \boxed{}.",- \frac{x^{10} \cos{\left(5 x \right)}}{5} + \frac{2 x^{9} \sin{\left(5 x \right)}}{5} + \frac{18 x^{8} \cos{\left(5 x \right)}}{25} - \frac{144 x^{7} \sin{\left(5 x \right)}}{125} - \frac{1008 x^{6} \cos{\left(5 x \right)}}{625} + \frac{6048 x^{5} \sin{\left(5 x \right)}}{3125} + \frac{6048 x^{4} \cos{\left(5 x \right)}}{3125} - \frac{24192 x^{3} \sin{\left(5 x \right)}}{15625} - \frac{72576 x^{2} \cos{\left(5 x \right)}}{78125} + \frac{145152 x \sin{\left(5 x \right)}}{390625} + \frac{145152 \cos{\left(5 x \right)}}{1953125}
+IBP_n10_sin_b01_07,10,sin,1,"Evaluate the indefinite integral.
+
+\int x^{10} \sin(x)\,dx
+
+Show all steps. Give the antiderivative (omit the constant of integration) inside \boxed{}.",- x^{10} \cos{\left(x \right)} + 10 x^{9} \sin{\left(x \right)} + 90 x^{8} \cos{\left(x \right)} - 720 x^{7} \sin{\left(x \right)} - 5040 x^{6} \cos{\left(x \right)} + 30240 x^{5} \sin{\left(x \right)} + 151200 x^{4} \cos{\left(x \right)} - 604800 x^{3} \sin{\left(x \right)} - 1814400 x^{2} \cos{\left(x \right)} + 3628800 x \sin{\left(x \right)} + 3628800 \cos{\left(x \right)}
+IBP_n11_sin_b10_01,11,sin,10,"Evaluate the indefinite integral.
+
+\int x^{11} \sin(10x)\,dx
+
+Show all steps. Give the antiderivative (omit the constant of integration) inside \boxed{}.",- \frac{x^{11} \cos{\left(10 x \right)}}{10} + \frac{11 x^{10} \sin{\left(10 x \right)}}{100} + \frac{11 x^{9} \cos{\left(10 x \right)}}{100} - \frac{99 x^{8} \sin{\left(10 x \right)}}{1000} - \frac{99 x^{7} \cos{\left(10 x \right)}}{1250} + \frac{693 x^{6} \sin{\left(10 x \right)}}{12500} + \frac{2079 x^{5} \cos{\left(10 x \right)}}{62500} - \frac{2079 x^{4} \sin{\left(10 x \right)}}{125000} - \frac{2079 x^{3} \cos{\left(10 x \right)}}{312500} + \frac{6237 x^{2} \sin{\left(10 x \right)}}{3125000} + \frac{6237 x \cos{\left(10 x \right)}}{15625000} - \frac{6237 \sin{\left(10 x \right)}}{156250000}
+IBP_n13_cos_b08_05,13,cos,8,"Evaluate the indefinite integral.
+
+\int x^{13} \cos(8x)\,dx
+
+Show all steps. Give the antiderivative (omit the constant of integration) inside \boxed{}.",\frac{x^{13} \sin{\left(8 x \right)}}{8} + \frac{13 x^{12} \cos{\left(8 x \right)}}{64} - \frac{39 x^{11} \sin{\left(8 x \right)}}{128} - \frac{429 x^{10} \cos{\left(8 x \right)}}{1024} + \frac{2145 x^{9} \sin{\left(8 x \right)}}{4096} + \frac{19305 x^{8} \cos{\left(8 x \right)}}{32768} - \frac{19305 x^{7} \sin{\left(8 x \right)}}{32768} - \frac{135135 x^{6} \cos{\left(8 x \right)}}{262144} + \frac{405405 x^{5} \sin{\left(8 x \right)}}{1048576} + \frac{2027025 x^{4} \cos{\left(8 x \right)}}{8388608} - \frac{2027025 x^{3} \sin{\left(8 x \right)}}{16777216} - \frac{6081075 x^{2} \cos{\left(8 x \right)}}{134217728} + \frac{6081075 x \sin{\left(8 x \right)}}{536870912} + \frac{6081075 \cos{\left(8 x \right)}}{4294967296}
+IBP_n13_cos_b06_08,13,cos,6,"Evaluate the indefinite integral.
+
+\int x^{13} \cos(6x)\,dx
+
+Show all steps. Give the antiderivative (omit the constant of integration) inside \boxed{}.",\frac{x^{13} \sin{\left(6 x \right)}}{6} + \frac{13 x^{12} \cos{\left(6 x \right)}}{36} - \frac{13 x^{11} \sin{\left(6 x \right)}}{18} - \frac{143 x^{10} \cos{\left(6 x \right)}}{108} + \frac{715 x^{9} \sin{\left(6 x \right)}}{324} + \frac{715 x^{8} \cos{\left(6 x \right)}}{216} - \frac{715 x^{7} \sin{\left(6 x \right)}}{162} - \frac{5005 x^{6} \cos{\left(6 x \right)}}{972} + \frac{5005 x^{5} \sin{\left(6 x \right)}}{972} + \frac{25025 x^{4} \cos{\left(6 x \right)}}{5832} - \frac{25025 x^{3} \sin{\left(6 x \right)}}{8748} - \frac{25025 x^{2} \cos{\left(6 x \right)}}{17496} + \frac{25025 x \sin{\left(6 x \right)}}{52488} + \frac{25025 \cos{\left(6 x \right)}}{314928}
+IBP_n15_sin_b06_09,15,sin,6,"Evaluate the indefinite integral.
+
+\int x^{15} \sin(6x)\,dx
+
+Show all steps. Give the antiderivative (omit the constant of integration) inside \boxed{}.",- \frac{x^{15} \cos{\left(6 x \right)}}{6} + \frac{5 x^{14} \sin{\left(6 x \right)}}{12} + \frac{35 x^{13} \cos{\left(6 x \right)}}{36} - \frac{455 x^{12} \sin{\left(6 x \right)}}{216} - \frac{455 x^{11} \cos{\left(6 x \right)}}{108} + \frac{5005 x^{10} \sin{\left(6 x \right)}}{648} + \frac{25025 x^{9} \cos{\left(6 x \right)}}{1944} - \frac{25025 x^{8} \sin{\left(6 x \right)}}{1296} - \frac{25025 x^{7} \cos{\left(6 x \right)}}{972} + \frac{175175 x^{6} \sin{\left(6 x \right)}}{5832} + \frac{175175 x^{5} \cos{\left(6 x \right)}}{5832} - \frac{875875 x^{4} \sin{\left(6 x \right)}}{34992} - \frac{875875 x^{3} \cos{\left(6 x \right)}}{52488} + \frac{875875 x^{2} \sin{\left(6 x \right)}}{104976} + \frac{875875 x \cos{\left(6 x \right)}}{314928} - \frac{875875 \sin{\left(6 x \right)}}{1889568}
+IBP_n15_cos_b04_00,15,cos,4,"Evaluate the indefinite integral.
+
+\int x^{15} \cos(4x)\,dx
+
+Show all steps. Give the antiderivative (omit the constant of integration) inside \boxed{}.",\frac{x^{15} \sin{\left(4 x \right)}}{4} + \frac{15 x^{14} \cos{\left(4 x \right)}}{16} - \frac{105 x^{13} \sin{\left(4 x \right)}}{32} - \frac{1365 x^{12} \cos{\left(4 x \right)}}{128} + \frac{4095 x^{11} \sin{\left(4 x \right)}}{128} + \frac{45045 x^{10} \cos{\left(4 x \right)}}{512} - \frac{225225 x^{9} \sin{\left(4 x \right)}}{1024} - \frac{2027025 x^{8} \cos{\left(4 x \right)}}{4096} + \frac{2027025 x^{7} \sin{\left(4 x \right)}}{2048} + \frac{14189175 x^{6} \cos{\left(4 x \right)}}{8192} - \frac{42567525 x^{5} \sin{\left(4 x \right)}}{16384} - \frac{212837625 x^{4} \cos{\left(4 x \right)}}{65536} + \frac{212837625 x^{3} \sin{\left(4 x \right)}}{65536} + \frac{638512875 x^{2} \cos{\left(4 x \right)}}{262144} - \frac{638512875 x \sin{\left(4 x \right)}}{524288} - \frac{638512875 \cos{\left(4 x \right)}}{2097152}
+IBP_n16_sin_b08_07,16,sin,8,"Evaluate the indefinite integral.
+
+\int x^{16} \sin(8x)\,dx
+
+Show all steps. Give the antiderivative (omit the constant of integration) inside \boxed{}.",- \frac{x^{16} \cos{\left(8 x \right)}}{8} + \frac{x^{15} \sin{\left(8 x \right)}}{4} + \frac{15 x^{14} \cos{\left(8 x \right)}}{32} - \frac{105 x^{13} \sin{\left(8 x \right)}}{128} - \frac{1365 x^{12} \cos{\left(8 x \right)}}{1024} + \frac{4095 x^{11} \sin{\left(8 x \right)}}{2048} + \frac{45045 x^{10} \cos{\left(8 x \right)}}{16384} - \frac{225225 x^{9} \sin{\left(8 x \right)}}{65536} - \frac{2027025 x^{8} \cos{\left(8 x \right)}}{524288} + \frac{2027025 x^{7} \sin{\left(8 x \right)}}{524288} + \frac{14189175 x^{6} \cos{\left(8 x \right)}}{4194304} - \frac{42567525 x^{5} \sin{\left(8 x \right)}}{16777216} - \frac{212837625 x^{4} \cos{\left(8 x \right)}}{134217728} + \frac{212837625 x^{3} \sin{\left(8 x \right)}}{268435456} + \frac{638512875 x^{2} \cos{\left(8 x \right)}}{2147483648} - \frac{638512875 x \sin{\left(8 x \right)}}{8589934592} - \frac{638512875 \cos{\left(8 x \right)}}{68719476736}

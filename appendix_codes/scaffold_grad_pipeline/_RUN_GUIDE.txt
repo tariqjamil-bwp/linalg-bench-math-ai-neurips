@@ -1,0 +1,124 @@
+════════════════════════════════════════════════════════════════════════════
+  SCAFFOLD GRADIENT — RUN GUIDE
+  appendix_data_codes/scaffold_grad_pipeline/
+════════════════════════════════════════════════════════════════════════════
+
+REQUIREMENTS
+────────────
+Python 3.10+ with pandas and openpyxl. ANTHROPIC_API_KEY, GEMINI_API_KEY and
+OPENROUTER_API_KEY set in .env (Claude and Gemini are called on their own
+native APIs; Qwen is pinned to the alibaba OpenRouter endpoint). Copy the
+repo root's .env.example to .env and fill these in — one file, shared by
+every pipeline under appendix_codes/. Run every command from this directory.
+
+DIRECTORY LAYOUT
+─────────────────
+  scaffold_grad_pipeline/        code and inputs, no run output
+    source/                      the three input/frozen CSVs
+  <projects-root>/               named by --projects-root, no default
+    eigenvalue/                  named by --subcat (only value: "eigenvalue")
+      Claude-4.5-Sonnet/
+        run1_abort/              the abort-check cell (STEP 1)
+        run2_full/               the full grid (STEP 2)
+      Gemini-3.1-Pro/
+      Qwen3-235B/
+      deliverables/              the three final output files, flat
+
+All inputs live in this directory; <projects-root> holds only run output and
+must already exist. There is no default and no environment-variable fallback.
+Throughout this guide: ROOT=../projects
+
+────────────────────────────────────────────────────────────────────────────
+  FILES
+────────────────────────────────────────────────────────────────────────────
+  scaffold_paths.py               the projects/{model}/run{n} output layout
+  scaffold_levels.py              the six prompt levels; the level x model matrix
+  scaffold_pools.py               builds + freezes the four problem pools
+  scaffold_grade.py               the grading rule and symbolic_stop gate
+  scaffold_abort_check.py         the replication gate and its marker file
+  scaffold_run_live.py            the inference runner, all three models
+  scaffold_build_deliverables.py  builds the three final output files
+  scaffold_stepcode_worksheet.py  the human coding sheets (openpyxl, dropdowns)
+  scaffold_kappa.py               Cohen's kappa, 0.70 threshold enforced
+  subcat_config.py                the eigenvalue grading tolerance
+  models.py                       the model registry and provider pins
+  inference_llm.py                the provider transport layer
+  textguard.py                    refuses prompts carrying control characters
+
+  source/scaffold_source.csv              the 120-problem input
+  source/scaffold_pools.csv               the frozen 90-problem pool (STEP 0)
+  source/scaffold_published_baseline.csv  the 30 published Claude responses
+                                          the replication check re-grades
+  scaffold_abort_passed.json              the replication-gate marker (STEP 1)
+
+────────────────────────────────────────────────────────────────────────────
+  THE RUN
+────────────────────────────────────────────────────────────────────────────
+
+STEP 0 — freeze the pools and verify the grader (free, no API)
+
+    ROOT=../projects
+
+    python3 scaffold_pools.py --source ./source
+    python3 scaffold_grade.py --selftest --replicate
+
+  scaffold_pools.py prints 20 PASS lines and writes source/scaffold_pools.csv.
+  scaffold_grade.py prints 25 PASS lines (24 grader self-tests plus the
+  replication) and "CORRECT: 0/30".
+
+STEP 1 — the abort check (must pass before anything else runs)
+
+    python3 scaffold_run_live.py --projects-root $ROOT \
+        --model Claude-4.5-Sonnet --abort-check
+    python3 scaffold_abort_check.py \
+        --results $ROOT/eigenvalue/Claude-4.5-Sonnet/run1_abort/Scaffold_Claude-4.5-Sonnet_run1_abort_response.jsonl
+
+  90 calls. On pass it writes scaffold_abort_passed.json; every other
+  scaffold_run_live.py cell refuses to run without it. --abort-check is the
+  one run exempt from that check, since it is what creates the marker.
+
+STEP 2 — the full grid, all three models
+
+    python3 scaffold_run_live.py --projects-root $ROOT --model Claude-4.5-Sonnet
+    python3 scaffold_run_live.py --projects-root $ROOT --model Gemini-3.1-Pro
+    python3 scaffold_run_live.py --projects-root $ROOT --model Qwen3-235B
+
+  Each lands in $ROOT/eigenvalue/{model}/run2_full/. Resumable: pass the same
+  --run number to continue a partial run instead of starting a new one, e.g.
+
+    python3 scaffold_run_live.py --projects-root $ROOT --model Claude-4.5-Sonnet --run 2
+
+STEP 3 — deliverables
+
+    python3 scaffold_build_deliverables.py --projects-root $ROOT
+
+  Reads every run of every model under $ROOT/eigenvalue/ and writes to
+  $ROOT/eigenvalue/deliverables/:
+    scaffold_results_raw.csv
+    scaffold_results_aggregated.csv
+    scaffold_run_summary.json
+
+  Requires scaffold_abort_passed.json (use --no-abort-marker only to inspect
+  a partial run; output from that flag must not be sent out).
+
+  This is the last step. step_error_code is "NA" on every row and kappa is
+  null: the step-error taxonomy is not part of this run.
+
+────────────────────────────────────────────────────────────────────────────
+  COMMAND-LINE FLAGS
+────────────────────────────────────────────────────────────────────────────
+  --projects-root   required by scaffold_run_live.py,
+                    scaffold_build_deliverables.py and
+                    scaffold_stepcode_worksheet.py. The output tree; must
+                    already exist.
+  --subcat          optional on those same three, default "eigenvalue"; no
+                    other value is served.
+  --source          required by scaffold_pools.py; the directory holding
+                    scaffold_source.csv.
+  --results         the response JSONL to grade (scaffold_abort_check.py);
+                    an optional override for the response-file glob
+                    (scaffold_build_deliverables.py).
+  --output          optional override for the run or output directory.
+  --run             resume an existing run by number instead of starting one.
+  --max-tokens      override a model's provider token ceiling (refused, not
+                    clipped, if set above the cap).

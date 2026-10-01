@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "linalgbench"
+version = "1.0.0"
+description = "LinAlg-Bench: Where LLMs Stop Computing and Start Hallucinating"
+authors = [
+    {name = "Dr. Shradha's Research Team"},
+]
+license = {text = "CC-BY-4.0"}
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "openai>=2.0",
+    "google-genai>=1.0",
+    "pandas>=2.0",
+    "numpy>=1.24",
+    "openpyxl>=3.1",
+    "tqdm>=4.60",
+    "python-dotenv>=1.0",
+    "json-repair",
+    "sympy",
+    "anthropic",
+    "scipy",
+    "matplotlib",
+    "requests>=2.32.0",
+]
+
+[project.urls]
+Source = "https://github.com/shradhautk/linalg-bench-llms-and-maths"
+
+[tool.setuptools.packages.find]
+include = ["judge_prompts*"]
