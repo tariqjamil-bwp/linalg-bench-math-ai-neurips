@@ -1,6 +1,6 @@
 # LinAlg-Bench
 
-**LinAlg-Bench** is a diagnostic benchmark for evaluating LLM reasoning on linear algebra problems across 9 operation types and 3 matrix sizes (3×3, 4×4, 5×5). Beyond accuracy measurement, it includes a three-stage forensic pipeline that classifies the root cause of every model failure into a 13-category error taxonomy.
+**LinAlg-Bench** is a diagnostic benchmark for evaluating LLM reasoning on linear algebra problems across 9 operation types and 3 matrix sizes (3×3, 4×4, 5×5). Beyond accuracy measurement, it includes a three-stage forensic pipeline that classifies the root cause of every model failure into the paper's fourteen-tag error taxonomy (ten primary tags; 13 of the 14 tags appear in the released annotations — one tag was never assigned by the judges).
 
 ---
 
@@ -22,7 +22,7 @@ pip install uv
 **2. Download the code and install dependencies**
 
 ```bash
-git clone https://github.com/tariqjamil-bwp/linalg-bench-math-ai-neurips.git
+git clone https://github.com/shradhautk/linalg-bench-math-ai-neurips.git
 cd linalg-bench-math-ai-neurips
 
 uv venv                  # creates .venv/
@@ -202,6 +202,8 @@ data/
         {subcat}_judge_validated.csv # Stage 3 output
 ```
 
+`paper_snapshot/` holds the frozen 660-problem baseline and results exactly as reported in the MATH-AI 2026 paper.
+
 All pipeline output is written to `data/output/{Model}/` — this is the central location for results, failures JSONL, and judge CSVs.
 
 ---
@@ -223,7 +225,7 @@ All pipeline output is written to `data/output/{Model}/` — this is the central
 @inproceedings{agarwal2026linalgbench,
   title     = {LinAlg-Bench: A Benchmark Exposing Structural Failure Modes in LLM Linear
                Algebra -- Where Models Stop Computing and Start Hallucinating},
-  author    = {Agarwal, Shradha and Jamil, Tariq and Rajbhar, Deepak},
+  author    = {Agarwal, Shradha and J., Tariq and Rajbhar, Deepak},
   booktitle = {NeurIPS 2026 Workshop on Mathematical Reasoning and AI (MATH-AI)},
   year      = {2026}
 }
