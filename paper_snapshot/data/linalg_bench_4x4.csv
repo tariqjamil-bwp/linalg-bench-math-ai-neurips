@@ -1,0 +1,221 @@
+Problem_ID,Subcat,problem_latex,answer_latex
+C_4x4_det_001,determinant,A = \begin{bmatrix} -4 & 1 & 5 & 3 \\ -1 & -2 & 0 & -3 \\ 1 & -5 & 4 & 2 \\ -5 & 2 & -1 & -4 \end{bmatrix},\det(A) = 97
+C_4x4_det_002,determinant,A = \begin{bmatrix} -5 & 1 & 4 & -1 \\ -2 & -5 & -4 & 5 \\ 4 & -1 & -1 & 4 \\ 1 & 1 & 4 & 3 \end{bmatrix},\det(A) = -28
+C_4x4_det_003,determinant,A = \begin{bmatrix} 0 & -5 & -2 & -1 \\ -4 & 0 & 4 & 3 \\ -4 & -2 & -3 & -2 \\ 3 & 2 & -2 & 4 \end{bmatrix},\det(A) = 707
+C_4x4_det_004,determinant,A = \begin{bmatrix} 1 & -5 & 0 & 5 \\ 1 & 3 & 2 & -5 \\ 2 & -3 & -1 & -1 \\ -5 & -1 & -4 & -3 \end{bmatrix},\det(A) = 276
+C_4x4_det_005,determinant,A = \begin{bmatrix} -5 & -4 & -5 & -2 \\ -2 & -5 & -1 & -2 \\ -2 & -3 & 4 & 0 \\ 2 & 0 & 2 & 4 \end{bmatrix},\det(A) = 368
+C_4x4_det_006,determinant,A = \begin{bmatrix} 2 & -5 & -2 & 0 \\ -4 & 0 & -4 & -3 \\ 1 & -4 & 0 & -2 \\ -2 & 3 & -2 & -4 \end{bmatrix},\det(A) = 224
+C_4x4_det_007,determinant,A = \begin{bmatrix} -1 & 1 & 1 & -3 \\ -5 & 1 & 1 & -5 \\ 3 & -5 & 4 & 1 \\ 4 & -4 & -1 & 5 \end{bmatrix},\det(A) = -96
+C_4x4_det_008,determinant,A = \begin{bmatrix} -4 & 0 & -1 & 5 \\ 1 & 0 & -2 & 5 \\ 4 & 2 & -5 & 2 \\ -5 & 3 & -5 & 5 \end{bmatrix},\det(A) = -51
+C_4x4_det_009,determinant,A = \begin{bmatrix} 2 & 0 & -5 & -3 \\ 1 & 5 & 3 & 4 \\ -5 & -5 & 1 & -4 \\ 2 & 4 & -4 & -1 \end{bmatrix},\det(A) = -60
+C_4x4_det_010,determinant,A = \begin{bmatrix} -2 & 0 & -1 & -2 \\ -1 & -3 & 4 & -4 \\ 1 & 4 & -5 & 3 \\ -1 & -1 & -1 & -2 \end{bmatrix},\det(A) = -24
+C_4x4_det_011,determinant,A = \begin{bmatrix} -4 & -4 & 3 & 1 \\ -2 & 1 & 1 & 4 \\ 5 & 3 & 1 & -1 \\ -1 & 2 & -2 & -3 \end{bmatrix},\det(A) = 288
+C_4x4_det_012,determinant,A = \begin{bmatrix} 4 & 4 & -3 & -1 \\ 4 & 1 & -5 & -4 \\ 2 & -5 & -2 & 3 \\ 2 & -1 & -5 & -1 \end{bmatrix},\det(A) = -314
+C_4x4_det_013,determinant,A = \begin{bmatrix} 2 & 3 & 2 & 1 \\ 3 & 0 & 4 & -2 \\ -2 & 3 & -3 & 1 \\ 4 & -1 & 0 & -4 \end{bmatrix},\det(A) = 135
+C_4x4_det_014,determinant,A = \begin{bmatrix} 3 & 2 & -5 & 4 \\ -2 & -1 & -2 & -3 \\ 5 & -2 & 4 & -3 \\ 1 & 4 & 4 & -4 \end{bmatrix},\det(A) = 1031
+C_4x4_det_015,determinant,A = \begin{bmatrix} 2 & -4 & 1 & 1 \\ 4 & -1 & 5 & -1 \\ 0 & 0 & 2 & -4 \\ -5 & 0 & -1 & 5 \end{bmatrix},\det(A) = 414
+C_4x4_det_016,determinant,A = \begin{bmatrix} 4 & 5 & -4 & 2 \\ -5 & 0 & 0 & 4 \\ -3 & -2 & -5 & 3 \\ -5 & -2 & 3 & -1 \end{bmatrix},\det(A) = 388
+C_4x4_det_017,determinant,A = \begin{bmatrix} 3 & 5 & -3 & 5 \\ -1 & 3 & 3 & 1 \\ -4 & -3 & 3 & -3 \\ 5 & -4 & 0 & -3 \end{bmatrix},\det(A) = -72
+C_4x4_det_018,determinant,A = \begin{bmatrix} 1 & -5 & 0 & 5 \\ 4 & 5 & -4 & -2 \\ 5 & 0 & -2 & 3 \\ 5 & 2 & 5 & -4 \end{bmatrix},\det(A) = -262
+C_4x4_det_019,determinant,A = \begin{bmatrix} 1 & 5 & -4 & 3 \\ 4 & 1 & 3 & -1 \\ -2 & 0 & -5 & -1 \\ 2 & 0 & 5 & 4 \end{bmatrix},\det(A) = 171
+C_4x4_det_020,determinant,A = \begin{bmatrix} 3 & 0 & 5 & 0 \\ -4 & 5 & -2 & 2 \\ -5 & -5 & -2 & -5 \\ -3 & -1 & -4 & 5 \end{bmatrix},\det(A) = 978
+C_4x4_det_021,determinant,A = \begin{bmatrix} 0 & -5 & 0 & -5 \\ 3 & 5 & 3 & 2 \\ -5 & -2 & 1 & 1 \\ -1 & -1 & 3 & 3 \end{bmatrix},\det(A) = 390
+C_4x4_det_022,determinant,A = \begin{bmatrix} -2 & -4 & 3 & -2 \\ -2 & 2 & 2 & 4 \\ -3 & 4 & 4 & 0 \\ -1 & 5 & 5 & -5 \end{bmatrix},\det(A) = -238
+C_4x4_det_023,determinant,A = \begin{bmatrix} 3 & -1 & 3 & 1 \\ -3 & -3 & 3 & -1 \\ 5 & 0 & -2 & -2 \\ 1 & 3 & -2 & 1 \end{bmatrix},\det(A) = -52
+C_4x4_det_024,determinant,A = \begin{bmatrix} -4 & 5 & 3 & 4 \\ 4 & -2 & 1 & -5 \\ 3 & 5 & -5 & 1 \\ -3 & -1 & -5 & -4 \end{bmatrix},\det(A) = -1561
+C_4x4_det_025,determinant,A = \begin{bmatrix} -3 & -1 & 0 & -5 \\ -1 & 2 & 2 & 0 \\ -2 & 5 & -1 & -4 \\ 0 & -1 & 5 & 2 \end{bmatrix},\det(A) = -82
+C_4x4_det_026,determinant,A = \begin{bmatrix} 5 & -4 & 1 & 3 \\ -2 & 2 & 3 & 4 \\ 1 & 1 & -4 & -1 \\ 2 & 3 & -2 & -2 \end{bmatrix},\det(A) = 382
+C_4x4_det_027,determinant,A = \begin{bmatrix} 2 & -5 & -3 & 3 \\ 2 & 3 & 3 & 4 \\ -2 & -1 & 1 & 3 \\ -1 & 2 & -4 & -2 \end{bmatrix},\det(A) = 536
+C_4x4_det_028,determinant,A = \begin{bmatrix} 2 & 3 & -5 & 5 \\ 3 & -2 & 2 & -2 \\ -4 & 1 & 4 & 4 \\ -5 & 1 & -5 & 5 \end{bmatrix},\det(A) = -528
+C_4x4_det_029,determinant,A = \begin{bmatrix} -1 & 5 & 0 & 2 \\ -5 & 2 & 1 & -4 \\ -1 & -2 & -5 & 3 \\ 2 & -1 & -2 & -3 \end{bmatrix},\det(A) = 741
+C_4x4_det_030,determinant,A = \begin{bmatrix} 3 & -5 & 0 & -3 \\ -5 & 1 & -2 & 5 \\ 2 & -1 & 5 & 3 \\ 0 & -4 & -5 & 4 \end{bmatrix},\det(A) = -814
+C_4x4_det_031,determinant,A = \begin{bmatrix} -5 & -4 & 2 & 2 \\ -5 & -2 & -2 & -2 \\ -5 & 4 & 3 & -2 \\ -4 & -3 & -2 & -3 \end{bmatrix},\det(A) = 330
+C_4x4_det_032,determinant,A = \begin{bmatrix} 5 & -1 & -5 & -1 \\ -5 & -5 & 3 & -1 \\ 2 & 5 & -3 & -5 \\ 4 & 4 & 3 & -3 \end{bmatrix},\det(A) = -1356
+C_4x4_det_033,determinant,A = \begin{bmatrix} 4 & -5 & 2 & 3 \\ -2 & 3 & -1 & 2 \\ 5 & -3 & -3 & 0 \\ 2 & 0 & 0 & 3 \end{bmatrix},\det(A) = 123
+C_4x4_det_034,determinant,A = \begin{bmatrix} 0 & 4 & 2 & -4 \\ -3 & -1 & -2 & -2 \\ 1 & -1 & -5 & 0 \\ 1 & -3 & -1 & 5 \end{bmatrix},\det(A) = -60
+C_4x4_det_035,determinant,A = \begin{bmatrix} -5 & 2 & 4 & 2 \\ 2 & -5 & -3 & 2 \\ -1 & -4 & 0 & 0 \\ 0 & 0 & 2 & 3 \end{bmatrix},\det(A) = 182
+C_4x4_det_036,determinant,A = \begin{bmatrix} 0 & 5 & -1 & -4 \\ -4 & -2 & 1 & -4 \\ -3 & 1 & -2 & 3 \\ -3 & 5 & 3 & 0 \end{bmatrix},\det(A) = -937
+C_4x4_det_037,determinant,A = \begin{bmatrix} 2 & 2 & -2 & -4 \\ -1 & -2 & -2 & 1 \\ 2 & 1 & -5 & 5 \\ -3 & -4 & -2 & -5 \end{bmatrix},\det(A) = -40
+C_4x4_det_038,determinant,A = \begin{bmatrix} 3 & -5 & 1 & -2 \\ 5 & 5 & -5 & 5 \\ -2 & 5 & -4 & -1 \\ 5 & 1 & -3 & 0 \end{bmatrix},\det(A) = 250
+C_4x4_det_039,determinant,A = \begin{bmatrix} -5 & 2 & -3 & 5 \\ 5 & 4 & -2 & 5 \\ 3 & -3 & 1 & -1 \\ 3 & -4 & 0 & -3 \end{bmatrix},\det(A) = -298
+C_4x4_det_040,determinant,A = \begin{bmatrix} -2 & 1 & -5 & -1 \\ 3 & 4 & 5 & 3 \\ 5 & 5 & -4 & -2 \\ -5 & 4 & 0 & 0 \end{bmatrix},\det(A) = -648
+C_4x4_det_041,determinant,A = \begin{bmatrix} -4 & 0 & 4 & -1 \\ -4 & -3 & -5 & 5 \\ -3 & -3 & -4 & 1 \\ 4 & 2 & 0 & 4 \end{bmatrix},\det(A) = 66
+C_4x4_det_042,determinant,A = \begin{bmatrix} -3 & -3 & 4 & 3 \\ -2 & -3 & -4 & 2 \\ 2 & 4 & -5 & -5 \\ 1 & -1 & 1 & -1 \end{bmatrix},\det(A) = 141
+C_4x4_det_043,determinant,A = \begin{bmatrix} -4 & 0 & 4 & -4 \\ -3 & -4 & 4 & -1 \\ 0 & 3 & -4 & 1 \\ 2 & -4 & -4 & -1 \end{bmatrix},\det(A) = 380
+C_4x4_det_044,determinant,A = \begin{bmatrix} -2 & -1 & 5 & 3 \\ 3 & 2 & 0 & 3 \\ 4 & 2 & 3 & 1 \\ 4 & -5 & -4 & -1 \end{bmatrix},\det(A) = -653
+C_4x4_det_045,determinant,A = \begin{bmatrix} 1 & 1 & 4 & 3 \\ 0 & -3 & 2 & 2 \\ 1 & 4 & -2 & 1 \\ 3 & -4 & 0 & -5 \end{bmatrix},\det(A) = -224
+C_4x4_det_046,determinant,A = \begin{bmatrix} 5 & 2 & 5 & 4 \\ -1 & -2 & -3 & -2 \\ 4 & -3 & 1 & -2 \\ 0 & -5 & 5 & 4 \end{bmatrix},\det(A) = -328
+C_4x4_det_047,determinant,A = \begin{bmatrix} 1 & 5 & 3 & -3 \\ 4 & 5 & -5 & -4 \\ 5 & -4 & -5 & 3 \\ 0 & -5 & 3 & 5 \end{bmatrix},\det(A) = -121
+C_4x4_det_048,determinant,A = \begin{bmatrix} 1 & 0 & -5 & -1 \\ 1 & -1 & -4 & -3 \\ 5 & 4 & 0 & -5 \\ -3 & 1 & -2 & -2 \end{bmatrix},\det(A) = 331
+C_4x4_det_049,determinant,A = \begin{bmatrix} -5 & -2 & 4 & -3 \\ 4 & -5 & -5 & -5 \\ 2 & 2 & -5 & 4 \\ 5 & 2 & 5 & -1 \end{bmatrix},\det(A) = 60
+C_4x4_det_050,determinant,A = \begin{bmatrix} -5 & 5 & -4 & -4 \\ 5 & 5 & -2 & -1 \\ -5 & -3 & -3 & -5 \\ -2 & -4 & -2 & -4 \end{bmatrix},\det(A) = -26
+C_4x4_eig_001,eigenvalue,A = \begin{bmatrix} -2 & -1 & 4 & 0 \\ -1 & -8 & -5 & -2 \\ 4 & -5 & 0 & 2 \\ 0 & -2 & 2 & -2 \end{bmatrix},"\lambda = -10.5867, -5.1124, -1.8209, 5.52"
+C_4x4_eig_002,eigenvalue,A = \begin{bmatrix} -2 & 0 & 3 & 4 \\ 0 & -2 & 2 & -2 \\ 3 & 2 & 6 & -5 \\ 4 & -2 & -5 & -2 \end{bmatrix},"\lambda = -8.3425, -2.7083, 1.9194, 9.1315"
+C_4x4_eig_003,eigenvalue,A = \begin{bmatrix} 6 & 7 & -6 & -2 \\ 7 & 2 & 5 & 2 \\ -6 & 5 & -4 & 4 \\ -2 & 2 & 4 & -8 \end{bmatrix},"\lambda = -11.7316, -9.2777, 5.3714, 11.6379"
+C_4x4_eig_004,eigenvalue,A = \begin{bmatrix} 6 & 0 & -1 & 0 \\ 0 & 6 & 0 & 3 \\ -1 & 0 & 0 & -2 \\ 0 & 3 & -2 & -4 \end{bmatrix},"\lambda = -5.5179, 0.4744, 6.1601, 6.8834"
+C_4x4_eig_005,eigenvalue,A = \begin{bmatrix} 2 & -1 & -4 & 4 \\ -1 & -4 & 5 & 4 \\ -4 & 5 & 6 & 7 \\ 4 & 4 & 7 & 4 \end{bmatrix},"\lambda = -6.4617, -5.8667, 5.9685, 14.3599"
+C_4x4_eig_006,eigenvalue,A = \begin{bmatrix} -2 & -2 & 1 & -6 \\ -2 & -8 & -5 & 6 \\ 1 & -5 & -4 & 1 \\ -6 & 6 & 1 & -8 \end{bmatrix},"\lambda = -16.1957, -8.128, -2.2247, 4.5483"
+C_4x4_eig_007,eigenvalue,A = \begin{bmatrix} -8 & 0 & 0 & 3 \\ 0 & 8 & -5 & -6 \\ 0 & -5 & -4 & -1 \\ 3 & -6 & -1 & -2 \end{bmatrix},"\lambda = -10.0111, -6.7045, -1.2535, 11.969"
+C_4x4_eig_008,eigenvalue,A = \begin{bmatrix} 8 & 4 & 2 & -3 \\ 4 & 8 & 1 & 2 \\ 2 & 1 & 8 & 2 \\ -3 & 2 & 2 & 0 \end{bmatrix},"\lambda = -2.5501, 5.9113, 7.7143, 12.9245"
+C_4x4_eig_009,eigenvalue,A = \begin{bmatrix} 6 & 1 & 5 & 0 \\ 1 & 8 & 6 & -1 \\ 5 & 6 & 4 & 1 \\ 0 & -1 & 1 & -6 \end{bmatrix},"\lambda = -6.3834, -1.6922, 5.862, 14.2136"
+C_4x4_eig_010,eigenvalue,A = \begin{bmatrix} -6 & 1 & 3 & -2 \\ 1 & 6 & 4 & 5 \\ 3 & 4 & 0 & 2 \\ -2 & 5 & 2 & 4 \end{bmatrix},"\lambda = -7.8413, -1.7291, 1.8129, 11.7575"
+C_4x4_eig_011,eigenvalue,A = \begin{bmatrix} -2 & 5 & 3 & -4 \\ 5 & 6 & -1 & 1 \\ 3 & -1 & -8 & -4 \\ -4 & 1 & -4 & -6 \end{bmatrix},"\lambda = -11.1252, -8.8303, 1.4636, 8.4919"
+C_4x4_eig_012,eigenvalue,A = \begin{bmatrix} 0 & -4 & 3 & -5 \\ -4 & 2 & -4 & -4 \\ 3 & -4 & 6 & 1 \\ -5 & -4 & 1 & -8 \end{bmatrix},"\lambda = -12.4462, 0.3765, 1.4462, 10.6235"
+C_4x4_eig_013,eigenvalue,A = \begin{bmatrix} 8 & 7 & 0 & 0 \\ 7 & 8 & -5 & 1 \\ 0 & -5 & 0 & -1 \\ 0 & 1 & -1 & 2 \end{bmatrix},"\lambda = -3.4825, 1.4716, 4.111, 15.8999"
+C_4x4_eig_014,eigenvalue,A = \begin{bmatrix} -8 & -3 & -3 & -3 \\ -3 & 6 & 0 & -2 \\ -3 & 0 & 6 & -2 \\ -3 & -2 & -2 & -8 \end{bmatrix},"\lambda = -12.371, -5.0655, 6.0, 7.4364"
+C_4x4_eig_015,eigenvalue,A = \begin{bmatrix} -2 & 6 & 8 & -4 \\ 6 & -8 & 1 & 3 \\ 8 & 1 & 0 & -4 \\ -4 & 3 & -4 & 0 \end{bmatrix},"\lambda = -13.8381, -6.8698, 0.0632, 10.6446"
+C_4x4_eig_016,eigenvalue,A = \begin{bmatrix} 6 & 8 & -7 & -8 \\ 8 & -2 & -5 & 0 \\ -7 & -5 & 0 & 4 \\ -8 & 0 & 4 & 6 \end{bmatrix},"\lambda = -8.5737, -4.6296, 3.0033, 20.2"
+C_4x4_eig_017,eigenvalue,A = \begin{bmatrix} 2 & -4 & 4 & 5 \\ -4 & 2 & -5 & -3 \\ 4 & -5 & -8 & -1 \\ 5 & -3 & -1 & 4 \end{bmatrix},"\lambda = -11.1104, -2.5299, 1.8639, 11.7764"
+C_4x4_eig_018,eigenvalue,A = \begin{bmatrix} 2 & -3 & -2 & -5 \\ -3 & 2 & -1 & -3 \\ -2 & -1 & 0 & 1 \\ -5 & -3 & 1 & 6 \end{bmatrix},"\lambda = -4.6544, 0.0368, 4.7108, 9.9068"
+C_4x4_eig_019,eigenvalue,A = \begin{bmatrix} 6 & 2 & 5 & -5 \\ 2 & -8 & 3 & 2 \\ 5 & 3 & 2 & 2 \\ -5 & 2 & 2 & 0 \end{bmatrix},"\lambda = -9.3258, -5.3279, 3.9152, 10.7384"
+C_4x4_eig_020,eigenvalue,A = \begin{bmatrix} 8 & -2 & -4 & -5 \\ -2 & -2 & 2 & -1 \\ -4 & 2 & -8 & -2 \\ -5 & -1 & -2 & -8 \end{bmatrix},"\lambda = -12.0303, -7.0383, -1.3229, 10.3915"
+C_4x4_eig_021,eigenvalue,A = \begin{bmatrix} -20 & -21 & -12 & -12 \\ 2 & 3 & 2 & 2 \\ 40 & 40 & 24 & 24 \\ -8 & -8 & -6 & -6 \end{bmatrix},"\lambda = -2, 0, 1, 2"
+C_4x4_eig_022,eigenvalue,A = \begin{bmatrix} 54 & 8 & 8 & 32 \\ -33 & -6 & -6 & -20 \\ 25 & 0 & 8 & 20 \\ -89 & -12 & -14 & -54 \end{bmatrix},"\lambda = -2, -2, 2, 4"
+C_4x4_eig_023,eigenvalue,A = \begin{bmatrix} 1 & -41 & -41 & -115 \\ 1 & 15 & 14 & 40 \\ -4 & 14 & 15 & 50 \\ 1 & -11 & -11 & -34 \end{bmatrix},"\lambda = -4, -3, 1, 3"
+C_4x4_eig_024,eigenvalue,A = \begin{bmatrix} -6 & -30 & -22 & -10 \\ -25 & -86 & -62 & -25 \\ 25 & 86 & 62 & 25 \\ 27 & 102 & 74 & 31 \end{bmatrix},"\lambda = -4, 0, 1, 4"
+C_4x4_eig_025,eigenvalue,A = \begin{bmatrix} -2 & 0 & -6 & 6 \\ 0 & -2 & -6 & 6 \\ 0 & 0 & -2 & 0 \\ 0 & 0 & -6 & 4 \end{bmatrix},"\lambda = -2, -2, -2, 4"
+C_4x4_eig_026,eigenvalue,A = \begin{bmatrix} 0 & 0 & 0 & 0 \\ 0 & 0 & 0 & 0 \\ 0 & 0 & 0 & 0 \\ 0 & 0 & 0 & 0 \end{bmatrix},"\lambda = 0, 0, 0, 0"
+C_4x4_eig_027,eigenvalue,A = \begin{bmatrix} 3 & 0 & 0 & 0 \\ 0 & 3 & 0 & 0 \\ 0 & 0 & 3 & 0 \\ 0 & 0 & 0 & 3 \end{bmatrix},"\lambda = 3, 3, 3, 3"
+C_4x4_eig_028,eigenvalue,A = \begin{bmatrix} 513 & 176 & 896 & -288 \\ -640 & -219 & -1120 & 360 \\ -128 & -44 & -223 & 72 \\ 128 & 44 & 224 & -71 \end{bmatrix},"\lambda = -3, 1, 1, 1"
+C_4x4_eig_029,eigenvalue,A = \begin{bmatrix} 1 & 0 & 0 & 0 \\ 0 & 1 & 0 & 0 \\ 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 1 \end{bmatrix},"\lambda = 1, 1, 1, 1"
+C_4x4_eig_030,eigenvalue,A = \begin{bmatrix} -3 & 0 & 0 & 0 \\ 0 & -3 & 0 & 0 \\ 0 & 0 & -3 & 0 \\ 0 & 0 & 0 & -3 \end{bmatrix},"\lambda = -3, -3, -3, -3"
+C_4x4_matvec_001,matrix_vector,"A = \begin{bmatrix} -3 & -1 & 1 & 2 \\ 4 & 4 & 3 & 3 \\ -1 & 3 & -5 & -3 \\ 4 & -2 & -2 & 1 \end{bmatrix}, \quad x = \begin{bmatrix} 4 \\ 0 \\ 3 \\ 0 \end{bmatrix}",Ax = \begin{bmatrix} -9 \\ 25 \\ -19 \\ 10 \end{bmatrix}
+C_4x4_matvec_002,matrix_vector,"A = \begin{bmatrix} 0 & -3 & -1 & -5 \\ -1 & 4 & 4 & -4 \\ -5 & -1 & 0 & 5 \\ 3 & 0 & 0 & -1 \end{bmatrix}, \quad x = \begin{bmatrix} 0 \\ -5 \\ -3 \\ -1 \end{bmatrix}",Ax = \begin{bmatrix} 23 \\ -28 \\ 0 \\ 1 \end{bmatrix}
+C_4x4_matvec_003,matrix_vector,"A = \begin{bmatrix} -2 & -2 & 0 & 3 \\ -5 & 0 & 1 & 3 \\ -2 & -2 & -1 & -3 \\ 4 & -1 & 3 & -2 \end{bmatrix}, \quad x = \begin{bmatrix} 1 \\ 0 \\ 3 \\ -5 \end{bmatrix}",Ax = \begin{bmatrix} -17 \\ -17 \\ 10 \\ 23 \end{bmatrix}
+C_4x4_matvec_004,matrix_vector,"A = \begin{bmatrix} -1 & 2 & -1 & 0 \\ -1 & 3 & 4 & -3 \\ -3 & -2 & -3 & 4 \\ -2 & 3 & -1 & 2 \end{bmatrix}, \quad x = \begin{bmatrix} 4 \\ 5 \\ 1 \\ 0 \end{bmatrix}",Ax = \begin{bmatrix} 5 \\ 15 \\ -25 \\ 6 \end{bmatrix}
+C_4x4_matvec_005,matrix_vector,"A = \begin{bmatrix} 1 & 5 & 2 & -4 \\ 2 & -2 & -3 & 5 \\ -2 & -3 & 3 & 4 \\ -4 & 5 & 3 & -2 \end{bmatrix}, \quad x = \begin{bmatrix} -5 \\ 3 \\ -2 \\ 5 \end{bmatrix}",Ax = \begin{bmatrix} -14 \\ 15 \\ 15 \\ 19 \end{bmatrix}
+C_4x4_matvec_006,matrix_vector,"A = \begin{bmatrix} 3 & 4 & 1 & 2 \\ 1 & 5 & 5 & 5 \\ 1 & -2 & -5 & 1 \\ -4 & -2 & 0 & -1 \end{bmatrix}, \quad x = \begin{bmatrix} 0 \\ -1 \\ -4 \\ 4 \end{bmatrix}",Ax = \begin{bmatrix} 0 \\ -5 \\ 26 \\ -2 \end{bmatrix}
+C_4x4_matvec_007,matrix_vector,"A = \begin{bmatrix} 2 & -1 & 1 & -2 \\ -5 & 4 & 0 & 5 \\ 0 & 2 & 2 & -5 \\ 2 & 5 & -2 & -5 \end{bmatrix}, \quad x = \begin{bmatrix} -1 \\ 2 \\ 3 \\ 2 \end{bmatrix}",Ax = \begin{bmatrix} -5 \\ 23 \\ 0 \\ -8 \end{bmatrix}
+C_4x4_matvec_008,matrix_vector,"A = \begin{bmatrix} -3 & -5 & -3 & -5 \\ -5 & -3 & 2 & -4 \\ 0 & -2 & 4 & -3 \\ -4 & -3 & 4 & -2 \end{bmatrix}, \quad x = \begin{bmatrix} 5 \\ -5 \\ 1 \\ 2 \end{bmatrix}",Ax = \begin{bmatrix} -3 \\ -16 \\ 8 \\ -5 \end{bmatrix}
+C_4x4_matvec_009,matrix_vector,"A = \begin{bmatrix} 2 & 0 & -5 & -2 \\ 0 & 4 & -2 & -1 \\ -1 & -1 & -2 & -1 \\ 3 & -4 & -5 & -1 \end{bmatrix}, \quad x = \begin{bmatrix} -5 \\ 5 \\ 1 \\ 5 \end{bmatrix}",Ax = \begin{bmatrix} -25 \\ 13 \\ -7 \\ -45 \end{bmatrix}
+C_4x4_matvec_010,matrix_vector,"A = \begin{bmatrix} -5 & 1 & 4 & 3 \\ -3 & 1 & -2 & -4 \\ -1 & -3 & 1 & -4 \\ -1 & -2 & -2 & 1 \end{bmatrix}, \quad x = \begin{bmatrix} 2 \\ -5 \\ -5 \\ -1 \end{bmatrix}",Ax = \begin{bmatrix} -38 \\ 3 \\ 12 \\ 17 \end{bmatrix}
+C_4x4_matvec_011,matrix_vector,"A = \begin{bmatrix} 1 & 2 & -4 & 4 \\ 3 & 4 & -2 & 0 \\ 0 & -3 & -1 & -4 \\ -3 & 0 & -2 & -4 \end{bmatrix}, \quad x = \begin{bmatrix} 4 \\ -4 \\ -3 \\ -3 \end{bmatrix}",b = \begin{bmatrix} -4 \\ 2 \\ 27 \\ 6 \end{bmatrix}
+C_4x4_matvec_012,matrix_vector,"A = \begin{bmatrix} 0 & 4 & -4 & -3 \\ -2 & -4 & -4 & 4 \\ -2 & 1 & 3 & 2 \\ -4 & -1 & -4 & 4 \end{bmatrix}, \quad x = \begin{bmatrix} 0 \\ 5 \\ -1 \\ 1 \end{bmatrix}",b = \begin{bmatrix} 21 \\ -12 \\ 4 \\ 3 \end{bmatrix}
+C_4x4_matvec_013,matrix_vector,"A = \begin{bmatrix} -4 & 4 & 3 & 0 \\ -2 & -1 & -1 & 3 \\ -2 & 1 & 3 & -3 \\ 2 & 0 & -3 & -4 \end{bmatrix}, \quad x = \begin{bmatrix} 4 \\ 4 \\ -5 \\ 0 \end{bmatrix}",b = \begin{bmatrix} -15 \\ -7 \\ -19 \\ 23 \end{bmatrix}
+C_4x4_matvec_014,matrix_vector,"A = \begin{bmatrix} -4 & -4 & -4 & 4 \\ 0 & 4 & 2 & 2 \\ -4 & -1 & 1 & 1 \\ -3 & -4 & 1 & -4 \end{bmatrix}, \quad x = \begin{bmatrix} 5 \\ -2 \\ 5 \\ -1 \end{bmatrix}",b = \begin{bmatrix} -36 \\ 0 \\ -14 \\ 2 \end{bmatrix}
+C_4x4_matvec_015,matrix_vector,"A = \begin{bmatrix} -1 & 2 & 4 & -3 \\ -1 & -3 & 2 & 2 \\ -3 & 3 & 4 & 3 \\ 3 & 2 & -2 & 4 \end{bmatrix}, \quad x = \begin{bmatrix} -2 \\ 0 \\ 2 \\ 3 \end{bmatrix}",b = \begin{bmatrix} 1 \\ 12 \\ 23 \\ 2 \end{bmatrix}
+C_4x4_matvec_016,matrix_vector,"A = \begin{bmatrix} -2 & -1 & 0 & -1 \\ -2 & 4 & -2 & -1 \\ -3 & 2 & 3 & 0 \\ -4 & -3 & -2 & -3 \end{bmatrix}, \quad x = \begin{bmatrix} -3 \\ 0 \\ 1 \\ 2 \end{bmatrix}",b = \begin{bmatrix} 4 \\ 2 \\ 12 \\ 4 \end{bmatrix}
+C_4x4_matvec_017,matrix_vector,"A = \begin{bmatrix} 4 & 2 & 0 & -1 \\ 3 & -4 & 2 & 0 \\ 0 & -3 & -2 & -2 \\ -4 & 1 & 1 & -1 \end{bmatrix}, \quad x = \begin{bmatrix} 4 \\ 0 \\ -5 \\ -5 \end{bmatrix}",b = \begin{bmatrix} 21 \\ 2 \\ 20 \\ -16 \end{bmatrix}
+C_4x4_matvec_018,matrix_vector,"A = \begin{bmatrix} -1 & -3 & 3 & 3 \\ 4 & 0 & 0 & 3 \\ 1 & 3 & -3 & -3 \\ -4 & -1 & 3 & 0 \end{bmatrix}, \quad x = \begin{bmatrix} 1 \\ -4 \\ -4 \\ -5 \end{bmatrix}",b = \begin{bmatrix} -16 \\ -11 \\ 16 \\ -12 \end{bmatrix}
+C_4x4_matvec_019,matrix_vector,"A = \begin{bmatrix} -1 & 3 & 2 & 3 \\ -2 & -1 & 4 & 2 \\ 2 & 0 & -4 & 2 \\ -1 & -2 & 2 & 0 \end{bmatrix}, \quad x = \begin{bmatrix} -4 \\ 4 \\ -1 \\ 3 \end{bmatrix}",b = \begin{bmatrix} 23 \\ 6 \\ 2 \\ -6 \end{bmatrix}
+C_4x4_matvec_020,matrix_vector,"A = \begin{bmatrix} -1 & -2 & 3 & 3 \\ -2 & -1 & 0 & 2 \\ 0 & 2 & 3 & -1 \\ 3 & 3 & 4 & 0 \end{bmatrix}, \quad x = \begin{bmatrix} 4 \\ 5 \\ 5 \\ 5 \end{bmatrix}",b = \begin{bmatrix} 16 \\ -3 \\ 20 \\ 47 \end{bmatrix}
+C_4x4_mult_001,multiplication,"A = \begin{bmatrix} 3 & -2 & 1 & -1 \\ 0 & 3 & -4 & 1 \\ 0 & 1 & -3 & -4 \\ -3 & -3 & 4 & 3 \end{bmatrix}, \quad B = \begin{bmatrix} -4 & -3 & 3 & 4 \\ -3 & 2 & -2 & -1 \\ 3 & 1 & 0 & 1 \\ 4 & -2 & -4 & 2 \end{bmatrix}",AB = \begin{bmatrix} -7 & -10 & 17 & 13 \\ -17 & 0 & -10 & -5 \\ -28 & 7 & 14 & -12 \\ 45 & 1 & -15 & 1 \end{bmatrix}
+C_4x4_mult_002,multiplication,"A = \begin{bmatrix} -4 & 0 & 1 & 2 \\ 3 & 1 & 3 & 4 \\ -3 & -1 & 4 & 0 \\ 2 & 4 & -4 & 0 \end{bmatrix}, \quad B = \begin{bmatrix} 3 & -1 & 1 & 0 \\ -4 & 2 & -3 & 3 \\ -1 & 2 & 0 & -3 \\ -2 & 4 & 4 & -4 \end{bmatrix}",AB = \begin{bmatrix} -17 & 14 & 4 & -11 \\ -6 & 21 & 16 & -22 \\ -9 & 9 & 0 & -15 \\ -6 & -2 & -10 & 24 \end{bmatrix}
+C_4x4_mult_003,multiplication,"A = \begin{bmatrix} -2 & 2 & 2 & -3 \\ 4 & -3 & -3 & -3 \\ 1 & -2 & 2 & 2 \\ 4 & 4 & 3 & -2 \end{bmatrix}, \quad B = \begin{bmatrix} 2 & 3 & -4 & -1 \\ -1 & 3 & 2 & 2 \\ 1 & -1 & 1 & -3 \\ 0 & -2 & -2 & 1 \end{bmatrix}",AB = \begin{bmatrix} -4 & 4 & 20 & -3 \\ 8 & 12 & -19 & -4 \\ 6 & -9 & -10 & -9 \\ 7 & 25 & -1 & -7 \end{bmatrix}
+C_4x4_mult_004,multiplication,"A = \begin{bmatrix} 0 & -1 & -2 & 1 \\ -4 & -4 & -3 & -3 \\ -4 & 2 & 1 & -4 \\ -4 & -3 & 1 & 0 \end{bmatrix}, \quad B = \begin{bmatrix} 0 & -2 & 2 & 4 \\ 3 & 1 & 0 & -1 \\ -2 & 4 & 0 & -3 \\ -2 & -3 & -1 & 1 \end{bmatrix}",AB = \begin{bmatrix} -1 & -12 & -1 & 8 \\ 0 & 1 & -5 & -6 \\ 12 & 26 & -4 & -25 \\ -11 & 9 & -8 & -16 \end{bmatrix}
+C_4x4_mult_005,multiplication,"A = \begin{bmatrix} 1 & 2 & -4 & -3 \\ 2 & 2 & -2 & -4 \\ -1 & 3 & 4 & 1 \\ -2 & 4 & 0 & -3 \end{bmatrix}, \quad B = \begin{bmatrix} -3 & 4 & 0 & -4 \\ -4 & 3 & -3 & -1 \\ -4 & 4 & -3 & 2 \\ 3 & -2 & 1 & -4 \end{bmatrix}",AB = \begin{bmatrix} -4 & 0 & 3 & -2 \\ -18 & 14 & -4 & 2 \\ -22 & 19 & -20 & 5 \\ -19 & 10 & -15 & 16 \end{bmatrix}
+C_4x4_mult_006,multiplication,"A = \begin{bmatrix} -2 & 2 & -2 & -1 \\ 1 & -2 & -4 & 1 \\ 1 & -1 & 1 & 2 \\ -4 & -2 & 0 & 3 \end{bmatrix}, \quad B = \begin{bmatrix} -3 & -4 & -4 & 2 \\ 0 & 1 & 1 & -2 \\ -2 & 4 & 0 & 3 \\ 0 & 4 & 3 & 2 \end{bmatrix}",AB = \begin{bmatrix} 10 & -2 & 7 & -16 \\ 5 & -18 & -3 & -4 \\ -5 & 7 & 1 & 11 \\ 12 & 26 & 23 & 2 \end{bmatrix}
+C_4x4_mult_007,multiplication,"A = \begin{bmatrix} 1 & -4 & -4 & 2 \\ -4 & 4 & 4 & 1 \\ 4 & -4 & 2 & -1 \\ -4 & -1 & 0 & 0 \end{bmatrix}, \quad B = \begin{bmatrix} -2 & 4 & 3 & 2 \\ -3 & -3 & 1 & -2 \\ 1 & -3 & 2 & 1 \\ -4 & -1 & -2 & -1 \end{bmatrix}",AB = \begin{bmatrix} -2 & 26 & -13 & 4 \\ -4 & -41 & -2 & -13 \\ 10 & 23 & 14 & 19 \\ 11 & -13 & -13 & -6 \end{bmatrix}
+C_4x4_mult_008,multiplication,"A = \begin{bmatrix} 0 & 0 & 2 & 1 \\ 0 & -2 & -1 & 4 \\ 3 & -2 & -1 & 2 \\ 4 & -4 & -2 & 2 \end{bmatrix}, \quad B = \begin{bmatrix} 1 & -4 & 1 & 4 \\ 3 & 0 & 0 & -1 \\ 4 & -2 & -1 & -4 \\ -3 & -3 & -1 & -1 \end{bmatrix}",AB = \begin{bmatrix} 5 & -7 & -3 & -9 \\ -22 & -10 & -3 & 2 \\ -13 & -16 & 2 & 16 \\ -22 & -18 & 4 & 26 \end{bmatrix}
+C_4x4_mult_009,multiplication,"A = \begin{bmatrix} 2 & 3 & 2 & -2 \\ 0 & -1 & 1 & -2 \\ -4 & -2 & 2 & 2 \\ 2 & 3 & 3 & -4 \end{bmatrix}, \quad B = \begin{bmatrix} -2 & -4 & 3 & -1 \\ 0 & -3 & -1 & 1 \\ 1 & -2 & 2 & 3 \\ -4 & -2 & 1 & 0 \end{bmatrix}",AB = \begin{bmatrix} 6 & -17 & 5 & 7 \\ 9 & 5 & 1 & 2 \\ 2 & 14 & -4 & 8 \\ 15 & -15 & 5 & 10 \end{bmatrix}
+C_4x4_mult_010,multiplication,"A = \begin{bmatrix} 1 & 4 & 2 & 4 \\ -3 & -2 & -2 & -3 \\ -4 & -4 & -1 & -1 \\ 2 & 3 & 2 & -3 \end{bmatrix}, \quad B = \begin{bmatrix} 1 & -2 & 1 & 2 \\ -1 & 4 & 3 & 0 \\ 0 & 3 & 2 & -4 \\ 4 & -2 & -3 & 1 \end{bmatrix}",AB = \begin{bmatrix} 13 & 12 & 5 & -2 \\ -13 & -2 & -4 & -1 \\ -4 & -9 & -15 & -5 \\ -13 & 20 & 24 & -7 \end{bmatrix}
+C_4x4_mult_011,multiplication,"A = \begin{bmatrix} -2 & 0 & 1 & -3 \\ 3 & 0 & -3 & 2 \\ -1 & -1 & 1 & 1 \\ -1 & -1 & -4 & -3 \end{bmatrix}, \quad B = \begin{bmatrix} -3 & 4 & 1 & -2 \\ -4 & -2 & -2 & 1 \\ 3 & -1 & 3 & 1 \\ 0 & 1 & 1 & -1 \end{bmatrix}",AB = \begin{bmatrix} 9 & -12 & -2 & 8 \\ -18 & 17 & -4 & -11 \\ 10 & -2 & 5 & 1 \\ -5 & -1 & -14 & 0 \end{bmatrix}
+C_4x4_mult_012,multiplication,"A = \begin{bmatrix} -4 & -4 & -3 & -3 \\ -1 & -1 & -2 & 2 \\ 1 & 3 & -1 & -4 \\ 4 & -2 & 0 & 1 \end{bmatrix}, \quad B = \begin{bmatrix} 4 & 0 & -3 & 1 \\ -3 & 4 & -2 & 0 \\ -1 & 1 & -2 & -2 \\ 0 & 2 & 2 & 0 \end{bmatrix}",AB = \begin{bmatrix} -1 & -25 & 20 & 2 \\ 1 & -2 & 13 & 3 \\ -4 & 3 & -15 & 3 \\ 22 & -6 & -6 & 4 \end{bmatrix}
+C_4x4_mult_013,multiplication,"A = \begin{bmatrix} 1 & -4 & 4 & 2 \\ 0 & -1 & -3 & -3 \\ -3 & 1 & 3 & -2 \\ 0 & -2 & 0 & -2 \end{bmatrix}, \quad B = \begin{bmatrix} 1 & 4 & -4 & 4 \\ -3 & -1 & -1 & -4 \\ -4 & -2 & 3 & -1 \\ -3 & -4 & 4 & 3 \end{bmatrix}",AB = \begin{bmatrix} -9 & -8 & 20 & 22 \\ 24 & 19 & -20 & -2 \\ -12 & -11 & 12 & -25 \\ 12 & 10 & -6 & 2 \end{bmatrix}
+C_4x4_mult_014,multiplication,"A = \begin{bmatrix} -2 & 2 & -3 & -4 \\ 4 & -1 & 4 & 2 \\ -2 & 3 & 3 & 2 \\ -1 & 2 & 2 & -3 \end{bmatrix}, \quad B = \begin{bmatrix} 1 & -1 & 2 & -2 \\ 1 & 1 & 3 & 3 \\ -4 & -3 & 4 & 1 \\ 0 & -3 & -2 & 3 \end{bmatrix}",AB = \begin{bmatrix} 12 & 25 & -2 & -5 \\ -13 & -23 & 17 & -1 \\ -11 & -10 & 13 & 22 \\ -7 & 6 & 18 & 1 \end{bmatrix}
+C_4x4_mult_015,multiplication,"A = \begin{bmatrix} 1 & 1 & 0 & -1 \\ 3 & 4 & 4 & 3 \\ -1 & -2 & -1 & 3 \\ 3 & -3 & 2 & -3 \end{bmatrix}, \quad B = \begin{bmatrix} 0 & 3 & 4 & -1 \\ -1 & 0 & 2 & 0 \\ -2 & -2 & -2 & 3 \\ 4 & -4 & 1 & -4 \end{bmatrix}",AB = \begin{bmatrix} -5 & 7 & 5 & 3 \\ 0 & -11 & 15 & -3 \\ 16 & -13 & -3 & -14 \\ -13 & 17 & -1 & 15 \end{bmatrix}
+C_4x4_mult_016,multiplication,"A = \begin{bmatrix} 3 & 0 & -2 & 0 \\ -2 & -2 & 0 & 2 \\ -2 & -1 & -3 & -3 \\ 0 & 3 & 1 & -3 \end{bmatrix}, \quad B = \begin{bmatrix} 1 & -3 & 1 & 0 \\ -1 & -2 & -2 & -1 \\ 0 & 0 & 1 & 3 \\ -3 & 3 & 0 & -3 \end{bmatrix}",C = \begin{bmatrix} 3 & -9 & 1 & -6 \\ -6 & 16 & 2 & -4 \\ 8 & -1 & -3 & 1 \\ 6 & -15 & -5 & 9 \end{bmatrix}
+C_4x4_mult_017,multiplication,"A = \begin{bmatrix} 3 & 2 & -1 & -2 \\ -1 & 2 & 3 & -1 \\ 0 & 2 & -2 & 2 \\ -2 & 2 & -3 & 3 \end{bmatrix}, \quad B = \begin{bmatrix} 2 & -2 & 2 & 1 \\ 0 & 2 & 1 & -3 \\ -2 & 1 & -1 & -1 \\ 0 & -2 & 3 & 0 \end{bmatrix}",C = \begin{bmatrix} 8 & 1 & 3 & -2 \\ -8 & 11 & -6 & -10 \\ 4 & -2 & 10 & -4 \\ 2 & -1 & 10 & -5 \end{bmatrix}
+C_4x4_mult_018,multiplication,"A = \begin{bmatrix} -3 & 0 & 2 & 1 \\ 0 & 1 & -3 & 0 \\ -1 & 3 & 1 & -2 \\ 2 & -1 & 3 & -1 \end{bmatrix}, \quad B = \begin{bmatrix} 2 & 2 & 2 & 1 \\ -3 & -2 & 3 & 2 \\ 0 & 2 & 1 & 2 \\ 0 & -3 & -1 & -2 \end{bmatrix}",C = \begin{bmatrix} -6 & -5 & -5 & -1 \\ -3 & -8 & 0 & -4 \\ -11 & 0 & 10 & 11 \\ 7 & 15 & 5 & 8 \end{bmatrix}
+C_4x4_mult_019,multiplication,"A = \begin{bmatrix} 3 & 3 & -2 & 3 \\ -1 & -2 & -2 & 0 \\ -2 & -2 & 1 & -1 \\ 1 & -3 & -3 & -2 \end{bmatrix}, \quad B = \begin{bmatrix} -1 & -2 & -1 & 3 \\ 0 & 1 & 2 & -2 \\ -2 & -1 & 1 & 0 \\ -3 & 1 & 3 & 0 \end{bmatrix}",C = \begin{bmatrix} -8 & 2 & 10 & 3 \\ 5 & 2 & -5 & 1 \\ 3 & 0 & -4 & -2 \\ 11 & -4 & -16 & 9 \end{bmatrix}
+C_4x4_mult_020,multiplication,"A = \begin{bmatrix} 3 & -1 & -1 & -1 \\ 0 & 1 & -3 & 3 \\ -2 & 0 & -1 & 3 \\ 1 & -3 & -3 & -2 \end{bmatrix}, \quad B = \begin{bmatrix} 2 & 3 & 0 & 0 \\ 1 & 0 & 0 & -1 \\ 0 & -1 & 2 & 1 \\ 2 & -1 & -1 & 0 \end{bmatrix}",C = \begin{bmatrix} 3 & 11 & -1 & 0 \\ 7 & 0 & -9 & -4 \\ 2 & -8 & -5 & -1 \\ -5 & 8 & -4 & 0 \end{bmatrix}
+C_4x4_nullity_001,nullity,A = \begin{bmatrix} -4 & -1 & -3 & 2 \\ -4 & -1 & -3 & 2 \\ -1 & -3 & -4 & -1 \\ 3 & 1 & 3 & -1 \end{bmatrix},\text{nullity}(A) = 1
+C_4x4_nullity_002,nullity,A = \begin{bmatrix} 5 & 0 & -1 & 3 \\ 5 & 2 & 2 & 4 \\ 4 & 3 & 1 & -4 \\ 3 & 4 & -4 & 4 \end{bmatrix},\text{nullity}(A) = 0
+C_4x4_nullity_003,nullity,A = \begin{bmatrix} 0 & -5 & 4 & -5 \\ -4 & 4 & 0 & 4 \\ 4 & -4 & -4 & -3 \\ -4 & 0 & -1 & 5 \end{bmatrix},\text{nullity}(A) = 0
+C_4x4_nullity_004,nullity,A = \begin{bmatrix} 8 & -4 & 0 & -10 \\ 1 & 2 & 1 & -1 \\ -4 & -8 & -4 & 4 \\ -3 & 4 & 1 & 4 \end{bmatrix},\text{nullity}(A) = 2
+C_4x4_nullity_005,nullity,A = \begin{bmatrix} 1 & -4 & 3 & 5 \\ -2 & -4 & 1 & -4 \\ -2 & 0 & -3 & 3 \\ 0 & -1 & -4 & -1 \end{bmatrix},\text{nullity}(A) = 0
+C_4x4_nullity_006,nullity,A = \begin{bmatrix} 0 & -2 & -3 & 5 \\ 1 & -3 & 5 & -1 \\ 0 & -3 & -4 & 1 \\ 0 & 5 & -3 & -4 \end{bmatrix},\text{nullity}(A) = 0
+C_4x4_nullity_007,nullity,A = \begin{bmatrix} -5 & -2 & 1 & 0 \\ 5 & -4 & 0 & 2 \\ 1 & 5 & 1 & 5 \\ -2 & 3 & 0 & -4 \end{bmatrix},\text{nullity}(A) = 0
+C_4x4_nullity_008,nullity,A = \begin{bmatrix} 8 & -2 & 0 & -2 \\ 3 & 2 & 4 & -2 \\ 0 & 2 & 0 & -4 \\ -1 & 4 & 4 & -3 \end{bmatrix},\text{nullity}(A) = 1
+C_4x4_nullity_009,nullity,A = \begin{bmatrix} 4 & 0 & -4 & 0 \\ 1 & 3 & 4 & -3 \\ -6 & 6 & 16 & -6 \\ -8 & 0 & 8 & 0 \end{bmatrix},\text{nullity}(A) = 2
+C_4x4_nullity_010,nullity,A = \begin{bmatrix} 4 & -2 & -1 & 4 \\ -4 & -2 & 1 & -3 \\ 0 & 0 & 0 & 0 \\ 0 & -4 & 0 & 1 \end{bmatrix},\text{nullity}(A) = 2
+C_4x4_nullity_011,nullity,A = \begin{bmatrix} 6 & -3 & -12 & 12 \\ 3 & -3 & 18 & -15 \\ -8 & 19 & 28 & -22 \\ 12 & -19 & -12 & 10 \end{bmatrix},\text{nullity}(A) = 1
+C_4x4_nullity_012,nullity,A = \begin{bmatrix} -15 & 15 & -8 & 7 \\ -21 & 23 & -2 & 4 \\ -5 & -1 & 22 & -12 \\ -5 & 7 & 14 & -8 \end{bmatrix},\text{nullity}(A) = 1
+C_4x4_nullity_013,nullity,A = \begin{bmatrix} 16 & -32 & 12 & -12 \\ -11 & 20 & -9 & 10 \\ -9 & 12 & -9 & 12 \\ -3 & -4 & -6 & 11 \end{bmatrix},\text{nullity}(A) = 2
+C_4x4_nullity_014,nullity,A = \begin{bmatrix} 16 & -4 & -16 & -12 \\ 4 & -1 & -4 & -3 \\ -16 & 4 & 16 & 12 \\ -12 & 3 & 12 & 9 \end{bmatrix},\text{nullity}(A) = 3
+C_4x4_nullity_015,nullity,A = \begin{bmatrix} 0 & 0 & 0 & -3 \\ 0 & 0 & 0 & 3 \\ 0 & 0 & 0 & 6 \\ 0 & 0 & 0 & -9 \end{bmatrix},\text{nullity}(A) = 3
+C_4x4_nullity_016,nullity,A = \begin{bmatrix} 4 & 2 & 3 & 1 \\ -8 & 4 & 14 & -2 \\ 9 & 10 & -2 & 6 \\ 4 & 0 & 28 & -4 \end{bmatrix},\text{nullity}(A) = 1
+C_4x4_nullity_017,nullity,A = \begin{bmatrix} -2 & 2 & -1 & 0 \\ 8 & -8 & 6 & 0 \\ 4 & -4 & 2 & 0 \\ 2 & -2 & 2 & 0 \end{bmatrix},\text{nullity}(A) = 2
+C_4x4_nullity_018,nullity,A = \begin{bmatrix} -9 & -3 & -12 & 3 \\ 9 & 3 & 12 & -3 \\ 9 & 3 & 12 & -3 \\ -3 & -1 & -4 & 1 \end{bmatrix},\text{nullity}(A) = 3
+C_4x4_nullity_019,nullity,A = \begin{bmatrix} -9 & 18 & 3 & -20 \\ -6 & 6 & 15 & -8 \\ 8 & -8 & 15 & 4 \\ 9 & -15 & -13 & 18 \end{bmatrix},\text{nullity}(A) = 1
+C_4x4_nullity_020,nullity,A = \begin{bmatrix} 7 & 11 & -5 & 8 \\ 6 & 8 & -3 & 5 \\ -9 & 3 & -9 & 12 \\ 10 & 11 & -4 & 4 \end{bmatrix},\text{nullity}(A) = 1
+C_4x4_pow2_001,matrix_power,A = \begin{bmatrix} -2 & 2 & -2 & 0 \\ 2 & -1 & -3 & -1 \\ 2 & -2 & 3 & 2 \\ -3 & 1 & -1 & 3 \end{bmatrix},A^2 = \begin{bmatrix} 4 & -2 & -8 & -6 \\ -9 & 10 & -9 & -8 \\ -8 & 2 & 9 & 14 \\ -3 & -2 & -3 & 6 \end{bmatrix}
+C_4x4_pow2_002,matrix_power,A = \begin{bmatrix} -1 & 1 & -2 & 1 \\ 0 & -1 & 2 & -2 \\ 3 & -2 & 2 & 1 \\ 1 & 2 & 1 & -3 \end{bmatrix},A^2 = \begin{bmatrix} -4 & 4 & 1 & -8 \\ 4 & -7 & 0 & 10 \\ 4 & 3 & -5 & 6 \\ -1 & -9 & 1 & 7 \end{bmatrix}
+C_4x4_pow2_003,matrix_power,A = \begin{bmatrix} -1 & -2 & 1 & 2 \\ 3 & -2 & -2 & 0 \\ 0 & 3 & 1 & 2 \\ 0 & -3 & 1 & 0 \end{bmatrix},A^2 = \begin{bmatrix} -5 & 3 & 6 & 0 \\ -9 & -8 & 5 & 2 \\ 9 & -9 & -3 & 2 \\ -9 & 9 & 7 & 2 \end{bmatrix}
+C_4x4_pow2_004,matrix_power,A = \begin{bmatrix} -3 & -1 & 0 & -1 \\ 3 & 2 & 1 & -3 \\ 0 & -3 & 0 & -3 \\ 2 & -3 & -2 & 1 \end{bmatrix},A^2 = \begin{bmatrix} 4 & 4 & 1 & 5 \\ -9 & 7 & 8 & -15 \\ -15 & 3 & 3 & 6 \\ -13 & -5 & -5 & 14 \end{bmatrix}
+C_4x4_pow2_005,matrix_power,A = \begin{bmatrix} 3 & -1 & 2 & -3 \\ -2 & 3 & 3 & -3 \\ -2 & -2 & 2 & -3 \\ 2 & -1 & -2 & -3 \end{bmatrix},A^2 = \begin{bmatrix} 1 & -7 & 13 & -3 \\ -24 & 8 & 17 & -3 \\ -12 & -5 & 0 & 15 \\ 6 & 2 & 3 & 12 \end{bmatrix}
+C_4x4_pow2_006,matrix_power,A = \begin{bmatrix} 1 & 3 & -2 & 2 \\ -3 & 0 & -2 & -2 \\ -1 & 1 & 3 & 1 \\ 0 & 0 & 0 & 2 \end{bmatrix},A^2 = \begin{bmatrix} -6 & 1 & -14 & -2 \\ -1 & -11 & 0 & -12 \\ -7 & 0 & 9 & 1 \\ 0 & 0 & 0 & 4 \end{bmatrix}
+C_4x4_pow2_007,matrix_power,A = \begin{bmatrix} -3 & 1 & -1 & -1 \\ -1 & 2 & -3 & 1 \\ 1 & 3 & -1 & 2 \\ -3 & -3 & 2 & -1 \end{bmatrix},A^2 = \begin{bmatrix} 10 & -1 & -1 & 3 \\ -5 & -9 & 0 & -4 \\ -13 & -2 & -5 & -2 \\ 17 & 0 & 8 & 5 \end{bmatrix}
+C_4x4_pow2_008,matrix_power,A = \begin{bmatrix} -2 & -1 & -3 & 3 \\ -1 & 2 & -1 & 0 \\ -1 & 1 & 1 & 0 \\ 3 & 2 & 3 & 1 \end{bmatrix},A^2 = \begin{bmatrix} 17 & 3 & 13 & -3 \\ 1 & 4 & 0 & -3 \\ 0 & 4 & 3 & -3 \\ -8 & 6 & -5 & 10 \end{bmatrix}
+C_4x4_pow2_009,matrix_power,A = \begin{bmatrix} 0 & 0 & 3 & 3 \\ -1 & 2 & -1 & -1 \\ -3 & 0 & -2 & -3 \\ 2 & -1 & 1 & 2 \end{bmatrix},A^2 = \begin{bmatrix} -3 & -3 & -3 & -3 \\ -1 & 5 & -4 & -4 \\ 0 & 3 & -8 & -9 \\ 2 & -4 & 7 & 8 \end{bmatrix}
+C_4x4_pow2_010,matrix_power,A = \begin{bmatrix} 2 & -1 & -1 & -3 \\ -2 & 1 & 0 & 2 \\ -2 & 1 & 1 & 0 \\ -3 & 1 & 2 & -3 \end{bmatrix},A^2 = \begin{bmatrix} 17 & -7 & -9 & 1 \\ -12 & 5 & 6 & 2 \\ -8 & 4 & 3 & 8 \\ -3 & 3 & -1 & 20 \end{bmatrix}
+C_4x4_pow2_011,matrix_power,A = \begin{bmatrix} -1 & 3 & 0 & 3 \\ 2 & -2 & -3 & 1 \\ -2 & 2 & 2 & 0 \\ 2 & 0 & 0 & -2 \end{bmatrix},A^2 = \begin{bmatrix} 13 & -9 & -9 & -6 \\ 2 & 4 & 0 & 2 \\ 2 & -6 & -2 & -4 \\ -6 & 6 & 0 & 10 \end{bmatrix}
+C_4x4_pow2_012,matrix_power,A = \begin{bmatrix} 1 & -2 & 1 & 2 \\ 2 & -2 & 2 & 2 \\ -2 & -3 & 1 & -1 \\ 0 & -3 & -2 & 1 \end{bmatrix},A^2 = \begin{bmatrix} -5 & -7 & -6 & -1 \\ -6 & -12 & -4 & 0 \\ -10 & 10 & -5 & -12 \\ -2 & 9 & -10 & -3 \end{bmatrix}
+C_4x4_pow2_013,matrix_power,A = \begin{bmatrix} 1 & -1 & -1 & 0 \\ -1 & -1 & -1 & 0 \\ 0 & 1 & -2 & -2 \\ -1 & 2 & 2 & 2 \end{bmatrix},A^2 = \begin{bmatrix} 2 & -1 & 2 & 2 \\ 0 & 1 & 4 & 2 \\ 1 & -7 & -1 & 0 \\ -5 & 5 & -1 & 0 \end{bmatrix}
+C_4x4_pow2_014,matrix_power,A = \begin{bmatrix} -1 & 3 & 0 & -1 \\ 1 & 3 & 0 & -3 \\ -1 & 3 & 0 & -2 \\ 3 & -1 & -1 & -3 \end{bmatrix},A^2 = \begin{bmatrix} 1 & 7 & 1 & -5 \\ -7 & 15 & 3 & -1 \\ -2 & 8 & 2 & -2 \\ -12 & 6 & 3 & 11 \end{bmatrix}
+C_4x4_pow2_015,matrix_power,A = \begin{bmatrix} 3 & 2 & -1 & 0 \\ -2 & 3 & 3 & -2 \\ -2 & 3 & -2 & -1 \\ 2 & -2 & 2 & 1 \end{bmatrix},A^2 = \begin{bmatrix} 7 & 9 & 5 & -3 \\ -22 & 18 & 1 & -11 \\ -10 & 1 & 13 & -5 \\ 8 & 2 & -10 & 3 \end{bmatrix}
+C_4x4_pow2_016,matrix_power,A = \begin{bmatrix} -2 & -3 & -2 & 0 \\ 3 & 0 & -3 & -3 \\ -2 & 0 & 0 & -1 \\ 1 & -2 & -2 & 3 \end{bmatrix},A^2 = \begin{bmatrix} -1 & 6 & 13 & 11 \\ -3 & -3 & 0 & -6 \\ 3 & 8 & 6 & -3 \\ -1 & -9 & -2 & 17 \end{bmatrix}
+C_4x4_pow2_017,matrix_power,A = \begin{bmatrix} 0 & 1 & 1 & -2 \\ 1 & 2 & -3 & -1 \\ -2 & 1 & 3 & -1 \\ -3 & 1 & -1 & 1 \end{bmatrix},A^2 = \begin{bmatrix} 5 & 1 & 2 & -4 \\ 11 & 1 & -13 & -2 \\ -2 & 2 & 5 & -1 \\ 0 & -1 & -10 & 7 \end{bmatrix}
+C_4x4_pow2_018,matrix_power,A = \begin{bmatrix} -3 & -2 & -1 & 2 \\ 0 & 1 & 1 & 1 \\ 3 & -2 & 1 & -2 \\ 0 & -1 & 3 & -3 \end{bmatrix},A^2 = \begin{bmatrix} 6 & 4 & 6 & -12 \\ 3 & -2 & 5 & -4 \\ -6 & -8 & -10 & 8 \\ 9 & -4 & -7 & 2 \end{bmatrix}
+C_4x4_pow2_019,matrix_power,A = \begin{bmatrix} 0 & -3 & -1 & 1 \\ -2 & -1 & 1 & 2 \\ 1 & -3 & -1 & 2 \\ 3 & -2 & -1 & 3 \end{bmatrix},A^2 = \begin{bmatrix} 8 & 4 & -3 & -5 \\ 9 & 0 & -2 & 4 \\ 11 & -1 & -5 & -1 \\ 12 & -10 & -7 & 6 \end{bmatrix}
+C_4x4_pow2_020,matrix_power,A = \begin{bmatrix} -3 & 3 & -1 & 1 \\ 0 & -1 & -1 & -3 \\ 3 & 2 & 3 & 0 \\ 3 & -3 & -1 & 0 \end{bmatrix},A^2 = \begin{bmatrix} 9 & -17 & -4 & -12 \\ -12 & 8 & 1 & 3 \\ 0 & 13 & 4 & -3 \\ -12 & 10 & -3 & 12 \end{bmatrix}
+C_4x4_rank_001,rank,A = \begin{bmatrix} -2 & 0 & -1 & 3 \\ 1 & -3 & -3 & 2 \\ 6 & 2 & 5 & 3 \\ 2 & 1 & 2 & 3 \end{bmatrix},\text{rank}(A) = 3
+C_4x4_rank_002,rank,A = \begin{bmatrix} 2 & 1 & 0 & -2 \\ 0 & -3 & 6 & 9 \\ 0 & 1 & -2 & -3 \\ 2 & 0 & 2 & 1 \end{bmatrix},\text{rank}(A) = 2
+C_4x4_rank_003,rank,A = \begin{bmatrix} 4 & -4 & 4 & 4 \\ -5 & -2 & -2 & 3 \\ 2 & 0 & 0 & 4 \\ 0 & 5 & 1 & -2 \end{bmatrix},\text{rank}(A) = 4
+C_4x4_rank_004,rank,A = \begin{bmatrix} -4 & 0 & 3 & 0 \\ 2 & 2 & -4 & -2 \\ 0 & -5 & 4 & 3 \\ -2 & 1 & 0 & -4 \end{bmatrix},\text{rank}(A) = 4
+C_4x4_rank_005,rank,A = \begin{bmatrix} 2 & 2 & 2 & 0 \\ 4 & -3 & 3 & -3 \\ 1 & -5 & 2 & -2 \\ -1 & 2 & -1 & 1 \end{bmatrix},\text{rank}(A) = 4
+C_4x4_rank_006,rank,A = \begin{bmatrix} 2 & -4 & 0 & 1 \\ -2 & 4 & 0 & -1 \\ 3 & -10 & 2 & 4 \\ -3 & 2 & 2 & 1 \end{bmatrix},\text{rank}(A) = 2
+C_4x4_rank_007,rank,A = \begin{bmatrix} -14 & 8 & -10 & 18 \\ -3 & 2 & -2 & 4 \\ 4 & -4 & 3 & -4 \\ 0 & 2 & 0 & -1 \end{bmatrix},\text{rank}(A) = 3
+C_4x4_rank_008,rank,A = \begin{bmatrix} 8 & -11 & -4 & -9 \\ 1 & 3 & -3 & 3 \\ -1 & 0 & 3 & 4 \\ -4 & 4 & 2 & 1 \end{bmatrix},\text{rank}(A) = 3
+C_4x4_rank_009,rank,A = \begin{bmatrix} 2 & 2 & -1 & -1 \\ 2 & 5 & -3 & 3 \\ -1 & -4 & -2 & -4 \\ 3 & 3 & 3 & -1 \end{bmatrix},\text{rank}(A) = 3
+C_4x4_rank_010,rank,A = \begin{bmatrix} 1 & 3 & -1 & 0 \\ -5 & -5 & -5 & -3 \\ -4 & 3 & -5 & -2 \\ -2 & -3 & -5 & 2 \end{bmatrix},\text{rank}(A) = 4
+C_4x4_rank_011,rank,A = \begin{bmatrix} 1 & -2 & 2 & -5 \\ -5 & 5 & -4 & 4 \\ 2 & 1 & 2 & -5 \\ -5 & -5 & -5 & 5 \end{bmatrix},\text{rank}(A) = 4
+C_4x4_rank_012,rank,A = \begin{bmatrix} -1 & -4 & -2 & -4 \\ 4 & 3 & -5 & -2 \\ 2 & -1 & -3 & -1 \\ -1 & 2 & 1 & 0 \end{bmatrix},\text{rank}(A) = 4
+C_4x4_rank_013,rank,A = \begin{bmatrix} 1 & 3 & -4 & 0 \\ 3 & -2 & 4 & -3 \\ -5 & 3 & 3 & -3 \\ 5 & 1 & -5 & 1 \end{bmatrix},\text{rank}(A) = 4
+C_4x4_rank_014,rank,A = \begin{bmatrix} 0 & -18 & 8 & -20 \\ -3 & -31 & -7 & -23 \\ -3 & -16 & -5 & -10 \\ -6 & -17 & -8 & -7 \end{bmatrix},\text{rank}(A) = 3
+C_4x4_rank_015,rank,A = \begin{bmatrix} 3 & 5 & -5 & 0 \\ -1 & -3 & 4 & -4 \\ -2 & -1 & -3 & 2 \\ 2 & -5 & -4 & -1 \end{bmatrix},\text{rank}(A) = 4
+C_4x4_rank_016,rank,A = \begin{bmatrix} 4 & -1 & -1 & 2 \\ 3 & -3 & 2 & 4 \\ 4 & -2 & 3 & 4 \\ -4 & 4 & 5 & 4 \end{bmatrix},\text{rank}(A) = 4
+C_4x4_rank_017,rank,A = \begin{bmatrix} 1 & -4 & -8 & 12 \\ -9 & -2 & 4 & 18 \\ -16 & 7 & 26 & -3 \\ 7 & -4 & 4 & -12 \end{bmatrix},\text{rank}(A) = 3
+C_4x4_rank_018,rank,A = \begin{bmatrix} -5 & -8 & 11 & 1 \\ 3 & 18 & 7 & 5 \\ 2 & 8 & -6 & -18 \\ 7 & 28 & 1 & 3 \end{bmatrix},\text{rank}(A) = 3
+C_4x4_rank_019,rank,A = \begin{bmatrix} 3 & -5 & -12 & 8 \\ -6 & -2 & -12 & -22 \\ -2 & 6 & 16 & -4 \\ -4 & 0 & -4 & -14 \end{bmatrix},\text{rank}(A) = 2
+C_4x4_rank_020,rank,A = \begin{bmatrix} -8 & 0 & -4 & -13 \\ -4 & 0 & -4 & -8 \\ 2 & 0 & -14 & -8 \\ -10 & 0 & 2 & -11 \end{bmatrix},\text{rank}(A) = 2
+C_4x4_trace_001,trace,A = \begin{bmatrix} 2 & -5 & 2 & -5 \\ -2 & -5 & -9 & 5 \\ 5 & 2 & -6 & -5 \\ 9 & -8 & -7 & 9 \end{bmatrix},\text{tr}(A) = 0
+C_4x4_trace_002,trace,A = \begin{bmatrix} -5 & -1 & -4 & 6 \\ -6 & 9 & 9 & -5 \\ 3 & 6 & -6 & 4 \\ 5 & -5 & 2 & -6 \end{bmatrix},\text{tr}(A) = -8
+C_4x4_trace_003,trace,A = \begin{bmatrix} -4 & -5 & -9 & 0 \\ -6 & -2 & 3 & 2 \\ 6 & 1 & 6 & -4 \\ 8 & 7 & 2 & 7 \end{bmatrix},\text{tr}(A) = 7
+C_4x4_trace_004,trace,A = \begin{bmatrix} -6 & 2 & -1 & -9 \\ -7 & -7 & 3 & -8 \\ -2 & 1 & -3 & -6 \\ 0 & -5 & -5 & -1 \end{bmatrix},\text{tr}(A) = -17
+C_4x4_trace_005,trace,A = \begin{bmatrix} 9 & -3 & -6 & 0 \\ -1 & 5 & -2 & 4 \\ -9 & -7 & 0 & 9 \\ 5 & -7 & 7 & 8 \end{bmatrix},\text{tr}(A) = 22
+C_4x4_trace_006,trace,A = \begin{bmatrix} 7 & -2 & -8 & 2 \\ -2 & 4 & -4 & 3 \\ -8 & 4 & -4 & 3 \\ 2 & 9 & -4 & 7 \end{bmatrix},\text{tr}(A) = 14
+C_4x4_trace_007,trace,A = \begin{bmatrix} -6 & -4 & -8 & 4 \\ -8 & 1 & -2 & 3 \\ -5 & 3 & -7 & -3 \\ 3 & 2 & 6 & 5 \end{bmatrix},\text{tr}(A) = -7
+C_4x4_trace_008,trace,A = \begin{bmatrix} 0 & -2 & 7 & -3 \\ -7 & -7 & 4 & 7 \\ 4 & -2 & 6 & -1 \\ -6 & -6 & -8 & 5 \end{bmatrix},\text{tr}(A) = 4
+C_4x4_trace_009,trace,A = \begin{bmatrix} 7 & 9 & 1 & 4 \\ -6 & -7 & -8 & 0 \\ -1 & 3 & -3 & 1 \\ 4 & 1 & 6 & -4 \end{bmatrix},\text{tr}(A) = -7
+C_4x4_trace_010,trace,A = \begin{bmatrix} -1 & 2 & 5 & -7 \\ -1 & 5 & -7 & 4 \\ 4 & 0 & 9 & -3 \\ -9 & 3 & -1 & -2 \end{bmatrix},\text{tr}(A) = 11
+C_4x4_trace_011,trace,A = \begin{bmatrix} 4 & -4 & -5 & 2 \\ -1 & 0 & -5 & -1 \\ 2 & -2 & 4 & 3 \\ 2 & 4 & 2 & -4 \end{bmatrix},\text{tr}(A) = 4
+C_4x4_trace_012,trace,A = \begin{bmatrix} 4 & 2 & -4 & -2 \\ -4 & 5 & 3 & 5 \\ -2 & 1 & 1 & 3 \\ -4 & 0 & 2 & 4 \end{bmatrix},\text{tr}(A) = 14
+C_4x4_trace_013,trace,A = \begin{bmatrix} 2 & -1 & 0 & -2 \\ -4 & -2 & -4 & -3 \\ 4 & 0 & -4 & -1 \\ -3 & 2 & 4 & -5 \end{bmatrix},\text{tr}(A) = -9
+C_4x4_trace_014,trace,A = \begin{bmatrix} 0 & -1 & 5 & -1 \\ -4 & -3 & 0 & 1 \\ -2 & -1 & 2 & -2 \\ 5 & -3 & 5 & 4 \end{bmatrix},\text{tr}(A) = 3
+C_4x4_trace_015,trace,A = \begin{bmatrix} 5 & 3 & 0 & 1 \\ -3 & -2 & 0 & 5 \\ 3 & 1 & 1 & -1 \\ -1 & 4 & -5 & -2 \end{bmatrix},\text{tr}(A) = 2
+C_4x4_trace_016,trace,A = \begin{bmatrix} -1 & 2 & -1 & -2 \\ -5 & -3 & -4 & 2 \\ -1 & -3 & 0 & 0 \\ 0 & 1 & 1 & -3 \end{bmatrix},\text{tr}(A) = -7
+C_4x4_trace_017,trace,A = \begin{bmatrix} -4 & 3 & 5 & 1 \\ -1 & 1 & -5 & -1 \\ -2 & -1 & 3 & 0 \\ 4 & 0 & -5 & 2 \end{bmatrix},\text{tr}(A) = 2
+C_4x4_trace_018,trace,A = \begin{bmatrix} 3 & 1 & 5 & -1 \\ 3 & -5 & -5 & 3 \\ 4 & 0 & 3 & -2 \\ 2 & 0 & -2 & -4 \end{bmatrix},\text{tr}(A) = -3
+C_4x4_trace_019,trace,A = \begin{bmatrix} -4 & 4 & -1 & 5 \\ -2 & -5 & -3 & -2 \\ 2 & 3 & 3 & -2 \\ -1 & 1 & 1 & -1 \end{bmatrix},\text{tr}(A) = -7
+C_4x4_trace_020,trace,A = \begin{bmatrix} -3 & 3 & 0 & 5 \\ 5 & 4 & 5 & 1 \\ -2 & -4 & -4 & 5 \\ -3 & -5 & -5 & -2 \end{bmatrix},\text{tr}(A) = -5
+C_4x4_trans_001,transpose,A = \begin{bmatrix} -4 & 8 & -5 & -7 \\ 9 & -2 & -2 & 3 \\ 3 & 9 & -5 & -4 \\ -7 & 8 & -1 & 2 \end{bmatrix},A^T = \begin{bmatrix} -4 & 9 & 3 & -7 \\ 8 & -2 & 9 & 8 \\ -5 & -2 & -5 & -1 \\ -7 & 3 & -4 & 2 \end{bmatrix}
+C_4x4_trans_002,transpose,A = \begin{bmatrix} 5 & 4 & 8 & 0 \\ -8 & 7 & 0 & 1 \\ 2 & -3 & 2 & 3 \\ -8 & -5 & -3 & 1 \end{bmatrix},A^T = \begin{bmatrix} 5 & -8 & 2 & -8 \\ 4 & 7 & -3 & -5 \\ 8 & 0 & 2 & -3 \\ 0 & 1 & 3 & 1 \end{bmatrix}
+C_4x4_trans_003,transpose,A = \begin{bmatrix} 5 & -7 & 5 & 9 \\ -2 & -4 & 4 & -8 \\ -8 & -3 & -5 & -2 \\ 1 & -5 & 4 & 0 \end{bmatrix},A^T = \begin{bmatrix} 5 & -2 & -8 & 1 \\ -7 & -4 & -3 & -5 \\ 5 & 4 & -5 & 4 \\ 9 & -8 & -2 & 0 \end{bmatrix}
+C_4x4_trans_004,transpose,A = \begin{bmatrix} 8 & -8 & 8 & -5 \\ 5 & 9 & -8 & -6 \\ -1 & 4 & -5 & 2 \\ -8 & -3 & 0 & 9 \end{bmatrix},A^T = \begin{bmatrix} 8 & 5 & -1 & -8 \\ -8 & 9 & 4 & -3 \\ 8 & -8 & -5 & 0 \\ -5 & -6 & 2 & 9 \end{bmatrix}
+C_4x4_trans_005,transpose,A = \begin{bmatrix} 9 & 1 & -8 & 8 \\ -9 & -1 & -1 & 4 \\ 3 & -5 & 2 & 7 \\ 8 & 8 & 6 & 5 \end{bmatrix},A^T = \begin{bmatrix} 9 & -9 & 3 & 8 \\ 1 & -1 & -5 & 8 \\ -8 & -1 & 2 & 6 \\ 8 & 4 & 7 & 5 \end{bmatrix}
+C_4x4_trans_006,transpose,A = \begin{bmatrix} -7 & -1 & 8 & -4 \\ 4 & 3 & -4 & 0 \\ 7 & -5 & -7 & -7 \\ 6 & 9 & -9 & -3 \end{bmatrix},A^T = \begin{bmatrix} -7 & 4 & 7 & 6 \\ -1 & 3 & -5 & 9 \\ 8 & -4 & -7 & -9 \\ -4 & 0 & -7 & -3 \end{bmatrix}
+C_4x4_trans_007,transpose,A = \begin{bmatrix} -9 & 3 & -9 & 2 \\ -1 & -9 & 3 & -5 \\ 3 & -8 & 3 & -1 \\ -6 & -6 & -1 & -2 \end{bmatrix},A^T = \begin{bmatrix} -9 & -1 & 3 & -6 \\ 3 & -9 & -8 & -6 \\ -9 & 3 & 3 & -1 \\ 2 & -5 & -1 & -2 \end{bmatrix}
+C_4x4_trans_008,transpose,A = \begin{bmatrix} 5 & 8 & 2 & 7 \\ 2 & -3 & -8 & 4 \\ -6 & 0 & -1 & 7 \\ -9 & -7 & 2 & -6 \end{bmatrix},A^T = \begin{bmatrix} 5 & 2 & -6 & -9 \\ 8 & -3 & 0 & -7 \\ 2 & -8 & -1 & 2 \\ 7 & 4 & 7 & -6 \end{bmatrix}
+C_4x4_trans_009,transpose,A = \begin{bmatrix} 9 & 8 & -2 & -6 \\ -4 & -7 & 6 & 3 \\ -3 & 2 & -2 & -1 \\ -6 & 6 & -3 & 2 \end{bmatrix},A^T = \begin{bmatrix} 9 & -4 & -3 & -6 \\ 8 & -7 & 2 & 6 \\ -2 & 6 & -2 & -3 \\ -6 & 3 & -1 & 2 \end{bmatrix}
+C_4x4_trans_010,transpose,A = \begin{bmatrix} -8 & 8 & 2 & -7 \\ 1 & 8 & 7 & -7 \\ 7 & 3 & -1 & 1 \\ -6 & -9 & -6 & 4 \end{bmatrix},A^T = \begin{bmatrix} -8 & 1 & 7 & -6 \\ 8 & 8 & 3 & -9 \\ 2 & 7 & -1 & -6 \\ -7 & -7 & 1 & 4 \end{bmatrix}
+C_4x4_trans_011,transpose,A = \begin{bmatrix} 5 & -2 & -4 & 2 \\ -5 & 0 & -5 & -4 \\ -2 & -5 & 4 & 1 \\ 5 & 0 & 1 & 1 \end{bmatrix},A^{T} = \begin{bmatrix} 5 & -5 & -2 & 5 \\ -2 & 0 & -5 & 0 \\ -4 & -5 & 4 & 1 \\ 2 & -4 & 1 & 1 \end{bmatrix}
+C_4x4_trans_012,transpose,A = \begin{bmatrix} 0 & 1 & 1 & 4 \\ -2 & 5 & -4 & -3 \\ -3 & 5 & -3 & 3 \\ 1 & 2 & -5 & 2 \end{bmatrix},A^{T} = \begin{bmatrix} 0 & -2 & -3 & 1 \\ 1 & 5 & 5 & 2 \\ 1 & -4 & -3 & -5 \\ 4 & -3 & 3 & 2 \end{bmatrix}
+C_4x4_trans_013,transpose,A = \begin{bmatrix} -5 & 1 & 3 & 5 \\ 5 & -3 & 3 & 1 \\ 3 & 3 & 0 & -4 \\ 3 & 1 & -4 & -1 \end{bmatrix},A^{T} = \begin{bmatrix} -5 & 5 & 3 & 3 \\ 1 & -3 & 3 & 1 \\ 3 & 3 & 0 & -4 \\ 5 & 1 & -4 & -1 \end{bmatrix}
+C_4x4_trans_014,transpose,A = \begin{bmatrix} -4 & 3 & -2 & -5 \\ -2 & 1 & 1 & 4 \\ -2 & 1 & 5 & -2 \\ -5 & 2 & 1 & -2 \end{bmatrix},A^{T} = \begin{bmatrix} -4 & -2 & -2 & -5 \\ 3 & 1 & 1 & 2 \\ -2 & 1 & 5 & 1 \\ -5 & 4 & -2 & -2 \end{bmatrix}
+C_4x4_trans_015,transpose,A = \begin{bmatrix} 1 & 2 & 4 & -4 \\ 0 & -2 & -2 & -5 \\ -1 & -5 & 5 & 1 \\ -1 & -3 & 5 & 0 \end{bmatrix},A^{T} = \begin{bmatrix} 1 & 0 & -1 & -1 \\ 2 & -2 & -5 & -3 \\ 4 & -2 & 5 & 5 \\ -4 & -5 & 1 & 0 \end{bmatrix}
+C_4x4_trans_016,transpose,A = \begin{bmatrix} 5 & 2 & 5 & 4 \\ 3 & -2 & 3 & -2 \\ 4 & -2 & -5 & -4 \\ -1 & 2 & -2 & 4 \end{bmatrix},A^{T} = \begin{bmatrix} 5 & 3 & 4 & -1 \\ 2 & -2 & -2 & 2 \\ 5 & 3 & -5 & -2 \\ 4 & -2 & -4 & 4 \end{bmatrix}
+C_4x4_trans_017,transpose,A = \begin{bmatrix} -3 & 0 & -2 & 1 \\ -3 & 5 & 5 & 2 \\ 0 & 3 & 0 & 4 \\ -5 & -3 & 0 & 2 \end{bmatrix},A^{T} = \begin{bmatrix} -3 & -3 & 0 & -5 \\ 0 & 5 & 3 & -3 \\ -2 & 5 & 0 & 0 \\ 1 & 2 & 4 & 2 \end{bmatrix}
+C_4x4_trans_018,transpose,A = \begin{bmatrix} 2 & 2 & 5 & 4 \\ 5 & -2 & 2 & 2 \\ 1 & 1 & 0 & -1 \\ -4 & -4 & -5 & -2 \end{bmatrix},A^{T} = \begin{bmatrix} 2 & 5 & 1 & -4 \\ 2 & -2 & 1 & -4 \\ 5 & 2 & 0 & -5 \\ 4 & 2 & -1 & -2 \end{bmatrix}
+C_4x4_trans_019,transpose,A = \begin{bmatrix} -1 & 5 & -3 & -3 \\ -5 & -4 & 2 & -1 \\ 1 & -4 & 3 & -3 \\ -5 & 5 & -2 & -2 \end{bmatrix},A^{T} = \begin{bmatrix} -1 & -5 & 1 & -5 \\ 5 & -4 & -4 & 5 \\ -3 & 2 & 3 & -2 \\ -3 & -1 & -3 & -2 \end{bmatrix}
+C_4x4_trans_020,transpose,A = \begin{bmatrix} -5 & 1 & -2 & -3 \\ 2 & 2 & -4 & -4 \\ -3 & 3 & -3 & -1 \\ -4 & -3 & 2 & 3 \end{bmatrix},A^{T} = \begin{bmatrix} -5 & 2 & -3 & -4 \\ 1 & 2 & 3 & -3 \\ -2 & -4 & -3 & 2 \\ -3 & -4 & -1 & 3 \end{bmatrix}

@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "linalgbench"
 version = "1.0.0"
-description = "LinAlg-Bench: Where LLMs Stop Computing and Start Hallucinating"
+description = "LinAlg-Bench: Evaluating LLM Reasoning on Linear Algebra"
 authors = [
     {name = "Dr. Shradha's Research Team"},
 ]
@@ -20,16 +20,14 @@ dependencies = [
     "openpyxl>=3.1",
     "tqdm>=4.60",
     "python-dotenv>=1.0",
-    "json-repair",
-    "sympy",
-    "anthropic",
-    "scipy",
-    "matplotlib",
-    "requests>=2.32.0",
+    "streamlit>=1.30",
 ]
 
 [project.urls]
 Source = "https://github.com/tariqjamil-bwp/linalg-bench-math-ai-neurips"
 
 [tool.setuptools.packages.find]
-include = ["judge_prompts*"]
+include = ["pipeline*", "judge_prompts*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
