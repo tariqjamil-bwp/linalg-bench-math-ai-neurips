@@ -1,0 +1,1101 @@
+Problem_ID,Subcat,problem_latex,answer_latex
+C_5x5_det_001,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} -3 & -3 & 1 & -4 & -2 \\ 5 & 4 & 1 & -4 & -5 \\ -4 & 4 & -5 & -5 & 4 \\ -2 & -1 & -5 & -5 & -1 \\ -4 & 2 & -2 & -3 & -1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 5950
+C_5x5_det_002,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} 2 & -3 & -1 & 3 & -5 \\ 2 & 4 & -2 & -1 & 1 \\ -4 & 0 & 1 & -3 & -4 \\ 3 & -2 & 5 & 0 & -5 \\ -3 & 5 & 5 & 1 & -3 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -7556
+C_5x5_det_003,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} -1 & -1 & 1 & -2 & 5 \\ -5 & 1 & -1 & 2 & 1 \\ 2 & -4 & 5 & 0 & 2 \\ 4 & -3 & -1 & 3 & -4 \\ -3 & -4 & -4 & -2 & 0 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 3090
+C_5x5_det_004,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} 4 & -5 & 3 & -4 & 1 \\ -2 & -2 & 0 & 4 & 2 \\ 4 & -3 & -2 & -2 & -2 \\ 3 & 1 & 4 & 2 & 1 \\ -2 & 4 & 1 & 1 & 1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 560
+C_5x5_det_005,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} -4 & 5 & -2 & -1 & -2 \\ -4 & -5 & 0 & 3 & 1 \\ 3 & 4 & -4 & -5 & -2 \\ -4 & -2 & -1 & 2 & 1 \\ -4 & -1 & -2 & -2 & 2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -607
+C_5x5_det_006,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} 1 & 3 & 1 & -1 & -1 \\ 2 & -5 & -5 & 4 & 3 \\ 3 & -1 & 5 & 5 & 3 \\ 1 & -4 & 1 & 3 & 2 \\ 5 & 4 & 5 & -4 & 2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 712
+C_5x5_det_007,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} -4 & 2 & 4 & 3 & 2 \\ -4 & -2 & -4 & 3 & 2 \\ 0 & -4 & -3 & 0 & -3 \\ -3 & 4 & -2 & -3 & 1 \\ 2 & 4 & -4 & -2 & 5 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 244
+C_5x5_det_008,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} 3 & 5 & -2 & 5 & 5 \\ 2 & 4 & 4 & -2 & -2 \\ 0 & 1 & -5 & 3 & 2 \\ 2 & -1 & -1 & 0 & -5 \\ 3 & 4 & -3 & 0 & -4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 426
+C_5x5_det_009,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & 4 & -3 & 5 & -1 \\ -2 & -5 & -2 & 2 & 2 \\ -3 & 0 & -4 & 2 & 0 \\ 4 & -4 & 5 & -3 & 5 \\ 3 & 0 & -5 & 4 & -2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 2110
+C_5x5_det_010,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} -2 & -2 & -4 & 2 & 1 \\ -2 & -4 & 2 & -3 & 1 \\ 0 & 4 & 3 & 4 & -1 \\ 5 & 2 & 3 & 0 & 4 \\ -3 & -1 & -2 & -2 & -4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 187
+C_5x5_det_011,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} 2 & 3 & 0 & 2 & 2 \\ 2 & 0 & -5 & -5 & 3 \\ -4 & -5 & -1 & 5 & 0 \\ -1 & 0 & -5 & 2 & -4 \\ -3 & 5 & -3 & 2 & 5 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -9112
+C_5x5_det_012,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} 2 & -2 & 5 & 1 & -4 \\ 3 & -1 & -4 & 1 & 0 \\ 4 & 5 & -5 & -2 & -4 \\ -2 & 2 & 2 & 2 & 0 \\ -2 & 1 & -2 & 0 & -4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -3328
+C_5x5_det_013,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & 4 & 5 & 5 & -1 \\ 0 & 2 & -4 & 3 & -2 \\ 0 & -3 & -1 & -3 & -3 \\ 3 & -1 & 3 & 0 & 1 \\ -5 & 4 & 5 & 3 & -3 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 36
+C_5x5_det_014,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} -2 & 1 & 2 & -5 & -5 \\ -2 & -2 & 0 & 5 & 1 \\ 1 & -2 & 3 & 4 & 1 \\ 5 & 0 & -4 & 1 & -4 \\ 0 & 5 & 4 & -4 & -1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 3721
+C_5x5_det_015,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & -2 & -3 & -3 & -1 \\ 0 & -1 & -2 & 0 & 5 \\ -4 & 5 & 4 & -1 & 0 \\ 4 & 3 & 2 & 4 & 2 \\ 4 & 4 & -1 & 0 & -4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -880
+C_5x5_det_016,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} 5 & -5 & 3 & -2 & 3 \\ -5 & 0 & 2 & -1 & 5 \\ 3 & 5 & -4 & -1 & 2 \\ -2 & 0 & 4 & 5 & -1 \\ 5 & -3 & 2 & 5 & 5 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -9037
+C_5x5_det_017,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} 4 & 3 & -1 & 2 & -4 \\ 4 & 4 & 1 & -5 & 5 \\ -5 & -5 & 3 & 1 & 0 \\ -3 & -4 & 1 & 1 & -2 \\ 3 & 1 & 0 & 3 & -5 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -101
+C_5x5_det_018,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} 2 & 1 & 0 & 2 & -3 \\ -3 & -4 & 5 & 4 & -3 \\ -1 & -5 & -3 & 1 & -2 \\ -4 & 1 & -5 & -4 & -5 \\ 5 & 2 & -5 & 4 & 0 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 5139
+C_5x5_det_019,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} 4 & -4 & -3 & 0 & -1 \\ -1 & -5 & 4 & 0 & -1 \\ 2 & -5 & 1 & -2 & 4 \\ 0 & 2 & 4 & 1 & 4 \\ 4 & -3 & 3 & -1 & -3 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 3065
+C_5x5_det_020,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & -1 & 3 & 3 & 3 \\ -1 & 4 & -5 & -3 & -4 \\ -5 & -2 & -3 & -3 & -2 \\ 2 & 1 & -2 & 1 & -1 \\ 0 & -2 & -4 & 5 & -4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -668
+C_5x5_det_021,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} 3 & -3 & 3 & 0 & 3 \\ 1 & -1 & 4 & 5 & 4 \\ 1 & -1 & 5 & -4 & -1 \\ 5 & 5 & 1 & -3 & 4 \\ 1 & 1 & 1 & 0 & 1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 180
+C_5x5_det_022,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} -5 & 5 & 4 & 2 & 0 \\ 5 & -3 & -3 & 2 & 3 \\ 0 & 1 & 2 & 1 & -3 \\ 0 & -2 & 5 & -4 & 5 \\ 5 & 0 & 4 & 2 & 5 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -1750
+C_5x5_det_023,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} -3 & -4 & -1 & -4 & 2 \\ 2 & 2 & 1 & -4 & 2 \\ 2 & 2 & -3 & 5 & -3 \\ -4 & 0 & 4 & 5 & -5 \\ 1 & 2 & 3 & 2 & -5 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -896
+C_5x5_det_024,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} 3 & -4 & 1 & 1 & 1 \\ 2 & 0 & -3 & -3 & -3 \\ -5 & -2 & 4 & 2 & 4 \\ -3 & -4 & 5 & -4 & 5 \\ 4 & -5 & -2 & 1 & 1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 1110
+C_5x5_det_025,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} 5 & -3 & -5 & 2 & 0 \\ 5 & 1 & -4 & -4 & -1 \\ -5 & 1 & -3 & 3 & 2 \\ -4 & -4 & 2 & -1 & -4 \\ -3 & 0 & -1 & -5 & -3 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 662
+C_5x5_det_026,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} -1 & -3 & -3 & -2 & -2 \\ 0 & 3 & 2 & -3 & 4 \\ -5 & 4 & 3 & -4 & -3 \\ -4 & -4 & 4 & 3 & -5 \\ -2 & 0 & 0 & 3 & -4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 1124
+C_5x5_det_027,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} 4 & 0 & 0 & -2 & -2 \\ 0 & 2 & -2 & 0 & -5 \\ -3 & -3 & 3 & 2 & -3 \\ -2 & -2 & 3 & -3 & -5 \\ -2 & 2 & 0 & 5 & -4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -1240
+C_5x5_det_028,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} 2 & 2 & 2 & -4 & -3 \\ -5 & 4 & 4 & -4 & 0 \\ 2 & -5 & -2 & 2 & 4 \\ -2 & 1 & -4 & 2 & -5 \\ -2 & -5 & -2 & -2 & 5 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -616
+C_5x5_det_029,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & 3 & 5 & -1 & 2 \\ 0 & -3 & 4 & -5 & 0 \\ -2 & 0 & -1 & -1 & 2 \\ 3 & 3 & -4 & -5 & 1 \\ -5 & 5 & 0 & -3 & 3 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -3362
+C_5x5_det_030,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} 1 & 0 & -1 & -2 & 0 \\ -3 & 0 & 0 & 2 & 0 \\ 3 & -2 & 3 & -3 & 5 \\ -1 & 3 & 1 & -3 & 3 \\ 4 & 5 & -5 & 1 & 4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 1101
+C_5x5_det_031,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} -2 & -2 & 2 & -5 & 1 \\ -1 & -4 & 3 & 3 & 3 \\ 0 & 3 & 1 & 0 & 3 \\ 2 & -4 & -1 & -3 & 4 \\ 1 & 2 & -4 & 5 & -2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -1730
+C_5x5_det_032,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} -4 & -2 & 3 & 1 & -2 \\ 1 & -1 & 0 & 2 & 3 \\ 3 & 1 & -2 & 1 & -2 \\ 2 & 5 & 1 & -1 & -3 \\ 3 & -2 & -5 & -5 & -1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 621
+C_5x5_det_033,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} -4 & 1 & 1 & 2 & 0 \\ 3 & 4 & 5 & -3 & 1 \\ 1 & 4 & 1 & 4 & 3 \\ 4 & -2 & -4 & 3 & 4 \\ -2 & 0 & 2 & -3 & 3 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 868
+C_5x5_det_034,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} 2 & 2 & -5 & 4 & 0 \\ 3 & 0 & -3 & -5 & 3 \\ 0 & -2 & -4 & -4 & -5 \\ 0 & -3 & 2 & 4 & 3 \\ 1 & -1 & -4 & 2 & -4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -1415
+C_5x5_det_035,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} 1 & -2 & 1 & -3 & 5 \\ -3 & 5 & 2 & 0 & -1 \\ 2 & 3 & -4 & 5 & 4 \\ -1 & 4 & 1 & -3 & -5 \\ -2 & 2 & 1 & -1 & -4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 468
+C_5x5_det_036,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & -5 & 4 & -4 & -2 \\ -3 & 1 & -4 & 2 & 3 \\ 1 & -2 & 1 & -5 & -2 \\ 1 & -3 & 3 & 1 & 0 \\ 0 & 5 & 5 & 5 & -2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 148
+C_5x5_det_037,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} -1 & 0 & 4 & 5 & 3 \\ 5 & 4 & -5 & 1 & 4 \\ 3 & 5 & -4 & 3 & -1 \\ -5 & 3 & -2 & 5 & 2 \\ 0 & 0 & -3 & 2 & -3 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -5260
+C_5x5_det_038,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} 3 & 5 & 5 & 4 & 3 \\ 3 & 2 & -5 & 0 & 4 \\ 5 & -4 & 4 & 4 & -4 \\ 0 & 1 & 0 & 5 & -5 \\ -5 & 5 & 5 & -2 & 0 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 5501
+C_5x5_det_039,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} 5 & 1 & 3 & 3 & 2 \\ 2 & -4 & -2 & -4 & 4 \\ 4 & -3 & 2 & 3 & 2 \\ 2 & -1 & -4 & -3 & -2 \\ -4 & 1 & 0 & 3 & -2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -1056
+C_5x5_det_040,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} -2 & 5 & -2 & 4 & 4 \\ 3 & 0 & 1 & 0 & 3 \\ -4 & -3 & -1 & 5 & -3 \\ -1 & 5 & 3 & 2 & -4 \\ 1 & -5 & 2 & 4 & -2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -273
+C_5x5_det_041,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} 5 & -3 & -1 & -5 & 4 \\ -2 & -4 & -1 & -4 & 4 \\ 4 & -1 & 1 & 0 & -1 \\ -5 & 2 & 5 & 4 & 2 \\ -5 & -4 & -1 & 5 & -3 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 2228
+C_5x5_det_042,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} 1 & 3 & 3 & 3 & 1 \\ -1 & -4 & 1 & -3 & -5 \\ -4 & 2 & -5 & -1 & -2 \\ -2 & -1 & 0 & -3 & 3 \\ -3 & -2 & -1 & -1 & -2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 1161
+C_5x5_det_043,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} 1 & 0 & 4 & 3 & -3 \\ 2 & 3 & 4 & 1 & 3 \\ -3 & 0 & -5 & 1 & 1 \\ 5 & -3 & 0 & -4 & 3 \\ 0 & 5 & 0 & 2 & 2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -1155
+C_5x5_det_044,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} 3 & -4 & -1 & 2 & 3 \\ -3 & -5 & -3 & 3 & 3 \\ -3 & 2 & 1 & 3 & 0 \\ -2 & -4 & 4 & -4 & -1 \\ 2 & -3 & 4 & -1 & 2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 1102
+C_5x5_det_045,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} -1 & 1 & -1 & 1 & -1 \\ 1 & -1 & -4 & 4 & -3 \\ -1 & -1 & -2 & -4 & -2 \\ 2 & 2 & 3 & -4 & -2 \\ 3 & 4 & 4 & -4 & 2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -767
+C_5x5_det_046,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} -5 & 5 & 1 & 4 & 5 \\ 3 & 1 & -2 & -2 & 2 \\ 0 & 5 & 1 & -4 & -4 \\ 4 & 4 & -4 & 2 & -1 \\ 5 & 0 & -4 & -2 & -3 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 2090
+C_5x5_det_047,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} -1 & -1 & -4 & 4 & -4 \\ -2 & 1 & -2 & 0 & -4 \\ 0 & 1 & -4 & -5 & -3 \\ -1 & -5 & 0 & 5 & -3 \\ 0 & 2 & 0 & 0 & 4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -800
+C_5x5_det_048,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} -3 & 3 & 0 & 3 & -5 \\ -5 & 0 & 5 & -5 & -1 \\ -4 & -3 & 2 & 4 & -5 \\ 5 & -5 & 0 & 0 & 1 \\ 2 & 0 & 5 & 4 & -4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -5715
+C_5x5_det_049,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} 5 & -5 & -4 & 2 & 5 \\ 4 & -1 & 3 & 1 & 5 \\ -3 & 1 & -1 & 2 & 4 \\ -3 & -3 & -1 & 3 & -3 \\ 0 & -1 & -4 & -2 & 4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -3219
+C_5x5_det_050,determinant,"Find the determinant of the 5×5 matrix A.
+
+A = \begin{bmatrix} 5 & -3 & 2 & 5 & 5 \\ 1 & 2 & -5 & 5 & -3 \\ -2 & -2 & -4 & 1 & -3 \\ -1 & 0 & 2 & 5 & 5 \\ 5 & -3 & 3 & 3 & 2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 2949
+C_5x5_eig_007,eigenvalue,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & -3 & -2 & -1 & 5 \\ -3 & 2 & -4 & -2 & -1 \\ -2 & -4 & 6 & 1 & 1 \\ -1 & -2 & 1 & -4 & -4 \\ 5 & -1 & 1 & -4 & 2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -6.7782, -5.3145, 1.4187, 7.7088, 8.9652"
+C_5x5_eig_008,eigenvalue,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -2 & -5 & -2 & -3 & 2 \\ -5 & 8 & 5 & 2 & -5 \\ -2 & 5 & 4 & -8 & 3 \\ -3 & 2 & -8 & 0 & 7 \\ 2 & -5 & 3 & 7 & 2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -13.2528, -4.1038, 5.6542, 8.7978, 14.9047"
+C_5x5_eig_009,eigenvalue,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 4 & 2 & -1 & -4 & 1 \\ 2 & -6 & -6 & -3 & 2 \\ -1 & -6 & 6 & -4 & 1 \\ -4 & -3 & -4 & 4 & -2 \\ 1 & 2 & 1 & -2 & 8 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -9.9891, -0.6487, 5.9924, 9.1452, 11.5002"
+C_5x5_eig_010,eigenvalue,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & 0 & -1 & 8 & 3 \\ 0 & -2 & 4 & -3 & -1 \\ -1 & 4 & 8 & 5 & 6 \\ 8 & -3 & 5 & 0 & 7 \\ 3 & -1 & 6 & 7 & 0 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -10.5361, -5.9796, -1.7772, 7.5096, 16.7833"
+C_5x5_eig_011,eigenvalue,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 4 & 2 & -1 & -6 & -5 \\ 2 & -6 & 1 & 3 & 2 \\ -1 & 1 & -2 & 8 & -2 \\ -6 & 3 & 8 & 8 & 3 \\ -5 & 2 & -2 & 3 & -8 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -11.8497, -8.1126, -3.8837, 3.6081, 16.2379"
+C_5x5_eig_012,eigenvalue,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -4 & 0 & 1 & 7 & -6 \\ 0 & 0 & 7 & 1 & 3 \\ 1 & 7 & -2 & -5 & 7 \\ 7 & 1 & -5 & -6 & -6 \\ -6 & 3 & 7 & -6 & -2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -14.9334, -10.246, -6.224, 3.6107, 13.7927"
+C_5x5_eig_013,eigenvalue,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -2 & 6 & -1 & -1 & -1 \\ 6 & 2 & 0 & 2 & -3 \\ -1 & 0 & 4 & -1 & 4 \\ -1 & 2 & -1 & -2 & -4 \\ -1 & -3 & 4 & -4 & 8 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -7.2171, -2.8922, 1.8605, 5.1509, 13.0979"
+C_5x5_eig_014,eigenvalue,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & 2 & 0 & 7 & -6 \\ 2 & -6 & 4 & -6 & 3 \\ 0 & 4 & 4 & -6 & 1 \\ 7 & -6 & -6 & -6 & 0 \\ -6 & 3 & 1 & 0 & 0 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -16.2815, -5.7005, -2.5592, 5.0255, 11.5157"
+C_5x5_eig_015,eigenvalue,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -8 & -8 & 4 & -5 & 4 \\ -8 & 4 & -3 & -4 & -5 \\ 4 & -3 & -4 & 7 & 3 \\ -5 & -4 & 7 & -8 & -1 \\ 4 & -5 & 3 & -1 & 0 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -19.1648, -7.762, -3.0933, 0.5059, 13.5143"
+C_5x5_eig_016,eigenvalue,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 2 & -2 & -3 & 1 & 1 \\ -2 & 2 & -2 & 2 & 3 \\ -3 & -2 & 0 & -5 & -4 \\ 1 & 2 & -5 & 4 & 3 \\ 1 & 3 & -4 & 3 & 6 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -4.5384, -1.1893, 1.9752, 4.3756, 13.3769"
+C_5x5_eig_017,eigenvalue,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 6 & 3 & 0 & 3 & -1 \\ 3 & -2 & -4 & -1 & -5 \\ 0 & -4 & 4 & -1 & 1 \\ 3 & -1 & -1 & 0 & -5 \\ -1 & -5 & 1 & -5 & -6 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -11.7353, -2.216, 0.8395, 5.2662, 9.8456"
+C_5x5_eig_018,eigenvalue,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 2 & 1 & 0 & 2 & 5 \\ 1 & -6 & 2 & -1 & -1 \\ 0 & 2 & -2 & 2 & 3 \\ 2 & -1 & 2 & -6 & -2 \\ 5 & -1 & 3 & -2 & -6 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -12.1739, -5.5221, -4.3283, -0.8575, 4.8818"
+C_5x5_eig_019,eigenvalue,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -2 & 6 & 1 & 5 & -4 \\ 6 & 8 & 1 & -2 & -4 \\ 1 & 1 & 8 & -1 & -1 \\ 5 & -2 & -1 & 8 & 1 \\ -4 & -4 & -1 & 1 & 4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -7.2881, 1.5017, 7.3518, 10.2105, 14.2241"
+C_5x5_eig_020,eigenvalue,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 6 & 3 & -6 & 5 & 0 \\ 3 & -6 & 2 & 2 & -3 \\ -6 & 2 & -8 & 3 & 4 \\ 5 & 2 & 3 & 6 & -1 \\ 0 & -3 & 4 & -1 & -8 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -15.3957, -6.4408, -4.4876, 4.282, 12.0422"
+C_5x5_eig_021,eigenvalue,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 4 & -5 & -6 & 2 & 2 \\ -5 & 0 & -3 & 0 & -1 \\ -6 & -3 & -8 & 1 & -3 \\ 2 & 0 & 1 & -6 & -7 \\ 2 & -1 & -3 & -7 & -4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -12.8626, -12.5311, -0.091, 2.6143, 8.8703"
+C_5x5_eig_022,eigenvalue,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -4 & 6 & -1 & 5 & 1 \\ 6 & 6 & 0 & 4 & -5 \\ -1 & 0 & 8 & -7 & 1 \\ 5 & 4 & -7 & -2 & -6 \\ 1 & -5 & 1 & -6 & 8 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -10.6371, -5.0039, 4.7065, 8.9435, 17.991"
+C_5x5_eig_023,eigenvalue,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 6 & 1 & 3 & -4 & -1 \\ 1 & 6 & 0 & -1 & 1 \\ 3 & 0 & 2 & -5 & -1 \\ -4 & -1 & -5 & 4 & -2 \\ -1 & 1 & -1 & -2 & 2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -3.0393, 1.0136, 3.473, 6.1481, 12.4046"
+C_5x5_eig_024,eigenvalue,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & 0 & 2 & -1 & 0 \\ 0 & -2 & -1 & 0 & 0 \\ 2 & -1 & 4 & -2 & 4 \\ -1 & 0 & -2 & 2 & -2 \\ 0 & 0 & 4 & -2 & -8 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -9.4313, -2.175, -0.5563, 0.8645, 7.2982"
+C_5x5_eig_025,eigenvalue,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 6 & -6 & -2 & 1 & -5 \\ -6 & -8 & 7 & -3 & -5 \\ -2 & 7 & 8 & -4 & 2 \\ 1 & -3 & -4 & -8 & -3 \\ -5 & -5 & 2 & -3 & 6 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -14.9647, -8.6688, 3.7204, 8.7047, 15.2084"
+C_5x5_eig_026,eigenvalue,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -8 & 0 & -4 & 6 & -5 \\ 0 & 4 & 5 & -5 & -4 \\ -4 & 5 & 4 & -5 & 3 \\ 6 & -5 & -5 & -4 & 2 \\ -5 & -4 & 3 & 2 & 2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -14.169, -4.7539, -4.1247, 7.6842, 13.3634"
+C_5x5_eig_027,eigenvalue,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -6 & -4 & -2 & -2 & 0 \\ -4 & 8 & 4 & -2 & -4 \\ -2 & 4 & -2 & 0 & -7 \\ -2 & -2 & 0 & 4 & -3 \\ 0 & -4 & -7 & -3 & -4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -11.2326, -6.7066, -0.7558, 5.7749, 12.9201"
+C_5x5_eig_028,eigenvalue,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -6 & -4 & 0 & -3 & -5 \\ -4 & -4 & 1 & 5 & 1 \\ 0 & 1 & 2 & 0 & 2 \\ -3 & 5 & 0 & -4 & -5 \\ -5 & 1 & 2 & -5 & 0 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -12.3292, -9.5007, 0.9266, 3.666, 5.2373"
+C_5x5_eig_029,eigenvalue,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & 2 & 3 & -4 & 0 \\ 2 & 0 & -3 & -1 & -1 \\ 3 & -3 & -4 & -1 & -2 \\ -4 & -1 & -1 & -8 & 4 \\ 0 & -1 & -2 & 4 & 6 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -10.5712, -7.34, 1.4244, 2.4724, 8.0145"
+C_5x5_eig_030,eigenvalue,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 8 & -1 & 8 & 2 & -5 \\ -1 & -4 & 5 & 1 & -1 \\ 8 & 5 & 8 & 2 & 0 \\ 2 & 1 & 2 & 2 & -7 \\ -5 & -1 & 0 & -7 & -4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -10.1388, -6.2652, 2.4807, 5.7313, 18.192"
+C_5x5_eig_031,eigenvalue,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -2 & -6 & 4 & -5 & -4 \\ -6 & 2 & -1 & -3 & 6 \\ 4 & -1 & -8 & 4 & 1 \\ -5 & -3 & 4 & -2 & 2 \\ -4 & 6 & 1 & 2 & -2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -14.1258, -8.0137, -3.3794, 2.6703, 10.8486"
+C_5x5_eig_032,eigenvalue,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 4 & 0 & 5 & -3 & 4 \\ 0 & -6 & -3 & -5 & 3 \\ 5 & -3 & 0 & 6 & -3 \\ -3 & -5 & 6 & -4 & 2 \\ 4 & 3 & -3 & 2 & 8 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -12.717, -7.5702, 3.1693, 8.1141, 11.0039"
+C_5x5_eig_033,eigenvalue,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} -8 & -5 & -1 & -3 & 4 \\ -5 & 8 & -2 & 5 & 1 \\ -1 & -2 & 6 & 0 & 2 \\ -3 & 5 & 0 & 0 & -1 \\ 4 & 1 & 2 & -1 & -8 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -13.2304, -5.4614, -1.8069, 6.0273, 12.4714"
+C_5x5_eig_034,eigenvalue,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 4 & -1 & 1 & -2 & 2 \\ -1 & 4 & -4 & -2 & 2 \\ 1 & -4 & -8 & 5 & 0 \\ -2 & -2 & 5 & -2 & 1 \\ 2 & 2 & 0 & 1 & 6 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -11.4447, -2.6291, 3.7638, 6.2743, 8.0357"
+C_5x5_eig_035,eigenvalue,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & 3 & -4 & 4 & -4 \\ 3 & -2 & -5 & -3 & -2 \\ -4 & -5 & 0 & -1 & 1 \\ 4 & -3 & -1 & -6 & -2 \\ -4 & -2 & 1 & -2 & -2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -10.3949, -6.3088, -3.4305, 0.8821, 9.252"
+C_5x5_eig_036,eigenvalue,"Find the eigenvalues of the 5×5 matrix A.
+
+A = \begin{bmatrix} 8 & 4 & -6 & -2 & -4 \\ 4 & 6 & 0 & 3 & 2 \\ -6 & 0 & 2 & -7 & 0 \\ -2 & 3 & -7 & 2 & 1 \\ -4 & 2 & 0 & 1 & 6 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -8.1399, 1.7856, 5.8842, 9.9395, 14.5305"
+C_5x5_matvec_001,matrix_vector,"Compute the product of the 5×5 matrix A and the vector x.
+
+A = \begin{bmatrix} 3 & -2 & -1 & -1 & -1 \\ 5 & 5 & 0 & 0 & -3 \\ -1 & 5 & -5 & 4 & -5 \\ -2 & 1 & 2 & 2 & 2 \\ 4 & 5 & -3 & 5 & -4 \end{bmatrix}\nx = \begin{bmatrix} 0 \\ -2 \\ -5 \\ -5 \\ -5 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",Ax = \begin{bmatrix} 19 \\ 5 \\ 20 \\ -32 \\ 0 \end{bmatrix}
+C_5x5_matvec_002,matrix_vector,"Compute the product of the 5×5 matrix A and the vector x.
+
+A = \begin{bmatrix} 2 & -4 & -2 & -2 & 1 \\ -5 & 3 & -5 & 3 & 4 \\ -5 & -2 & 2 & -4 & 4 \\ 0 & 1 & -5 & -2 & 1 \\ 4 & 4 & -5 & 0 & 1 \end{bmatrix}\nx = \begin{bmatrix} 3 \\ 2 \\ -4 \\ -2 \\ -4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",Ax = \begin{bmatrix} 6 \\ -11 \\ -35 \\ 22 \\ 36 \end{bmatrix}
+C_5x5_matvec_003,matrix_vector,"Compute the product of the 5×5 matrix A and the vector x.
+
+A = \begin{bmatrix} 4 & -4 & 5 & 1 & 4 \\ 5 & -4 & -3 & 5 & 1 \\ -2 & 1 & -3 & -4 & -1 \\ 1 & -4 & -2 & 2 & -2 \\ 0 & 2 & -4 & 2 & -5 \end{bmatrix}\nx = \begin{bmatrix} -2 \\ 0 \\ -4 \\ 2 \\ 4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",Ax = \begin{bmatrix} -10 \\ 16 \\ 4 \\ 2 \\ 0 \end{bmatrix}
+C_5x5_matvec_004,matrix_vector,"Compute the product of the 5×5 matrix A and the vector x.
+
+A = \begin{bmatrix} -4 & -1 & 5 & 4 & 4 \\ 1 & 2 & -3 & -2 & -2 \\ -4 & 4 & 0 & 5 & -5 \\ 5 & 5 & 1 & 5 & -2 \\ 2 & -2 & 1 & -5 & -3 \end{bmatrix}\nx = \begin{bmatrix} -4 \\ -1 \\ -1 \\ -3 \\ 3 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",Ax = \begin{bmatrix} 12 \\ -3 \\ -18 \\ -47 \\ -1 \end{bmatrix}
+C_5x5_matvec_005,matrix_vector,"Compute the product of the 5×5 matrix A and the vector x.
+
+A = \begin{bmatrix} -4 & -5 & 3 & 3 & -4 \\ -5 & -1 & 2 & 3 & -1 \\ 0 & 5 & -4 & 5 & -1 \\ -5 & 1 & 2 & -4 & 3 \\ 2 & 5 & -5 & -3 & 0 \end{bmatrix}\nx = \begin{bmatrix} 4 \\ -1 \\ 2 \\ 0 \\ -5 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",Ax = \begin{bmatrix} 15 \\ -10 \\ -8 \\ -32 \\ -7 \end{bmatrix}
+C_5x5_matvec_006,matrix_vector,"Compute the product of the 5×5 matrix A and the vector x.
+
+A = \begin{bmatrix} -4 & -3 & -5 & 4 & -4 \\ 0 & 3 & 5 & 2 & 0 \\ 3 & -4 & 1 & -1 & 0 \\ 0 & -1 & -2 & -2 & 0 \\ 3 & 3 & -1 & 3 & 3 \end{bmatrix}\nx = \begin{bmatrix} -4 \\ -1 \\ 0 \\ -3 \\ 5 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",Ax = \begin{bmatrix} -13 \\ -9 \\ -5 \\ 7 \\ -9 \end{bmatrix}
+C_5x5_matvec_007,matrix_vector,"Compute the product of the 5×5 matrix A and the vector x.
+
+A = \begin{bmatrix} -4 & -1 & 4 & -1 & -2 \\ 5 & 5 & 5 & 1 & -5 \\ 3 & 0 & 1 & -4 & 3 \\ -5 & -1 & 1 & 4 & -3 \\ -3 & 5 & 0 & 2 & -4 \end{bmatrix}\nx = \begin{bmatrix} 5 \\ 1 \\ -5 \\ 4 \\ 5 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",Ax = \begin{bmatrix} -55 \\ -16 \\ 9 \\ -30 \\ -22 \end{bmatrix}
+C_5x5_matvec_008,matrix_vector,"Compute the product of the 5×5 matrix A and the vector x.
+
+A = \begin{bmatrix} 5 & 5 & -3 & 4 & -3 \\ 5 & -3 & 0 & 0 & -3 \\ 5 & 5 & -3 & -3 & -4 \\ 0 & -4 & 4 & -5 & -1 \\ 5 & 4 & 4 & 3 & 1 \end{bmatrix}\nx = \begin{bmatrix} -3 \\ -2 \\ 3 \\ 0 \\ -1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",Ax = \begin{bmatrix} -31 \\ -6 \\ -30 \\ 21 \\ -12 \end{bmatrix}
+C_5x5_matvec_009,matrix_vector,"Compute the product of the 5×5 matrix A and the vector x.
+
+A = \begin{bmatrix} -4 & 0 & -4 & -3 & 0 \\ 5 & -3 & -5 & -1 & 5 \\ -3 & 2 & 2 & 1 & 5 \\ 3 & 3 & 4 & 2 & -4 \\ 0 & 0 & 1 & 4 & 2 \end{bmatrix}\nx = \begin{bmatrix} -1 \\ 3 \\ -4 \\ -4 \\ 4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",Ax = \begin{bmatrix} 32 \\ 30 \\ 17 \\ -34 \\ -12 \end{bmatrix}
+C_5x5_matvec_010,matrix_vector,"Compute the product of the 5×5 matrix A and the vector x.
+
+A = \begin{bmatrix} 0 & -4 & 1 & -5 & 4 \\ 1 & -5 & -5 & -4 & 3 \\ 1 & 1 & 0 & 5 & -4 \\ 5 & -5 & -4 & 4 & 1 \\ -4 & -1 & 5 & -4 & -5 \end{bmatrix}\nx = \begin{bmatrix} -2 \\ 5 \\ 2 \\ -3 \\ 0 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",Ax = \begin{bmatrix} -3 \\ -25 \\ -12 \\ -55 \\ 25 \end{bmatrix}
+C_5x5_matvec_011,matrix_vector,"Compute the product of the 5×5 matrix A and the vector x.
+
+A = \begin{bmatrix} 1 & 3 & 5 & -4 & 4 \\ 5 & 0 & 4 & -3 & -4 \\ 1 & -2 & -5 & -4 & -4 \\ 4 & 3 & -5 & -2 & 4 \\ -1 & -2 & 2 & 4 & -4 \end{bmatrix}\nx = \begin{bmatrix} 3 \\ -1 \\ 1 \\ -5 \\ -4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",Ax = \begin{bmatrix} 9 \\ 50 \\ 36 \\ -2 \\ -3 \end{bmatrix}
+C_5x5_matvec_012,matrix_vector,"Compute the product of the 5×5 matrix A and the vector x.
+
+A = \begin{bmatrix} 4 & -5 & 5 & -5 & -4 \\ -1 & -2 & -3 & -3 & 1 \\ 0 & -3 & -3 & -2 & -3 \\ -1 & 0 & 0 & -2 & 3 \\ -2 & 5 & 3 & 4 & 5 \end{bmatrix}\nx = \begin{bmatrix} 1 \\ 0 \\ 0 \\ 0 \\ 0 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",Ax = \begin{bmatrix} 4 \\ -1 \\ 0 \\ -1 \\ -2 \end{bmatrix}
+C_5x5_matvec_013,matrix_vector,"Compute the product of the 5×5 matrix A and the vector x.
+
+A = \begin{bmatrix} 0 & 3 & 4 & 2 & -2 \\ -5 & -1 & 2 & 3 & 3 \\ 3 & -4 & 2 & -1 & -2 \\ -5 & 3 & 1 & 1 & 1 \\ 4 & 5 & -2 & -5 & -3 \end{bmatrix}\nx = \begin{bmatrix} -1 \\ -2 \\ 4 \\ 5 \\ 4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",Ax = \begin{bmatrix} 12 \\ 42 \\ 0 \\ 12 \\ -59 \end{bmatrix}
+C_5x5_matvec_014,matrix_vector,"Compute the product of the 5×5 matrix A and the vector x.
+
+A = \begin{bmatrix} -5 & 5 & 0 & -2 & 1 \\ -3 & 4 & 1 & -2 & 2 \\ -3 & -1 & 5 & 3 & -3 \\ 0 & -2 & -4 & 2 & -2 \\ 0 & -3 & 2 & -3 & -1 \end{bmatrix}\nx = \begin{bmatrix} -4 \\ 2 \\ -1 \\ 1 \\ 1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",Ax = \begin{bmatrix} 29 \\ 19 \\ 5 \\ 0 \\ -12 \end{bmatrix}
+C_5x5_matvec_015,matrix_vector,"Compute the product of the 5×5 matrix A and the vector x.
+
+A = \begin{bmatrix} 4 & -4 & 5 & -1 & -1 \\ 3 & -2 & -5 & -2 & -2 \\ 3 & 2 & -4 & -1 & 0 \\ 3 & 5 & 4 & -1 & -1 \\ -3 & 4 & -4 & -5 & 4 \end{bmatrix}\nx = \begin{bmatrix} 1 \\ -3 \\ -5 \\ 1 \\ -5 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",Ax = \begin{bmatrix} -5 \\ 42 \\ 16 \\ -28 \\ -20 \end{bmatrix}
+C_5x5_matvec_016,matrix_vector,"Compute the product of the 5×5 matrix A and the vector x.
+
+A = \begin{bmatrix} 5 & -1 & -4 & 0 & -2 \\ 0 & 1 & 1 & -3 & 1 \\ -5 & -4 & 0 & 0 & -2 \\ -3 & -1 & -2 & 1 & 4 \\ 0 & 0 & 5 & -5 & 2 \end{bmatrix}\nx = \begin{bmatrix} 4 \\ -2 \\ 5 \\ 0 \\ -1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",Ax = \begin{bmatrix} 4 \\ 2 \\ -10 \\ -24 \\ 23 \end{bmatrix}
+C_5x5_matvec_017,matrix_vector,"Compute the product of the 5×5 matrix A and the vector x.
+
+A = \begin{bmatrix} 2 & 2 & 1 & 4 & 4 \\ -2 & 1 & -2 & 4 & 2 \\ -3 & 2 & 0 & -5 & 0 \\ -3 & 1 & -5 & 2 & 3 \\ -2 & -4 & -5 & 3 & -5 \end{bmatrix}\nx = \begin{bmatrix} 5 \\ -4 \\ 1 \\ 0 \\ 0 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",Ax = \begin{bmatrix} 3 \\ -16 \\ -23 \\ -24 \\ 1 \end{bmatrix}
+C_5x5_matvec_018,matrix_vector,"Compute the product of the 5×5 matrix A and the vector x.
+
+A = \begin{bmatrix} 4 & -2 & -1 & -2 & -2 \\ 3 & -1 & 5 & 5 & 1 \\ -4 & -1 & -2 & 5 & -2 \\ 2 & 2 & 0 & 0 & -4 \\ 5 & -5 & -1 & -2 & 1 \end{bmatrix}\nx = \begin{bmatrix} -1 \\ -4 \\ 5 \\ 3 \\ 1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",Ax = \begin{bmatrix} -9 \\ 42 \\ 11 \\ -14 \\ 5 \end{bmatrix}
+C_5x5_matvec_019,matrix_vector,"Compute the product of the 5×5 matrix A and the vector x.
+
+A = \begin{bmatrix} 2 & -2 & -5 & 0 & 1 \\ -3 & -2 & 1 & 0 & -3 \\ 4 & 4 & 0 & 1 & 2 \\ 4 & 0 & 5 & 2 & 3 \\ 2 & 0 & -5 & 1 & 4 \end{bmatrix}\nx = \begin{bmatrix} -3 \\ 4 \\ -1 \\ 4 \\ 0 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",Ax = \begin{bmatrix} -9 \\ 0 \\ 8 \\ -9 \\ 3 \end{bmatrix}
+C_5x5_matvec_020,matrix_vector,"Compute the product of the 5×5 matrix A and the vector x.
+
+A = \begin{bmatrix} 5 & -2 & -1 & 1 & 5 \\ 4 & 5 & 4 & 2 & 2 \\ 2 & 4 & -1 & -1 & 0 \\ 5 & -1 & 2 & 5 & 5 \\ 0 & 0 & -1 & -2 & 4 \end{bmatrix}\nx = \begin{bmatrix} 4 \\ -5 \\ 3 \\ 0 \\ -2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",Ax = \begin{bmatrix} 17 \\ -1 \\ -15 \\ 21 \\ -11 \end{bmatrix}
+C_5x5_mult_009,multiplication,"Compute the product of the 5×5 matrices A and B.
+
+A = \begin{bmatrix} -3 & 1 & -1 & 1 & -1 \\ 3 & 0 & 4 & -4 & -3 \\ -1 & -2 & -4 & 4 & 0 \\ 1 & 0 & -3 & 3 & 3 \\ 3 & 2 & -4 & -3 & -1 \end{bmatrix}\nB = \begin{bmatrix} -2 & -4 & 3 & -2 & -3 \\ 1 & 4 & -4 & 2 & -1 \\ 4 & -3 & 1 & -3 & 0 \\ 3 & -1 & 3 & 0 & 1 \\ -1 & -1 & -3 & 4 & 3 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",AB = \begin{bmatrix} 7 & 19 & -8 & 7 & 6 \\ 1 & -17 & 10 & -30 & -22 \\ -4 & 4 & 13 & 10 & 9 \\ -8 & -1 & 0 & 19 & 9 \\ -28 & 12 & -9 & 6 & -17 \end{bmatrix}
+C_5x5_mult_010,multiplication,"Compute the product of the 5×5 matrices A and B.
+
+A = \begin{bmatrix} -1 & 0 & 2 & 0 & 2 \\ 0 & -1 & 0 & -1 & 0 \\ -2 & 0 & -4 & 3 & -4 \\ -2 & -3 & -4 & -3 & -4 \\ 2 & 3 & -2 & 2 & 2 \end{bmatrix}\nB = \begin{bmatrix} 3 & -4 & 1 & 4 & 0 \\ 2 & -2 & 1 & 4 & 4 \\ 4 & -4 & 0 & -2 & -4 \\ 2 & -1 & -4 & -1 & 3 \\ -3 & 4 & 2 & -2 & 0 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",AB = \begin{bmatrix} -1 & 4 & 3 & -12 & -8 \\ -4 & 3 & 3 & -3 & -7 \\ -4 & 5 & -22 & 5 & 25 \\ -22 & 17 & -1 & -1 & -5 \\ 2 & 0 & 1 & 18 & 26 \end{bmatrix}
+C_5x5_mult_011,multiplication,"Compute the product of the 5×5 matrices A and B.
+
+A = \begin{bmatrix} -2 & -1 & 0 & 2 & 1 \\ 0 & 3 & 3 & 4 & 0 \\ -3 & 4 & 0 & 4 & -1 \\ 4 & 2 & -2 & -2 & 4 \\ -2 & 3 & -3 & -1 & 0 \end{bmatrix}\nB = \begin{bmatrix} -4 & 3 & 2 & -1 & -1 \\ -2 & 4 & 1 & 2 & -3 \\ 0 & 0 & -1 & 3 & 2 \\ -3 & 0 & -3 & -2 & 1 \\ 1 & -2 & -4 & 4 & -4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",AB = \begin{bmatrix} 5 & -12 & -15 & 0 & 3 \\ -18 & 12 & -12 & 7 & 1 \\ -9 & 9 & -10 & -1 & -1 \\ -10 & 12 & 2 & 14 & -32 \\ 5 & 6 & 5 & 1 & -14 \end{bmatrix}
+C_5x5_mult_012,multiplication,"Compute the product of the 5×5 matrices A and B.
+
+A = \begin{bmatrix} -3 & -1 & 2 & 3 & -2 \\ 0 & -3 & 3 & 0 & 4 \\ 0 & -3 & 1 & 3 & 1 \\ -1 & 2 & -4 & 4 & -4 \\ 0 & -4 & -2 & -4 & 0 \end{bmatrix}\nB = \begin{bmatrix} -4 & 0 & 2 & 4 & 1 \\ 0 & 4 & -3 & 1 & 0 \\ -3 & 0 & -3 & -2 & 0 \\ 0 & -4 & 4 & -3 & 1 \\ 3 & -2 & 3 & 0 & 0 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",AB = \begin{bmatrix} 0 & -12 & -3 & -26 & 0 \\ 3 & -20 & 12 & -9 & 0 \\ 0 & -26 & 21 & -14 & 3 \\ 4 & 0 & 8 & -6 & 3 \\ 6 & 0 & 2 & 12 & -4 \end{bmatrix}
+C_5x5_mult_013,multiplication,"Compute the product of the 5×5 matrices A and B.
+
+A = \begin{bmatrix} -2 & -2 & -4 & -3 & -3 \\ -1 & 4 & 4 & 2 & 3 \\ -4 & -4 & -1 & -1 & 4 \\ 1 & -1 & 0 & -4 & 2 \\ 2 & 0 & 0 & 1 & -1 \end{bmatrix}\nB = \begin{bmatrix} 4 & 0 & -2 & -4 & 3 \\ -4 & -2 & 4 & -4 & 0 \\ 1 & 1 & 4 & -2 & -4 \\ -4 & 4 & 1 & -3 & 4 \\ -1 & -2 & -1 & -4 & 4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",AB = \begin{bmatrix} 11 & -6 & -20 & 45 & -14 \\ -27 & -2 & 33 & -38 & 1 \\ -1 & -5 & -17 & 21 & 4 \\ 22 & -18 & -12 & 4 & -5 \\ 5 & 6 & -2 & -7 & 6 \end{bmatrix}
+C_5x5_mult_014,multiplication,"Compute the product of the 5×5 matrices A and B.
+
+A = \begin{bmatrix} -4 & -2 & -1 & 1 & 1 \\ 4 & -2 & -2 & -4 & -1 \\ -3 & -4 & 4 & 1 & 2 \\ 4 & 3 & 4 & -3 & 3 \\ 3 & -3 & -2 & -3 & 3 \end{bmatrix}\nB = \begin{bmatrix} 4 & -4 & 1 & 4 & -3 \\ -3 & 1 & -1 & 4 & -4 \\ 4 & -4 & -1 & -2 & -1 \\ 4 & 0 & 2 & 2 & 1 \\ 3 & -2 & -3 & 2 & -3 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",AB = \begin{bmatrix} -7 & 16 & -2 & -18 & 19 \\ -5 & -8 & 3 & 2 & -3 \\ 26 & -12 & -7 & -30 & 16 \\ 20 & -35 & -18 & 20 & -40 \\ 10 & -13 & -7 & 4 & -7 \end{bmatrix}
+C_5x5_mult_015,multiplication,"Compute the product of the 5×5 matrices A and B.
+
+A = \begin{bmatrix} 3 & -2 & -2 & 3 & -2 \\ -2 & 0 & 1 & 3 & 3 \\ 4 & -4 & -4 & -1 & -3 \\ 1 & 0 & 3 & -1 & 3 \\ -1 & -3 & 1 & -1 & 1 \end{bmatrix}\nB = \begin{bmatrix} -3 & 3 & 4 & 2 & 1 \\ 1 & 2 & 3 & -3 & 0 \\ 0 & 1 & -2 & 0 & 4 \\ 4 & 0 & 2 & 4 & 0 \\ 3 & 0 & -3 & 2 & 2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",AB = \begin{bmatrix} -5 & 3 & 22 & 20 & -9 \\ 27 & -5 & -13 & 14 & 8 \\ -29 & 0 & 19 & 10 & -18 \\ 2 & 6 & -13 & 4 & 19 \\ -1 & -8 & -20 & 5 & 5 \end{bmatrix}
+C_5x5_mult_016,multiplication,"Compute the product of the 5×5 matrices A and B.
+
+A = \begin{bmatrix} 2 & 2 & 1 & 2 & 0 \\ 4 & -3 & -1 & 4 & -4 \\ 2 & 1 & 1 & 0 & -1 \\ -4 & 0 & 1 & 1 & -3 \\ 0 & 4 & 3 & -3 & -3 \end{bmatrix}\nB = \begin{bmatrix} 0 & -2 & -4 & 1 & 1 \\ -2 & 3 & -2 & 3 & 0 \\ -3 & -1 & 3 & -4 & 3 \\ -4 & 1 & 2 & -4 & 0 \\ -2 & 0 & -1 & 3 & 4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",AB = \begin{bmatrix} -15 & 3 & -5 & -4 & 5 \\ 1 & -12 & -1 & -29 & -15 \\ -3 & -2 & -6 & -2 & 1 \\ -1 & 8 & 24 & -21 & -13 \\ 1 & 6 & -2 & 3 & -3 \end{bmatrix}
+C_5x5_mult_017,multiplication,"Compute the product of the 5×5 matrices A and B.
+
+A = \begin{bmatrix} -2 & -1 & -4 & -2 & 1 \\ 3 & -1 & -3 & -3 & 3 \\ -4 & 3 & 3 & 2 & -4 \\ 2 & 4 & 2 & -1 & 2 \\ -2 & 2 & -2 & -3 & 1 \end{bmatrix}\nB = \begin{bmatrix} 2 & 1 & -2 & 3 & -3 \\ 4 & 2 & 0 & 3 & 3 \\ 3 & 1 & 4 & -1 & 1 \\ -4 & -1 & 2 & -3 & -1 \\ 0 & 2 & -1 & -1 & -4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",AB = \begin{bmatrix} -12 & -4 & -17 & 0 & -3 \\ 5 & 7 & -27 & 15 & -24 \\ 5 & -5 & 28 & -8 & 38 \\ 30 & 17 & 0 & 17 & 1 \\ 10 & 5 & -11 & 10 & 9 \end{bmatrix}
+C_5x5_mult_018,multiplication,"Compute the product of the 5×5 matrices A and B.
+
+A = \begin{bmatrix} 0 & 2 & -2 & 1 & 3 \\ -4 & -3 & -4 & -1 & 4 \\ -4 & -3 & -4 & -3 & 1 \\ -4 & 3 & -1 & -3 & -2 \\ 2 & 1 & -3 & -4 & -1 \end{bmatrix}\nB = \begin{bmatrix} -1 & -4 & 3 & 1 & 4 \\ 1 & -4 & 3 & 1 & -4 \\ 4 & -4 & -3 & -3 & -1 \\ 3 & -2 & 4 & -2 & 3 \\ 2 & -3 & 0 & -1 & -4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",AB = \begin{bmatrix} 3 & -11 & 16 & 3 & -15 \\ -10 & 34 & -13 & 3 & -19 \\ -22 & 47 & -21 & 10 & -13 \\ -10 & 20 & -12 & 10 & -28 \\ -27 & 11 & 2 & 21 & -1 \end{bmatrix}
+C_5x5_mult_019,multiplication,"Compute the product of the 5×5 matrices A and B.
+
+A = \begin{bmatrix} 4 & -4 & 2 & -2 & -3 \\ 2 & -3 & -2 & 3 & -4 \\ -4 & 0 & 2 & 0 & -2 \\ -2 & -2 & 2 & 2 & -1 \\ -4 & -2 & 0 & 1 & -4 \end{bmatrix}\nB = \begin{bmatrix} -3 & 2 & -1 & 4 & -3 \\ 2 & 0 & -3 & 1 & 2 \\ -3 & 1 & -4 & 3 & 2 \\ -4 & 1 & 3 & -4 & 4 \\ -1 & -1 & -2 & 2 & 2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",AB = \begin{bmatrix} -15 & 11 & 0 & 20 & -30 \\ -14 & 9 & 32 & -21 & -12 \\ 8 & -4 & 0 & -14 & 12 \\ -11 & 1 & 8 & -14 & 12 \\ 8 & -3 & 21 & -30 & 4 \end{bmatrix}
+C_5x5_mult_020,multiplication,"Compute the product of the 5×5 matrices A and B.
+
+A = \begin{bmatrix} 1 & -3 & 2 & -3 & 0 \\ 4 & -2 & 4 & -3 & 2 \\ -1 & -1 & 4 & 4 & 2 \\ -4 & 2 & 4 & 0 & 4 \\ -3 & 4 & -2 & -2 & -2 \end{bmatrix}\nB = \begin{bmatrix} -3 & 1 & -4 & -2 & 2 \\ 4 & -1 & 4 & -3 & -1 \\ 3 & 2 & 4 & 0 & -2 \\ 2 & 1 & -4 & -1 & 0 \\ 2 & 3 & -3 & -4 & 1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",AB = \begin{bmatrix} -15 & 5 & 4 & 10 & 1 \\ -10 & 17 & -2 & -7 & 4 \\ 23 & 18 & -6 & -7 & -7 \\ 40 & 14 & 28 & -14 & -14 \\ 11 & -19 & 34 & 4 & -8 \end{bmatrix}
+C_5x5_mult_021,multiplication,"Compute the product of the 5×5 matrices A and B.
+
+A = \begin{bmatrix} 1 & -1 & -4 & -4 & -2 \\ 1 & -3 & 3 & -3 & 0 \\ 0 & -2 & -4 & -4 & 4 \\ 4 & 1 & 2 & 3 & 3 \\ -3 & 2 & -4 & 0 & -3 \end{bmatrix}\nB = \begin{bmatrix} 4 & -2 & -4 & 2 & 0 \\ -1 & -4 & -3 & -3 & -2 \\ -3 & -2 & 1 & 1 & 4 \\ -4 & 4 & -3 & -2 & -3 \\ 1 & 3 & -3 & 4 & 0 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",AB = \begin{bmatrix} 31 & -12 & 13 & 1 & -2 \\ 10 & -8 & 17 & 20 & 27 \\ 34 & 12 & 2 & 26 & 0 \\ 0 & 5 & -35 & 13 & -3 \\ -5 & -3 & 11 & -28 & -20 \end{bmatrix}
+C_5x5_mult_022,multiplication,"Compute the product of the 5×5 matrices A and B.
+
+A = \begin{bmatrix} 2 & 4 & -3 & 2 & 1 \\ 3 & 1 & -2 & -3 & 3 \\ 2 & 0 & 0 & 0 & 3 \\ 1 & -4 & -1 & 3 & -3 \\ -3 & 1 & 1 & -3 & 0 \end{bmatrix}\nB = \begin{bmatrix} 2 & 2 & 4 & 2 & 3 \\ -1 & 2 & -1 & -1 & 3 \\ -3 & 2 & -2 & -3 & 2 \\ -4 & -3 & 4 & -3 & 4 \\ -2 & 2 & 3 & 0 & 4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",AB = \begin{bmatrix} -1 & 2 & 21 & 3 & 24 \\ 17 & 19 & 12 & 20 & 8 \\ -2 & 10 & 17 & 4 & 18 \\ 3 & -23 & 13 & 0 & -11 \\ 2 & 7 & -27 & -1 & -16 \end{bmatrix}
+C_5x5_mult_023,multiplication,"Compute the product of the 5×5 matrices A and B.
+
+A = \begin{bmatrix} -3 & -3 & 2 & -1 & -3 \\ -3 & 4 & 4 & -3 & 2 \\ 0 & 4 & 1 & 2 & -2 \\ 4 & 4 & 3 & 3 & -4 \\ -1 & 0 & 4 & 2 & 3 \end{bmatrix}\nB = \begin{bmatrix} 2 & -2 & 3 & -3 & 3 \\ 0 & 4 & 4 & -3 & -2 \\ -1 & 1 & 3 & 1 & -3 \\ 4 & -1 & 3 & 3 & 2 \\ 1 & -3 & -1 & 2 & 2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",AB = \begin{bmatrix} -15 & 6 & -15 & 11 & -17 \\ -20 & 23 & 8 & -4 & -31 \\ 5 & 21 & 27 & -9 & -11 \\ 13 & 20 & 50 & -20 & -7 \\ 5 & -5 & 12 & 19 & -5 \end{bmatrix}
+C_5x5_mult_024,multiplication,"Compute the product of the 5×5 matrices A and B.
+
+A = \begin{bmatrix} -4 & -1 & 1 & 1 & 0 \\ -1 & -1 & 0 & 2 & -4 \\ -2 & -1 & 1 & 1 & 1 \\ -2 & 4 & 1 & -3 & 3 \\ -2 & 4 & -4 & 2 & 1 \end{bmatrix}\nB = \begin{bmatrix} 0 & 0 & 4 & 3 & 1 \\ 4 & -3 & -1 & 0 & 4 \\ -4 & 4 & 3 & 1 & 0 \\ 0 & 0 & -2 & -2 & -2 \\ 2 & -3 & -1 & 1 & 0 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",AB = \begin{bmatrix} -8 & 7 & -14 & -13 & -10 \\ -12 & 15 & -3 & -11 & -9 \\ -6 & 4 & -7 & -6 & -8 \\ 18 & -17 & -6 & 4 & 20 \\ 34 & -31 & -29 & -13 & 10 \end{bmatrix}
+C_5x5_mult_025,multiplication,"Compute the product of the 5×5 matrices A and B.
+
+A = \begin{bmatrix} 3 & -1 & 3 & 0 & 3 \\ -1 & 0 & 1 & -3 & -4 \\ 1 & 0 & -4 & -4 & 4 \\ -1 & 2 & 4 & -2 & -1 \\ -3 & -3 & 4 & -2 & -1 \end{bmatrix}\nB = \begin{bmatrix} 1 & -4 & 3 & 0 & 0 \\ -3 & -2 & -3 & -2 & 4 \\ -3 & 4 & 3 & -3 & -1 \\ -1 & 3 & 4 & 2 & 3 \\ -3 & 3 & 0 & -2 & 4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",AB = \begin{bmatrix} -12 & 11 & 21 & -13 & 5 \\ 11 & -13 & -12 & -1 & -26 \\ 5 & -20 & -25 & -4 & 8 \\ -14 & 7 & -5 & -18 & -6 \\ -1 & 25 & 4 & -8 & -26 \end{bmatrix}
+C_5x5_mult_026,multiplication,"Compute the product of the 5×5 matrices A and B.
+
+A = \begin{bmatrix} 3 & -3 & -3 & 0 & -3 \\ 1 & -4 & -3 & 4 & -2 \\ 1 & -2 & -3 & 4 & 2 \\ -1 & -1 & 3 & 3 & 2 \\ -4 & 0 & 4 & 2 & 1 \end{bmatrix}\nB = \begin{bmatrix} -4 & -1 & -3 & -1 & 4 \\ 1 & -4 & -1 & 3 & -4 \\ -1 & -3 & -4 & 0 & 3 \\ -3 & 2 & 2 & 4 & 2 \\ -3 & 0 & 2 & -4 & 2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",AB = \begin{bmatrix} -3 & 18 & 0 & 0 & 9 \\ -11 & 32 & 17 & 11 & 15 \\ -21 & 24 & 23 & 1 & 15 \\ -15 & 2 & 2 & 2 & 19 \\ 3 & -4 & 2 & 8 & 2 \end{bmatrix}
+C_5x5_mult_027,multiplication,"Compute the product of the 5×5 matrices A and B.
+
+A = \begin{bmatrix} 4 & -1 & 3 & -1 & 4 \\ 2 & -4 & -2 & -4 & -3 \\ 3 & 4 & 1 & 2 & 4 \\ 4 & -3 & 2 & -1 & 1 \\ 3 & 3 & -3 & 0 & -1 \end{bmatrix}\nB = \begin{bmatrix} 3 & 2 & 2 & -1 & 0 \\ 4 & 0 & -2 & 2 & 4 \\ 4 & -1 & 0 & 4 & 1 \\ 3 & 4 & 3 & -1 & -2 \\ 3 & 3 & 0 & -3 & -4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",AB = \begin{bmatrix} 29 & 13 & 7 & -5 & -15 \\ -39 & -19 & 0 & -5 & 2 \\ 47 & 25 & 4 & -5 & -3 \\ 8 & 5 & 11 & -4 & -12 \\ 6 & 6 & 0 & -6 & 13 \end{bmatrix}
+C_5x5_mult_028,multiplication,"Compute the product of the 5×5 matrices A and B.
+
+A = \begin{bmatrix} 2 & 3 & -2 & 1 & -2 \\ 2 & -3 & -3 & 0 & -4 \\ -1 & 3 & -3 & -1 & -2 \\ 1 & -2 & 1 & -2 & -3 \\ 2 & 4 & 4 & -2 & 1 \end{bmatrix}\nB = \begin{bmatrix} 0 & 4 & -1 & 0 & -1 \\ 1 & -3 & -2 & -3 & -1 \\ 3 & -3 & -4 & 2 & -1 \\ 4 & -1 & -4 & 4 & 1 \\ 0 & -2 & 4 & -4 & 0 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",AB = \begin{bmatrix} 1 & 8 & -12 & -1 & -2 \\ -12 & 34 & 0 & 19 & 4 \\ -10 & 1 & 3 & -11 & 0 \\ -7 & 15 & -5 & 12 & -2 \\ 8 & -16 & -14 & -16 & -12 \end{bmatrix}
+C_5x5_nullity_001,nullity,"Find the nullity of the 5×5 matrix A.
+
+A = \begin{bmatrix} -4 & 7 & 2 & -5 & -8 \\ 0 & 1 & -2 & -3 & 2 \\ 0 & 0 & 0 & -3 & -3 \\ -2 & 4 & 0 & -4 & -3 \\ -4 & 7 & 2 & -2 & -5 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 2
+C_5x5_nullity_002,nullity,"Find the nullity of the 5×5 matrix A.
+
+A = \begin{bmatrix} 3 & -1 & 2 & -2 & -5 \\ -2 & 1 & 2 & -4 & -2 \\ -1 & 1 & 5 & -5 & 4 \\ -3 & 1 & -2 & 2 & 4 \\ 4 & 1 & -5 & 3 & -4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 0
+C_5x5_nullity_003,nullity,"Find the nullity of the 5×5 matrix A.
+
+A = \begin{bmatrix} 13 & 8 & -2 & 1 & 3 \\ -2 & -4 & -4 & -1 & 0 \\ 2 & 4 & -3 & 3 & 0 \\ -1 & 2 & 0 & 1 & -3 \\ 4 & 1 & 2 & -2 & 0 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 1
+C_5x5_nullity_004,nullity,"Find the nullity of the 5×5 matrix A.
+
+A = \begin{bmatrix} 3 & -2 & 2 & -2 & -3 \\ -3 & 1 & 0 & 2 & -1 \\ -2 & 2 & -3 & 4 & -4 \\ 0 & 0 & 2 & 3 & -4 \\ 7 & -5 & 2 & -16 & 17 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 1
+C_5x5_nullity_005,nullity,"Find the nullity of the 5×5 matrix A.
+
+A = \begin{bmatrix} 1 & 3 & -3 & -1 & 0 \\ -5 & -13 & 5 & -2 & 2 \\ 1 & 4 & -2 & 1 & -3 \\ -7 & -27 & 15 & -5 & 18 \\ 2 & 2 & 2 & 1 & 4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 2
+C_5x5_nullity_006,nullity,"Find the nullity of the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & 0 & -4 & -12 & 8 \\ 1 & -1 & 4 & 7 & -2 \\ -1 & 1 & -2 & -1 & -2 \\ 0 & 0 & 1 & 3 & -2 \\ -3 & 3 & -12 & -21 & 6 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 3
+C_5x5_nullity_007,nullity,"Find the nullity of the 5×5 matrix A.
+
+A = \begin{bmatrix} 1 & -1 & 3 & 2 & -1 \\ 4 & -2 & 4 & -1 & 3 \\ 0 & -3 & 1 & 1 & -2 \\ 0 & -2 & 3 & 2 & -1 \\ -2 & 2 & 6 & 7 & -3 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 1
+C_5x5_nullity_008,nullity,"Find the nullity of the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & 3 & 4 & -2 & 4 \\ 3 & 3 & 3 & 0 & -4 \\ 4 & -4 & -1 & 1 & 4 \\ -3 & -4 & -4 & 4 & 3 \\ 8 & -3 & 4 & -8 & 14 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 1
+C_5x5_nullity_009,nullity,"Find the nullity of the 5×5 matrix A.
+
+A = \begin{bmatrix} -3 & 3 & 0 & 3 & 2 \\ 0 & -4 & -4 & 3 & -1 \\ -2 & 2 & 3 & -3 & -4 \\ -3 & -5 & -8 & 8 & 17 \\ -2 & -4 & -3 & 1 & 3 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 1
+C_5x5_nullity_010,nullity,"Find the nullity of the 5×5 matrix A.
+
+A = \begin{bmatrix} 1 & -3 & 18 & -4 & -6 \\ 3 & 2 & -2 & 1 & 4 \\ 4 & 1 & 4 & 1 & -4 \\ -1 & 0 & -2 & 1 & 0 \\ 1 & 0 & 4 & -1 & 3 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 1
+C_5x5_nullity_011,nullity,"Find the nullity of the 5×5 matrix A.
+
+A = \begin{bmatrix} -1 & 1 & 2 & 2 & 1 \\ -4 & 4 & 8 & 8 & 4 \\ 8 & -8 & -16 & -16 & -8 \\ -3 & -4 & -3 & 0 & 1 \\ 2 & -2 & -4 & -4 & -2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 3
+C_5x5_nullity_012,nullity,"Find the nullity of the 5×5 matrix A.
+
+A = \begin{bmatrix} 2 & -1 & 1 & 1 & -2 \\ -2 & -5 & 1 & -3 & 1 \\ 5 & 4 & 2 & -3 & 5 \\ -1 & 0 & -4 & 5 & 2 \\ -2 & -1 & 1 & -2 & 5 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 0
+C_5x5_nullity_013,nullity,"Find the nullity of the 5×5 matrix A.
+
+A = \begin{bmatrix} 3 & 0 & 3 & -5 & -5 \\ 0 & -1 & -2 & 4 & 3 \\ 1 & 0 & 0 & 1 & 4 \\ 3 & 4 & -2 & -3 & 0 \\ 3 & 1 & -5 & 4 & 4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 0
+C_5x5_nullity_014,nullity,"Find the nullity of the 5×5 matrix A.
+
+A = \begin{bmatrix} 2 & 4 & 4 & 2 & -3 \\ -1 & 2 & -3 & -3 & 1 \\ 3 & 2 & 7 & 5 & -4 \\ 2 & 2 & -10 & -8 & 11 \\ -3 & -1 & 0 & 0 & -3 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 2
+C_5x5_nullity_015,nullity,"Find the nullity of the 5×5 matrix A.
+
+A = \begin{bmatrix} -5 & -4 & 4 & -1 & -2 \\ 3 & 5 & 2 & 2 & 1 \\ 5 & -2 & 5 & 1 & -4 \\ -4 & 3 & -4 & 2 & 0 \\ -3 & 5 & -4 & -4 & -3 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 0
+C_5x5_nullity_016,nullity,"Find the nullity of the 5×5 matrix A.
+
+A = \begin{bmatrix} 3 & -3 & -1 & 3 & -3 \\ 2 & -4 & -1 & -7 & 13 \\ -3 & 1 & 2 & -4 & 4 \\ 0 & -8 & 2 & -16 & 25 \\ 4 & -4 & -2 & 0 & 3 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 2
+C_5x5_nullity_017,nullity,"Find the nullity of the 5×5 matrix A.
+
+A = \begin{bmatrix} -4 & -5 & -4 & 5 & -4 \\ 5 & -3 & -2 & -5 & -1 \\ -4 & 1 & 0 & 0 & 4 \\ -1 & 3 & -2 & 3 & 0 \\ 1 & 5 & 2 & 4 & -2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 0
+C_5x5_nullity_018,nullity,"Find the nullity of the 5×5 matrix A.
+
+A = \begin{bmatrix} 4 & 4 & 0 & -1 & 4 \\ 6 & 1 & 0 & -4 & 3 \\ -2 & 3 & 0 & 3 & 1 \\ 3 & 4 & 1 & -4 & 3 \\ 4 & 0 & -3 & -4 & 1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 1
+C_5x5_nullity_019,nullity,"Find the nullity of the 5×5 matrix A.
+
+A = \begin{bmatrix} 2 & 2 & 0 & 5 & -5 \\ -5 & 1 & 3 & -4 & 1 \\ -4 & -1 & 3 & -5 & -3 \\ 5 & -3 & -4 & -1 & -5 \\ -3 & 5 & 4 & -5 & 4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 0
+C_5x5_nullity_020,nullity,"Find the nullity of the 5×5 matrix A.
+
+A = \begin{bmatrix} -4 & 0 & 3 & -1 & 3 \\ -8 & -2 & 3 & 5 & -3 \\ -3 & 0 & 0 & -1 & 2 \\ 3 & 1 & -3 & -3 & 2 \\ 9 & 1 & -3 & -1 & -2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 2
+C_5x5_pow2_001,matrix_power,"Compute A² = A × A for the 5×5 matrix A.
+
+A = \begin{bmatrix} -2 & 0 & -3 & 1 & 2 \\ 1 & -1 & -3 & 0 & -1 \\ 1 & -1 & -2 & -1 & -1 \\ 0 & -3 & 1 & 2 & -1 \\ -3 & 1 & 0 & -1 & 3 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^2 = \begin{bmatrix} -5 & 2 & 13 & 1 & 4 \\ -3 & 3 & 6 & 5 & 3 \\ -2 & 5 & 3 & 2 & 3 \\ 1 & -5 & 9 & 4 & -3 \\ -2 & 5 & 5 & -8 & 3 \end{bmatrix}
+C_5x5_pow2_002,matrix_power,"Compute A² = A × A for the 5×5 matrix A.
+
+A = \begin{bmatrix} 2 & -3 & 3 & 2 & 3 \\ -1 & -2 & 3 & -3 & 2 \\ 2 & -1 & 2 & 3 & -2 \\ 2 & -1 & -1 & 2 & -1 \\ 1 & 3 & -1 & 1 & -1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^2 = \begin{bmatrix} 20 & 4 & -2 & 29 & -11 \\ 2 & 13 & -2 & 9 & -12 \\ 13 & -15 & 6 & 17 & -1 \\ 6 & -8 & 0 & 7 & 5 \\ -2 & -12 & 10 & -9 & 11 \end{bmatrix}
+C_5x5_pow2_003,matrix_power,"Compute A² = A × A for the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & 1 & 3 & 3 & 1 \\ -2 & -2 & 1 & 2 & -2 \\ -1 & -1 & -1 & -2 & 2 \\ 3 & -2 & 0 & 2 & 3 \\ 3 & 2 & 1 & 0 & 3 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^2 = \begin{bmatrix} 7 & -9 & -1 & 2 & 16 \\ 3 & -7 & -11 & -8 & 4 \\ 3 & 10 & -1 & -7 & -1 \\ 19 & 9 & 10 & 9 & 22 \\ 4 & 4 & 13 & 11 & 10 \end{bmatrix}
+C_5x5_pow2_004,matrix_power,"Compute A² = A × A for the 5×5 matrix A.
+
+A = \begin{bmatrix} 1 & 1 & 3 & -3 & 1 \\ -3 & -1 & 0 & -1 & 3 \\ -2 & 3 & 0 & 1 & -1 \\ 3 & -2 & 2 & 2 & 2 \\ -2 & -3 & 2 & 2 & -2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^2 = \begin{bmatrix} -19 & 12 & -1 & -5 & -7 \\ -9 & -9 & -5 & 14 & -14 \\ -6 & -4 & -6 & 3 & 11 \\ 7 & 1 & 17 & 3 & -5 \\ 13 & 9 & -6 & 11 & -5 \end{bmatrix}
+C_5x5_pow2_005,matrix_power,"Compute A² = A × A for the 5×5 matrix A.
+
+A = \begin{bmatrix} -3 & 3 & 1 & -1 & 0 \\ 1 & 2 & -3 & -3 & -2 \\ -1 & 0 & 2 & -1 & 2 \\ -3 & 3 & 2 & -1 & -1 \\ 2 & 3 & 2 & 3 & -2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^2 = \begin{bmatrix} 14 & -6 & -12 & -6 & -3 \\ 7 & -8 & -21 & -7 & -3 \\ 8 & 0 & 5 & 6 & 1 \\ 11 & -9 & -12 & -10 & 1 \\ -18 & 15 & -1 & -22 & -1 \end{bmatrix}
+C_5x5_pow2_006,matrix_power,"Compute A² = A × A for the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & 3 & -3 & -3 & 0 \\ 1 & -3 & -1 & -1 & -3 \\ 3 & -3 & -2 & -1 & -1 \\ 1 & -2 & -2 & 3 & 3 \\ -2 & 2 & 0 & -2 & 1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^2 = \begin{bmatrix} -9 & 6 & 9 & -9 & -15 \\ -1 & 11 & 4 & 4 & 4 \\ -8 & 24 & 0 & -5 & 7 \\ -11 & 15 & -3 & 4 & 20 \\ -2 & -6 & 8 & -4 & -11 \end{bmatrix}
+C_5x5_pow2_007,matrix_power,"Compute A² = A × A for the 5×5 matrix A.
+
+A = \begin{bmatrix} 1 & 1 & 0 & 0 & 0 \\ 0 & -3 & 0 & -1 & -2 \\ 1 & 2 & -2 & 1 & 2 \\ -2 & 0 & -2 & -2 & 2 \\ -3 & -1 & -2 & -3 & 0 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^2 = \begin{bmatrix} 1 & -2 & 0 & -1 & -2 \\ 8 & 11 & 6 & 11 & 4 \\ -9 & -11 & -2 & -12 & -6 \\ -6 & -8 & 4 & -4 & -8 \\ 1 & -4 & 10 & 5 & -8 \end{bmatrix}
+C_5x5_pow2_008,matrix_power,"Compute A² = A × A for the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & -3 & -3 & -1 & 1 \\ -1 & 1 & -1 & -2 & 2 \\ 1 & -1 & 1 & 3 & 2 \\ -2 & 1 & 3 & 2 & 3 \\ -3 & 2 & -2 & 1 & 2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^2 = \begin{bmatrix} -1 & 1 & -5 & -4 & -13 \\ -4 & 7 & -9 & -6 & -3 \\ -10 & 2 & 4 & 12 & 14 \\ -11 & 12 & 8 & 16 & 18 \\ -12 & 18 & 4 & -3 & 4 \end{bmatrix}
+C_5x5_pow2_009,matrix_power,"Compute A² = A × A for the 5×5 matrix A.
+
+A = \begin{bmatrix} 3 & 1 & 0 & 3 & -2 \\ 3 & 3 & 0 & 1 & -3 \\ 3 & 0 & 1 & 2 & 0 \\ -3 & 3 & -2 & -2 & -2 \\ 3 & -1 & 0 & 1 & -2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^2 = \begin{bmatrix} -3 & 17 & -6 & 2 & -11 \\ 6 & 18 & -2 & 7 & -11 \\ 6 & 9 & -3 & 7 & -10 \\ -6 & 2 & 2 & -8 & 5 \\ -3 & 5 & -2 & 4 & -1 \end{bmatrix}
+C_5x5_pow2_010,matrix_power,"Compute A² = A × A for the 5×5 matrix A.
+
+A = \begin{bmatrix} 1 & 0 & 2 & -1 & 2 \\ 2 & 3 & -2 & -2 & -2 \\ 0 & 2 & -2 & 0 & 0 \\ 2 & -3 & -1 & 3 & 2 \\ -2 & -1 & -1 & 2 & -1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^2 = \begin{bmatrix} -5 & 5 & -3 & 0 & -2 \\ 8 & 13 & 6 & -18 & -4 \\ 4 & 2 & 0 & -4 & -4 \\ -2 & -22 & 7 & 17 & 14 \\ 2 & -10 & -1 & 8 & 3 \end{bmatrix}
+C_5x5_pow2_011,matrix_power,"Compute A² = A × A for the 5×5 matrix A.
+
+A = \begin{bmatrix} 1 & 3 & 3 & -3 & -3 \\ -2 & -1 & 1 & 2 & -1 \\ 1 & 3 & 0 & 3 & 2 \\ 1 & 0 & 1 & 3 & -3 \\ -3 & -2 & 3 & -1 & 1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^2 = \begin{bmatrix} 4 & 15 & -6 & 6 & 6 \\ 6 & 0 & -8 & 14 & 2 \\ -8 & -4 & 15 & 10 & -13 \\ 14 & 12 & -3 & 12 & -13 \\ 0 & 0 & -9 & 10 & 21 \end{bmatrix}
+C_5x5_pow2_012,matrix_power,"Compute A² = A × A for the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & -2 & -1 & -3 & -2 \\ 1 & 1 & -3 & 0 & -3 \\ 2 & 2 & 0 & -3 & -3 \\ -2 & 1 & -1 & 3 & 0 \\ -3 & 0 & -1 & 2 & 0 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^2 = \begin{bmatrix} 8 & -7 & 11 & -10 & 9 \\ 4 & -7 & -1 & 0 & 4 \\ 17 & -5 & -2 & -21 & -10 \\ -7 & 6 & -4 & 18 & 4 \\ -6 & 6 & 1 & 18 & 9 \end{bmatrix}
+C_5x5_pow2_013,matrix_power,"Compute A² = A × A for the 5×5 matrix A.
+
+A = \begin{bmatrix} -1 & -1 & 1 & -3 & 1 \\ 0 & 1 & -2 & 1 & -2 \\ 3 & 2 & -3 & 3 & -3 \\ -2 & 2 & 2 & 2 & 0 \\ -3 & 2 & -1 & 0 & -3 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^2 = \begin{bmatrix} 7 & -2 & -9 & -1 & -5 \\ -2 & -5 & 8 & -3 & 10 \\ -9 & -7 & 17 & -10 & 17 \\ 4 & 12 & -8 & 18 & -12 \\ 9 & -3 & -1 & 8 & 5 \end{bmatrix}
+C_5x5_pow2_014,matrix_power,"Compute A² = A × A for the 5×5 matrix A.
+
+A = \begin{bmatrix} -1 & 0 & 3 & -2 & 3 \\ -3 & 2 & -1 & 3 & -1 \\ 2 & 2 & 1 & -3 & -2 \\ -3 & -3 & 3 & 1 & 0 \\ 3 & -1 & 2 & 2 & 3 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^2 = \begin{bmatrix} 22 & 9 & 0 & -3 & 0 \\ -17 & -6 & -5 & 16 & -12 \\ -3 & 17 & -8 & -8 & -4 \\ 15 & -3 & 0 & -11 & -12 \\ 7 & -7 & 24 & -7 & 15 \end{bmatrix}
+C_5x5_pow2_015,matrix_power,"Compute A² = A × A for the 5×5 matrix A.
+
+A = \begin{bmatrix} 3 & 0 & 0 & 2 & -1 \\ 3 & 0 & 2 & 1 & 3 \\ -3 & -2 & 0 & -3 & 3 \\ 3 & 2 & 0 & 1 & 0 \\ 0 & -2 & 0 & -1 & 1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^2 = \begin{bmatrix} 15 & 6 & 0 & 9 & -4 \\ 6 & -8 & 0 & -2 & 6 \\ -24 & -12 & -4 & -14 & 0 \\ 18 & 2 & 4 & 9 & 3 \\ -9 & -4 & -4 & -4 & -5 \end{bmatrix}
+C_5x5_pow2_016,matrix_power,"Compute A² = A × A for the 5×5 matrix A.
+
+A = \begin{bmatrix} -2 & -3 & -2 & 1 & -3 \\ 0 & 3 & -2 & 0 & -3 \\ 3 & -3 & -3 & -1 & 3 \\ 3 & 3 & -1 & 3 & 0 \\ -3 & 0 & 0 & 3 & 3 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^2 = \begin{bmatrix} 10 & 6 & 15 & -6 & 0 \\ 3 & 15 & 0 & -7 & -24 \\ -27 & -12 & 10 & 12 & 0 \\ 0 & 12 & -12 & 13 & -21 \\ 6 & 18 & 3 & 15 & 18 \end{bmatrix}
+C_5x5_pow2_017,matrix_power,"Compute A² = A × A for the 5×5 matrix A.
+
+A = \begin{bmatrix} 3 & 0 & -3 & -3 & 1 \\ -2 & -3 & 1 & 3 & -2 \\ -1 & -2 & 3 & 3 & 0 \\ 3 & -1 & 0 & -1 & -3 \\ -1 & 0 & 2 & 1 & -1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^2 = \begin{bmatrix} 2 & 9 & -16 & -14 & 11 \\ 10 & 4 & 2 & -5 & -3 \\ 7 & -3 & 10 & 3 & -6 \\ 11 & 4 & -16 & -14 & 11 \\ -1 & -5 & 7 & 7 & -3 \end{bmatrix}
+C_5x5_pow2_018,matrix_power,"Compute A² = A × A for the 5×5 matrix A.
+
+A = \begin{bmatrix} -2 & 2 & -3 & -3 & -1 \\ -1 & -1 & 3 & 1 & -1 \\ 0 & 3 & -3 & -2 & 2 \\ 2 & -1 & 3 & -2 & 0 \\ 1 & 1 & 2 & 0 & 1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^2 = \begin{bmatrix} -5 & -13 & 10 & 20 & -7 \\ 4 & 6 & -8 & -6 & 7 \\ -5 & -8 & 16 & 13 & -7 \\ -7 & 16 & -24 & -9 & 5 \\ -2 & 8 & -4 & -6 & 3 \end{bmatrix}
+C_5x5_pow2_019,matrix_power,"Compute A² = A × A for the 5×5 matrix A.
+
+A = \begin{bmatrix} -3 & -1 & -2 & -2 & -2 \\ 0 & 1 & 2 & 2 & -1 \\ 0 & 1 & -1 & -1 & -1 \\ -2 & -1 & 1 & -2 & -3 \\ -3 & 3 & 2 & -3 & 3 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^2 = \begin{bmatrix} 19 & -4 & 0 & 16 & 9 \\ -1 & -2 & 0 & -1 & -12 \\ 5 & -2 & 0 & 8 & 0 \\ 19 & -5 & -7 & 14 & 1 \\ 6 & 20 & 13 & 7 & 19 \end{bmatrix}
+C_5x5_pow2_020,matrix_power,"Compute A² = A × A for the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & -3 & -3 & 0 & 2 \\ -1 & 2 & 1 & -3 & 2 \\ -3 & 2 & 2 & 1 & 1 \\ 3 & -3 & 1 & -1 & -2 \\ 0 & -3 & 1 & -2 & 1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^2 = \begin{bmatrix} 12 & -18 & -7 & 2 & -7 \\ -14 & 12 & 6 & -6 & 11 \\ -5 & 11 & 17 & -7 & -1 \\ -3 & -4 & -13 & 15 & 1 \\ -6 & -1 & -2 & 10 & 0 \end{bmatrix}
+C_5x5_rank_001,rank,"Find the rank of the 5×5 matrix A.
+
+A = \begin{bmatrix} -3 & 3 & 4 & 3 & -2 \\ 5 & -2 & -1 & -2 & -2 \\ 1 & -4 & 1 & -3 & 2 \\ 2 & -5 & 5 & 0 & -1 \\ 1 & -4 & -4 & -1 & -5 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 5
+C_5x5_rank_002,rank,"Find the rank of the 5×5 matrix A.
+
+A = \begin{bmatrix} -10 & 2 & -8 & 9 & 16 \\ 4 & 3 & 2 & 4 & -2 \\ 2 & 0 & -4 & 1 & 4 \\ -4 & 1 & -4 & 4 & 2 \\ 2 & 0 & -2 & 0 & -4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 4
+C_5x5_rank_003,rank,"Find the rank of the 5×5 matrix A.
+
+A = \begin{bmatrix} 2 & 3 & 0 & 4 & -4 \\ -1 & 4 & -2 & -1 & 5 \\ -1 & -1 & -5 & -5 & 5 \\ 1 & 3 & -1 & 5 & 3 \\ -5 & -4 & 2 & 1 & -3 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 5
+C_5x5_rank_004,rank,"Find the rank of the 5×5 matrix A.
+
+A = \begin{bmatrix} -4 & 1 & -1 & -3 & 3 \\ 5 & -2 & -3 & -1 & -1 \\ 1 & 1 & -2 & 0 & 2 \\ 4 & -3 & -1 & -1 & -3 \\ 0 & -2 & 0 & 3 & 1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 4
+C_5x5_rank_005,rank,"Find the rank of the 5×5 matrix A.
+
+A = \begin{bmatrix} 2 & 4 & 0 & -3 & -4 \\ 1 & 0 & -2 & -4 & 0 \\ 3 & 3 & 0 & 0 & -1 \\ 4 & -2 & 5 & -2 & -1 \\ -4 & 5 & 4 & 0 & 4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 5
+C_5x5_rank_006,rank,"Find the rank of the 5×5 matrix A.
+
+A = \begin{bmatrix} 3 & -2 & 1 & -4 & -4 \\ -6 & 4 & -2 & 8 & 8 \\ 4 & 0 & 1 & -4 & -1 \\ 3 & 4 & -2 & 4 & -3 \\ 2 & -4 & -2 & 0 & 1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 4
+C_5x5_rank_007,rank,"Find the rank of the 5×5 matrix A.
+
+A = \begin{bmatrix} -1 & 4 & -1 & 4 & -1 \\ -6 & 8 & -4 & 1 & -7 \\ 0 & 4 & -3 & 0 & -3 \\ -4 & 0 & -2 & 0 & -3 \\ -1 & 0 & 2 & -3 & 0 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 4
+C_5x5_rank_008,rank,"Find the rank of the 5×5 matrix A.
+
+A = \begin{bmatrix} -1 & -4 & -5 & 4 & -1 \\ 1 & -4 & 1 & 5 & 4 \\ -2 & 5 & 4 & -1 & -4 \\ -1 & 1 & 1 & 1 & -5 \\ 0 & 5 & -5 & 5 & 5 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 5
+C_5x5_rank_009,rank,"Find the rank of the 5×5 matrix A.
+
+A = \begin{bmatrix} 2 & 1 & -5 & -1 & 1 \\ -4 & -1 & 4 & 1 & 1 \\ 5 & 2 & 0 & -4 & -5 \\ -3 & 3 & 0 & 3 & 0 \\ -5 & -5 & 2 & -4 & 4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 5
+C_5x5_rank_010,rank,"Find the rank of the 5×5 matrix A.
+
+A = \begin{bmatrix} 19 & 2 & -3 & -6 & 0 \\ -4 & 4 & 0 & 3 & 3 \\ -3 & 2 & -2 & -2 & -3 \\ 2 & 4 & -3 & -3 & -2 \\ -5 & -2 & 1 & 1 & -1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 3
+C_5x5_rank_011,rank,"Find the rank of the 5×5 matrix A.
+
+A = \begin{bmatrix} 26 & 3 & 5 & 4 & -32 \\ -2 & 3 & -2 & -3 & -4 \\ 4 & 6 & -2 & -4 & -16 \\ 6 & -3 & 3 & 4 & 0 \\ 4 & 0 & 1 & 1 & -4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 2
+C_5x5_rank_012,rank,"Find the rank of the 5×5 matrix A.
+
+A = \begin{bmatrix} -4 & 6 & 8 & 6 & 8 \\ 4 & -2 & -2 & 2 & 0 \\ -4 & 4 & 5 & 2 & 4 \\ 8 & -4 & -4 & 4 & 0 \\ 0 & -2 & -3 & -4 & -4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 2
+C_5x5_rank_013,rank,"Find the rank of the 5×5 matrix A.
+
+A = \begin{bmatrix} -13 & 4 & -5 & -20 & 5 \\ 3 & -2 & -3 & 4 & -2 \\ 1 & -4 & 1 & 0 & 1 \\ -1 & 0 & 1 & 2 & -3 \\ -4 & -2 & -4 & -4 & -2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 4
+C_5x5_rank_014,rank,"Find the rank of the 5×5 matrix A.
+
+A = \begin{bmatrix} -6 & 8 & -8 & 8 & -4 \\ -3 & -4 & -1 & 4 & 2 \\ 0 & 0 & 4 & 4 & 0 \\ -3 & 4 & -4 & 4 & -2 \\ 12 & -16 & 16 & -16 & 8 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 3
+C_5x5_rank_015,rank,"Find the rank of the 5×5 matrix A.
+
+A = \begin{bmatrix} 1 & -4 & -1 & -4 & 0 \\ -5 & -5 & -3 & 0 & 1 \\ -2 & -4 & 4 & 0 & -1 \\ 4 & -4 & -3 & -5 & 5 \\ 2 & -2 & -5 & 3 & 5 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 5
+C_5x5_rank_016,rank,"Find the rank of the 5×5 matrix A.
+
+A = \begin{bmatrix} -2 & -2 & -7 & 1 & 3 \\ 0 & 4 & 1 & 3 & -1 \\ 0 & -8 & -2 & -6 & 2 \\ -6 & 6 & -18 & 12 & 6 \\ -1 & 1 & -3 & 2 & 1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 2
+C_5x5_rank_017,rank,"Find the rank of the 5×5 matrix A.
+
+A = \begin{bmatrix} 4 & 3 & -4 & -3 & -1 \\ 0 & 3 & -5 & 2 & 0 \\ 1 & 4 & -4 & 4 & -3 \\ -3 & 1 & -4 & -1 & 3 \\ -3 & -2 & 1 & -3 & 3 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 4
+C_5x5_rank_018,rank,"Find the rank of the 5×5 matrix A.
+
+A = \begin{bmatrix} 3 & -4 & -5 & -2 & 0 \\ 5 & -3 & 1 & -3 & -1 \\ 2 & -3 & -3 & 5 & -3 \\ -2 & 2 & -3 & 4 & 3 \\ 1 & -1 & -3 & 4 & 1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 5
+C_5x5_rank_019,rank,"Find the rank of the 5×5 matrix A.
+
+A = \begin{bmatrix} 2 & -2 & 0 & 0 & -2 \\ 4 & -3 & -4 & 0 & -1 \\ 0 & -4 & 2 & -2 & 3 \\ 2 & -1 & -4 & 0 & 1 \\ 2 & -2 & 0 & 0 & -2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 3
+C_5x5_rank_020,rank,"Find the rank of the 5×5 matrix A.
+
+A = \begin{bmatrix} -2 & 12 & -8 & 1 & -4 \\ 3 & 4 & -2 & 4 & 3 \\ 3 & -2 & 2 & 4 & 7 \\ 0 & -3 & 2 & 0 & 2 \\ -2 & 3 & -2 & 1 & 2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 3
+C_5x5_trace_001,trace,"Find the trace of the 5×5 matrix A.
+
+A = \begin{bmatrix} -9 & 9 & -4 & -5 & 8 \\ 3 & 5 & 6 & -5 & 9 \\ -1 & 1 & -3 & 9 & -1 \\ -9 & -9 & -2 & 8 & -8 \\ 6 & -3 & -9 & -1 & 2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = 3
+C_5x5_trace_002,trace,"Find the trace of the 5×5 matrix A.
+
+A = \begin{bmatrix} 2 & 7 & 7 & 1 & 9 \\ -1 & 0 & 1 & 2 & -3 \\ 8 & 5 & -4 & 7 & -5 \\ 5 & 6 & 9 & -7 & -7 \\ 5 & 6 & -2 & -4 & -5 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = -14
+C_5x5_trace_003,trace,"Find the trace of the 5×5 matrix A.
+
+A = \begin{bmatrix} 5 & 6 & 4 & 7 & -3 \\ -5 & 4 & -2 & 4 & -8 \\ 5 & -7 & -6 & -8 & -7 \\ 5 & -7 & -1 & -1 & -6 \\ 1 & 0 & 0 & -6 & 7 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = 9
+C_5x5_trace_004,trace,"Find the trace of the 5×5 matrix A.
+
+A = \begin{bmatrix} 1 & 5 & 2 & -3 & 3 \\ -7 & 4 & -7 & 3 & -4 \\ 1 & 1 & -6 & 8 & -8 \\ -5 & -7 & -7 & 0 & 2 \\ -5 & 2 & 5 & 3 & -7 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = -8
+C_5x5_trace_005,trace,"Find the trace of the 5×5 matrix A.
+
+A = \begin{bmatrix} -5 & 2 & -4 & -6 & 4 \\ 5 & -5 & -2 & -8 & -8 \\ -2 & 1 & 7 & 9 & -4 \\ 0 & -8 & 5 & 4 & 3 \\ 7 & 1 & -8 & 6 & -8 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = -7
+C_5x5_trace_006,trace,"Find the trace of the 5×5 matrix A.
+
+A = \begin{bmatrix} -2 & -6 & 0 & 2 & -4 \\ 1 & -5 & 5 & 3 & -5 \\ -4 & -9 & 6 & 7 & -9 \\ 7 & -8 & -2 & -9 & -8 \\ 3 & 4 & -7 & 2 & 9 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = -1
+C_5x5_trace_007,trace,"Find the trace of the 5×5 matrix A.
+
+A = \begin{bmatrix} 7 & -5 & 0 & 6 & 9 \\ 6 & -9 & -7 & 4 & 0 \\ -4 & 8 & -4 & 1 & -7 \\ 7 & -8 & -1 & -7 & 6 \\ -7 & -6 & -5 & -7 & -8 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = -21
+C_5x5_trace_008,trace,"Find the trace of the 5×5 matrix A.
+
+A = \begin{bmatrix} 8 & -2 & 1 & -1 & 0 \\ 4 & -7 & 8 & 3 & -3 \\ 5 & 7 & 5 & -4 & -7 \\ 6 & 9 & -9 & 0 & 0 \\ 3 & -2 & -8 & 9 & -9 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = -3
+C_5x5_trace_009,trace,"Find the trace of the 5×5 matrix A.
+
+A = \begin{bmatrix} -9 & 1 & -4 & -9 & 3 \\ -4 & -1 & 4 & -1 & 3 \\ -3 & -9 & 3 & 7 & 9 \\ -4 & 9 & -8 & 5 & 1 \\ 9 & -6 & 6 & -6 & 9 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = 7
+C_5x5_trace_010,trace,"Find the trace of the 5×5 matrix A.
+
+A = \begin{bmatrix} -6 & -9 & 3 & 7 & -6 \\ -2 & -9 & 0 & 0 & -9 \\ 7 & 6 & -1 & 2 & -8 \\ -8 & -7 & -6 & -4 & -2 \\ -2 & 6 & -7 & -1 & -8 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = -28
+C_5x5_trace_011,trace,"Find the trace of the 5×5 matrix A.
+
+A = \begin{bmatrix} -9 & -6 & -7 & 8 & -4 \\ -8 & -7 & -2 & -8 & 0 \\ 6 & 1 & -9 & 7 & -6 \\ 2 & -9 & -6 & -4 & 2 \\ -8 & -6 & 9 & -4 & 6 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = -23
+C_5x5_trace_012,trace,"Find the trace of the 5×5 matrix A.
+
+A = \begin{bmatrix} -9 & -4 & -9 & 7 & 5 \\ 9 & 6 & 9 & 0 & -8 \\ -7 & -8 & -6 & 5 & -2 \\ 3 & 9 & -2 & -1 & 2 \\ -6 & -2 & 5 & -5 & 1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = -9
+C_5x5_trace_013,trace,"Find the trace of the 5×5 matrix A.
+
+A = \begin{bmatrix} 3 & 7 & 2 & -4 & -3 \\ -9 & -1 & 3 & -9 & -3 \\ -9 & 7 & -2 & 1 & 6 \\ 2 & -5 & -3 & 5 & -1 \\ -9 & -2 & 6 & -8 & -2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = 3
+C_5x5_trace_014,trace,"Find the trace of the 5×5 matrix A.
+
+A = \begin{bmatrix} 4 & 2 & -8 & -3 & 5 \\ 8 & 4 & -6 & 8 & 5 \\ -5 & 1 & 6 & 5 & 1 \\ 0 & 1 & 2 & 5 & 9 \\ 5 & -4 & 0 & 0 & 4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = 23
+C_5x5_trace_015,trace,"Find the trace of the 5×5 matrix A.
+
+A = \begin{bmatrix} 4 & -6 & -8 & 8 & -4 \\ -8 & -4 & -8 & -8 & 2 \\ -6 & -4 & -3 & 5 & 9 \\ 3 & 9 & 4 & -2 & 5 \\ -6 & -5 & 5 & 9 & -7 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = -12
+C_5x5_trace_016,trace,"Find the trace of the 5×5 matrix A.
+
+A = \begin{bmatrix} -1 & 1 & -5 & 5 & 0 \\ 7 & 9 & 7 & -5 & -9 \\ 1 & -1 & -6 & -9 & 4 \\ -6 & 7 & 1 & -7 & 0 \\ 4 & 0 & -5 & 2 & -2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = -7
+C_5x5_trace_017,trace,"Find the trace of the 5×5 matrix A.
+
+A = \begin{bmatrix} -5 & -9 & 0 & 5 & -7 \\ -6 & -4 & 7 & -9 & 3 \\ 7 & 3 & -8 & 0 & -3 \\ -2 & -8 & 7 & -1 & -2 \\ 7 & 7 & 6 & 7 & -3 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = -21
+C_5x5_trace_018,trace,"Find the trace of the 5×5 matrix A.
+
+A = \begin{bmatrix} 8 & 4 & -2 & -4 & 9 \\ 6 & -6 & 4 & -7 & 3 \\ -9 & 6 & 4 & -8 & 5 \\ 5 & 7 & 8 & 5 & 9 \\ 0 & -5 & 6 & -2 & -9 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = 2
+C_5x5_trace_019,trace,"Find the trace of the 5×5 matrix A.
+
+A = \begin{bmatrix} -3 & -2 & -5 & -8 & 7 \\ 0 & 2 & -5 & 7 & 1 \\ 7 & -1 & -1 & -3 & 2 \\ -4 & -3 & -6 & -5 & -2 \\ 1 & -4 & -4 & 0 & -8 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = -15
+C_5x5_trace_020,trace,"Find the trace of the 5×5 matrix A.
+
+A = \begin{bmatrix} -9 & 9 & 6 & -3 & 7 \\ -2 & -1 & -1 & 4 & 8 \\ -5 & 2 & 6 & 3 & -7 \\ 0 & -8 & 5 & -2 & -1 \\ 0 & -6 & -5 & -3 & 2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = -4
+C_5x5_trans_001,transpose,"Find the transpose of the 5×5 matrix A.
+
+A = \begin{bmatrix} -1 & 6 & 4 & -9 & -8 \\ -4 & -7 & -8 & 1 & -3 \\ 0 & 5 & -8 & -6 & -3 \\ -9 & -2 & -3 & 7 & -4 \\ -7 & 7 & 1 & -1 & -1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^T = \begin{bmatrix} -1 & -4 & 0 & -9 & -7 \\ 6 & -7 & 5 & -2 & 7 \\ 4 & -8 & -8 & -3 & 1 \\ -9 & 1 & -6 & 7 & -1 \\ -8 & -3 & -3 & -4 & -1 \end{bmatrix}
+C_5x5_trans_002,transpose,"Find the transpose of the 5×5 matrix A.
+
+A = \begin{bmatrix} 4 & -4 & 5 & 8 & -7 \\ -2 & 2 & -5 & -9 & -1 \\ 7 & -7 & 8 & -4 & 2 \\ -4 & -6 & 9 & -7 & 4 \\ -8 & 1 & -1 & -4 & -1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^T = \begin{bmatrix} 4 & -2 & 7 & -4 & -8 \\ -4 & 2 & -7 & -6 & 1 \\ 5 & -5 & 8 & 9 & -1 \\ 8 & -9 & -4 & -7 & -4 \\ -7 & -1 & 2 & 4 & -1 \end{bmatrix}
+C_5x5_trans_003,transpose,"Find the transpose of the 5×5 matrix A.
+
+A = \begin{bmatrix} 0 & 9 & 2 & 0 & 7 \\ 9 & -6 & 2 & -5 & -4 \\ -3 & -6 & -7 & 0 & -9 \\ -7 & 0 & 0 & -6 & -9 \\ -3 & 2 & -9 & -2 & -2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^T = \begin{bmatrix} 0 & 9 & -3 & -7 & -3 \\ 9 & -6 & -6 & 0 & 2 \\ 2 & 2 & -7 & 0 & -9 \\ 0 & -5 & 0 & -6 & -2 \\ 7 & -4 & -9 & -9 & -2 \end{bmatrix}
+C_5x5_trans_004,transpose,"Find the transpose of the 5×5 matrix A.
+
+A = \begin{bmatrix} -2 & 0 & -4 & -8 & -7 \\ 1 & -4 & 6 & -3 & 3 \\ 8 & 1 & -2 & 7 & -6 \\ -8 & -2 & 5 & -8 & 7 \\ -4 & -8 & 8 & 5 & 9 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^T = \begin{bmatrix} -2 & 1 & 8 & -8 & -4 \\ 0 & -4 & 1 & -2 & -8 \\ -4 & 6 & -2 & 5 & 8 \\ -8 & -3 & 7 & -8 & 5 \\ -7 & 3 & -6 & 7 & 9 \end{bmatrix}
+C_5x5_trans_005,transpose,"Find the transpose of the 5×5 matrix A.
+
+A = \begin{bmatrix} -3 & -5 & -3 & -1 & -3 \\ -8 & -5 & -5 & -6 & 3 \\ -1 & -5 & -3 & 3 & -1 \\ -1 & -4 & -4 & 5 & -5 \\ 0 & 2 & 5 & 9 & -6 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^T = \begin{bmatrix} -3 & -8 & -1 & -1 & 0 \\ -5 & -5 & -5 & -4 & 2 \\ -3 & -5 & -3 & -4 & 5 \\ -1 & -6 & 3 & 5 & 9 \\ -3 & 3 & -1 & -5 & -6 \end{bmatrix}
+C_5x5_trans_006,transpose,"Find the transpose of the 5×5 matrix A.
+
+A = \begin{bmatrix} 1 & -2 & 1 & 0 & 4 \\ 3 & 3 & -4 & 3 & -7 \\ 9 & -4 & -6 & -7 & 0 \\ -8 & -5 & 5 & 8 & 5 \\ -7 & 9 & -6 & 9 & -7 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^T = \begin{bmatrix} 1 & 3 & 9 & -8 & -7 \\ -2 & 3 & -4 & -5 & 9 \\ 1 & -4 & -6 & 5 & -6 \\ 0 & 3 & -7 & 8 & 9 \\ 4 & -7 & 0 & 5 & -7 \end{bmatrix}
+C_5x5_trans_007,transpose,"Find the transpose of the 5×5 matrix A.
+
+A = \begin{bmatrix} -5 & 5 & 6 & -6 & -4 \\ -4 & -8 & 8 & -5 & 5 \\ 9 & 7 & 2 & 5 & 5 \\ 5 & 8 & -1 & 7 & -2 \\ 8 & 4 & 4 & -2 & 4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^T = \begin{bmatrix} -5 & -4 & 9 & 5 & 8 \\ 5 & -8 & 7 & 8 & 4 \\ 6 & 8 & 2 & -1 & 4 \\ -6 & -5 & 5 & 7 & -2 \\ -4 & 5 & 5 & -2 & 4 \end{bmatrix}
+C_5x5_trans_008,transpose,"Find the transpose of the 5×5 matrix A.
+
+A = \begin{bmatrix} -7 & -8 & -8 & 6 & -2 \\ 1 & -4 & 5 & -5 & -4 \\ -2 & 5 & 8 & 7 & 6 \\ -5 & -3 & 8 & -3 & -9 \\ -8 & 1 & 3 & 6 & -5 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^T = \begin{bmatrix} -7 & 1 & -2 & -5 & -8 \\ -8 & -4 & 5 & -3 & 1 \\ -8 & 5 & 8 & 8 & 3 \\ 6 & -5 & 7 & -3 & 6 \\ -2 & -4 & 6 & -9 & -5 \end{bmatrix}
+C_5x5_trans_009,transpose,"Find the transpose of the 5×5 matrix A.
+
+A = \begin{bmatrix} -8 & 8 & -9 & 1 & 2 \\ 4 & -4 & 4 & 3 & -2 \\ 9 & -2 & 4 & 0 & 9 \\ 2 & -5 & -9 & -8 & 5 \\ -7 & -6 & -5 & -4 & 1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^T = \begin{bmatrix} -8 & 4 & 9 & 2 & -7 \\ 8 & -4 & -2 & -5 & -6 \\ -9 & 4 & 4 & -9 & -5 \\ 1 & 3 & 0 & -8 & -4 \\ 2 & -2 & 9 & 5 & 1 \end{bmatrix}
+C_5x5_trans_010,transpose,"Find the transpose of the 5×5 matrix A.
+
+A = \begin{bmatrix} -6 & 3 & 9 & 4 & -4 \\ 8 & -8 & 6 & -1 & 6 \\ 4 & -6 & -5 & 6 & 0 \\ -5 & -1 & 4 & 8 & 9 \\ -4 & -3 & 6 & -2 & -3 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^T = \begin{bmatrix} -6 & 8 & 4 & -5 & -4 \\ 3 & -8 & -6 & -1 & -3 \\ 9 & 6 & -5 & 4 & 6 \\ 4 & -1 & 6 & 8 & -2 \\ -4 & 6 & 0 & 9 & -3 \end{bmatrix}
+C_5x5_trans_011,transpose,"Find the transpose of the 5×5 matrix A.
+
+A = \begin{bmatrix} -3 & 9 & 2 & 2 & 1 \\ -7 & -5 & 6 & -4 & -9 \\ -4 & 4 & -3 & 7 & 3 \\ 1 & -9 & 6 & 7 & -8 \\ -6 & -1 & -3 & 5 & -1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^T = \begin{bmatrix} -3 & -7 & -4 & 1 & -6 \\ 9 & -5 & 4 & -9 & -1 \\ 2 & 6 & -3 & 6 & -3 \\ 2 & -4 & 7 & 7 & 5 \\ 1 & -9 & 3 & -8 & -1 \end{bmatrix}
+C_5x5_trans_012,transpose,"Find the transpose of the 5×5 matrix A.
+
+A = \begin{bmatrix} -8 & 9 & -2 & 2 & -5 \\ 0 & 2 & 0 & -8 & -2 \\ -7 & -9 & 6 & 2 & -4 \\ 9 & -3 & -9 & 1 & -9 \\ -2 & 8 & -3 & 6 & -3 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^T = \begin{bmatrix} -8 & 0 & -7 & 9 & -2 \\ 9 & 2 & -9 & -3 & 8 \\ -2 & 0 & 6 & -9 & -3 \\ 2 & -8 & 2 & 1 & 6 \\ -5 & -2 & -4 & -9 & -3 \end{bmatrix}
+C_5x5_trans_013,transpose,"Find the transpose of the 5×5 matrix A.
+
+A = \begin{bmatrix} 4 & 8 & -1 & 5 & 9 \\ 8 & 2 & 6 & 3 & -9 \\ -3 & -3 & 5 & -5 & 0 \\ 2 & 1 & -9 & -4 & 7 \\ 0 & 0 & 0 & 0 & 8 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^T = \begin{bmatrix} 4 & 8 & -3 & 2 & 0 \\ 8 & 2 & -3 & 1 & 0 \\ -1 & 6 & 5 & -9 & 0 \\ 5 & 3 & -5 & -4 & 0 \\ 9 & -9 & 0 & 7 & 8 \end{bmatrix}
+C_5x5_trans_014,transpose,"Find the transpose of the 5×5 matrix A.
+
+A = \begin{bmatrix} -9 & 5 & -3 & -3 & -7 \\ 3 & -4 & 0 & -4 & 3 \\ -9 & 4 & -2 & -8 & 3 \\ -3 & 8 & -9 & 6 & -5 \\ -7 & 4 & -9 & 3 & -2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^T = \begin{bmatrix} -9 & 3 & -9 & -3 & -7 \\ 5 & -4 & 4 & 8 & 4 \\ -3 & 0 & -2 & -9 & -9 \\ -3 & -4 & -8 & 6 & 3 \\ -7 & 3 & 3 & -5 & -2 \end{bmatrix}
+C_5x5_trans_015,transpose,"Find the transpose of the 5×5 matrix A.
+
+A = \begin{bmatrix} -4 & 0 & 2 & -3 & -4 \\ -7 & -4 & -3 & 0 & 0 \\ -3 & -1 & -6 & 8 & -1 \\ 5 & 6 & 1 & 2 & 7 \\ -7 & 6 & -5 & -6 & -2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^T = \begin{bmatrix} -4 & -7 & -3 & 5 & -7 \\ 0 & -4 & -1 & 6 & 6 \\ 2 & -3 & -6 & 1 & -5 \\ -3 & 0 & 8 & 2 & -6 \\ -4 & 0 & -1 & 7 & -2 \end{bmatrix}
+C_5x5_trans_016,transpose,"Find the transpose of the 5×5 matrix A.
+
+A = \begin{bmatrix} -4 & -9 & 2 & 2 & 0 \\ 7 & 0 & 4 & 5 & -7 \\ 9 & -2 & 3 & 4 & -3 \\ -5 & 0 & 5 & -1 & -1 \\ -8 & -3 & 4 & -6 & -6 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^T = \begin{bmatrix} -4 & 7 & 9 & -5 & -8 \\ -9 & 0 & -2 & 0 & -3 \\ 2 & 4 & 3 & 5 & 4 \\ 2 & 5 & 4 & -1 & -6 \\ 0 & -7 & -3 & -1 & -6 \end{bmatrix}
+C_5x5_trans_017,transpose,"Find the transpose of the 5×5 matrix A.
+
+A = \begin{bmatrix} -8 & -5 & -6 & -4 & -5 \\ -5 & 1 & 3 & -1 & -7 \\ -1 & -4 & 1 & -2 & -8 \\ -1 & 9 & 5 & -5 & 6 \\ 6 & -9 & 4 & 1 & 9 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^T = \begin{bmatrix} -8 & -5 & -1 & -1 & 6 \\ -5 & 1 & -4 & 9 & -9 \\ -6 & 3 & 1 & 5 & 4 \\ -4 & -1 & -2 & -5 & 1 \\ -5 & -7 & -8 & 6 & 9 \end{bmatrix}
+C_5x5_trans_018,transpose,"Find the transpose of the 5×5 matrix A.
+
+A = \begin{bmatrix} 8 & 0 & -3 & -1 & 7 \\ -7 & -4 & 7 & 0 & -6 \\ 2 & -5 & 4 & -2 & -4 \\ -4 & 5 & 1 & -6 & -3 \\ -3 & -9 & -5 & -8 & -1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^T = \begin{bmatrix} 8 & -7 & 2 & -4 & -3 \\ 0 & -4 & -5 & 5 & -9 \\ -3 & 7 & 4 & 1 & -5 \\ -1 & 0 & -2 & -6 & -8 \\ 7 & -6 & -4 & -3 & -1 \end{bmatrix}
+C_5x5_trans_019,transpose,"Find the transpose of the 5×5 matrix A.
+
+A = \begin{bmatrix} -8 & -7 & 6 & -7 & -3 \\ -5 & 4 & 6 & 9 & 3 \\ -2 & 1 & 1 & -2 & -3 \\ -7 & 4 & -6 & -2 & -1 \\ 0 & 7 & -1 & -1 & -1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^T = \begin{bmatrix} -8 & -5 & -2 & -7 & 0 \\ -7 & 4 & 1 & 4 & 7 \\ 6 & 6 & 1 & -6 & -1 \\ -7 & 9 & -2 & -2 & -1 \\ -3 & 3 & -3 & -1 & -1 \end{bmatrix}
+C_5x5_trans_020,transpose,"Find the transpose of the 5×5 matrix A.
+
+A = \begin{bmatrix} -6 & 5 & -9 & 3 & 6 \\ 0 & 8 & 6 & -8 & 8 \\ -6 & 3 & -2 & -7 & 6 \\ -7 & -1 & 7 & -4 & 7 \\ -2 & -6 & 8 & 1 & 7 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",A^T = \begin{bmatrix} -6 & 0 & -6 & -7 & -2 \\ 5 & 8 & 3 & -1 & -6 \\ -9 & 6 & -2 & 7 & 8 \\ 3 & -8 & -7 & -4 & 1 \\ 6 & 8 & 6 & 7 & 7 \end{bmatrix}

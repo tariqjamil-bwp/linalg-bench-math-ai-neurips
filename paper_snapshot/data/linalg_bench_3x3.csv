@@ -1,0 +1,1339 @@
+Problem_ID,Subcat,problem_latex,answer_latex
+C_3x3_det_001,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} -3 & 5 & 1 \\ -2 & -3 & 9 \\ 1 & 1 & -6 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -41
+C_3x3_det_002,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} -2 & -7 & -8 \\ 2 & -4 & -8 \\ -9 & 2 & 2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -236
+C_3x3_det_003,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} 7 & 0 & 6 \\ 5 & 5 & 9 \\ 2 & -7 & -5 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -4
+C_3x3_det_004,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} 9 & -3 & -1 \\ -3 & 8 & -6 \\ 4 & 8 & -1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 497
+C_3x3_det_005,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} -8 & 5 & -3 \\ 2 & -2 & 5 \\ -7 & 4 & 7 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 45
+C_3x3_det_006,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} -6 & 8 & -2 \\ -6 & -8 & -4 \\ 0 & -6 & 8 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 840
+C_3x3_det_007,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} 2 & -8 & 0 \\ -6 & 4 & 6 \\ 5 & -2 & 4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -376
+C_3x3_det_008,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} -2 & 6 & 3 \\ 8 & 5 & 3 \\ -1 & 5 & 3 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -27
+C_3x3_det_009,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} -9 & -3 & -1 \\ -9 & 2 & -2 \\ 1 & 9 & 7 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -388
+C_3x3_det_010,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} -2 & -7 & -7 \\ -9 & -5 & 0 \\ -3 & -1 & -3 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 201
+C_3x3_det_011,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} -3 & 4 & 6 \\ 7 & -1 & 5 \\ -5 & -2 & 6 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -394
+C_3x3_det_012,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} 2 & 6 & -6 \\ -9 & 7 & 7 \\ -5 & -2 & 1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -432
+C_3x3_det_013,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} 2 & -1 & -2 \\ -1 & -3 & 8 \\ -6 & -3 & 0 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 126
+C_3x3_det_014,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} -8 & 3 & -4 \\ 1 & -3 & 8 \\ 6 & 9 & 1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 633
+C_3x3_det_015,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} -9 & -4 & -3 \\ 3 & -7 & -8 \\ 8 & 7 & -5 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -854
+C_3x3_det_016,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} -1 & -1 & 5 \\ 8 & 7 & 3 \\ -3 & -1 & -4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 67
+C_3x3_det_017,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} -8 & -7 & -6 \\ -8 & 0 & 2 \\ 7 & 6 & 0 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 286
+C_3x3_det_018,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} 0 & 8 & -9 \\ -9 & 4 & 3 \\ 2 & -9 & -7 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -1113
+C_3x3_det_019,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} -3 & -5 & -2 \\ 8 & 6 & -4 \\ 2 & 4 & -7 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -202
+C_3x3_det_020,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} -6 & -6 & -9 \\ -7 & 9 & 0 \\ 7 & -1 & -7 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 1176
+C_3x3_det_021,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} 1 & 3 & 6 \\ -1 & 1 & 8 \\ -4 & -5 & 6 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 22
+C_3x3_det_022,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} 5 & 9 & 4 \\ -7 & 6 & -9 \\ 9 & -3 & -7 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -1647
+C_3x3_det_023,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} -2 & -2 & 6 \\ 7 & 9 & -3 \\ -1 & 7 & 7 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 272
+C_3x3_det_024,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} -6 & 3 & 4 \\ 1 & -4 & 4 \\ 1 & 1 & 6 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 182
+C_3x3_det_025,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} 5 & 6 & -5 \\ 1 & -8 & 3 \\ 2 & 4 & 8 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -492
+C_3x3_det_026,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} 7 & 0 & -3 \\ -1 & -1 & 6 \\ 7 & -5 & 6 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 132
+C_3x3_det_027,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} -5 & -6 & -1 \\ 6 & -4 & -4 \\ 3 & 8 & 5 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 132
+C_3x3_det_028,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} 9 & 9 & 0 \\ -7 & -7 & -9 \\ 7 & -5 & 6 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -972
+C_3x3_det_029,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} -3 & 1 & 0 \\ -1 & -3 & 8 \\ -6 & 7 & -4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 80
+C_3x3_det_030,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} -6 & 9 & -1 \\ 0 & -8 & 5 \\ -8 & -9 & 7 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -230
+C_3x3_det_031,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} -4 & 2 & 3 \\ -1 & 0 & 2 \\ -4 & 6 & -9 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -4
+C_3x3_det_032,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} 7 & -8 & 3 \\ -2 & 4 & -3 \\ 9 & -4 & 9 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 156
+C_3x3_det_033,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} 3 & 2 & -2 \\ -6 & -5 & -3 \\ -6 & 0 & 4 \end{bmatrix}
+
+Use cofactor expansion along the first row.
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 84
+C_3x3_det_034,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} 6 & 0 & 5 \\ 6 & 5 & 0 \\ -2 & 6 & -3 \end{bmatrix}
+
+Use cofactor expansion along the first row.
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 140
+C_3x3_det_035,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} -1 & -6 & 4 \\ 2 & -5 & -4 \\ 1 & 1 & 4 \end{bmatrix}
+
+Use cofactor expansion along the first row.
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 116
+C_3x3_det_036,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} -3 & 6 & -1 \\ 4 & -3 & -6 \\ -6 & -2 & 6 \end{bmatrix}
+
+Use cofactor expansion along the first row.
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 188
+C_3x3_det_037,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} -6 & -2 & -5 \\ 6 & 2 & 3 \\ 3 & 2 & 4 \end{bmatrix}
+
+Use cofactor expansion along the first row.
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -12
+C_3x3_det_038,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} -6 & 5 & 3 \\ 3 & -1 & 4 \\ -2 & -6 & 5 \end{bmatrix}
+
+Use cofactor expansion along the first row.
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -289
+C_3x3_det_039,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} -3 & -5 & 2 \\ -3 & 5 & -1 \\ -6 & 6 & 0 \end{bmatrix}
+
+Use cofactor expansion along the first row.
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -24
+C_3x3_det_040,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} -3 & 2 & 0 \\ -6 & 3 & -1 \\ 3 & 5 & 1 \end{bmatrix}
+
+Use cofactor expansion along the first row.
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -18
+C_3x3_det_041,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} 2 & -3 & -3 \\ -1 & 5 & 0 \\ -2 & 4 & 5 \end{bmatrix}
+
+Use cofactor expansion along the first row.
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 17
+C_3x3_det_042,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} 5 & -3 & 3 \\ 1 & -1 & -1 \\ -5 & -3 & 1 \end{bmatrix}
+
+Use cofactor expansion along the first row.
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -56
+C_3x3_det_043,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} 5 & 5 & -4 \\ 2 & -5 & 2 \\ -2 & -1 & 3 \end{bmatrix}
+
+Use cofactor expansion along the first row.
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -67
+C_3x3_det_044,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} -1 & 4 & 0 \\ 6 & 2 & -3 \\ 4 & -1 & 0 \end{bmatrix}
+
+Use cofactor expansion along the first row.
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -45
+C_3x3_det_045,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} -5 & -5 & 1 \\ -4 & 6 & 5 \\ 3 & 3 & 1 \end{bmatrix}
+
+Use cofactor expansion along the first row.
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -80
+C_3x3_det_046,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} -6 & -1 & 0 \\ 5 & -4 & 0 \\ -2 & -5 & -5 \end{bmatrix}
+
+Use cofactor expansion along the first row.
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -145
+C_3x3_det_047,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} -2 & -5 & -6 \\ -2 & -4 & 1 \\ -6 & -3 & -1 \end{bmatrix}
+
+Use cofactor expansion along the first row.
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 134
+C_3x3_det_048,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} 6 & 2 & 5 \\ -2 & -1 & -1 \\ 5 & 6 & 6 \end{bmatrix}
+
+Use cofactor expansion along the first row.
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = -21
+C_3x3_det_049,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} 3 & 0 & 1 \\ 6 & -3 & -2 \\ 5 & -1 & -3 \end{bmatrix}
+
+Use cofactor expansion along the first row.
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 30
+C_3x3_det_050,determinant,"Find the determinant of the 3×3 matrix A.
+
+A = \begin{bmatrix} 1 & -2 & 5 \\ 5 & -3 & 0 \\ 6 & 3 & -4 \end{bmatrix}
+
+Use cofactor expansion along the first row.
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\det(A) = 137
+C_3x3_eig_001,eigenvalue,"Find the eigenvalues of the 3×3 matrix A.
+
+A = \begin{bmatrix} 0 & -1 & -7 \\ -1 & 6 & -2 \\ -7 & -2 & -6 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -10.9074, 4.5753, 6.3321"
+C_3x3_eig_002,eigenvalue,"Find the eigenvalues of the 3×3 matrix A.
+
+A = \begin{bmatrix} 0 & 5 & 6 \\ 5 & 8 & -6 \\ 6 & -6 & -8 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -13.9007, 2.9405, 10.9601"
+C_3x3_eig_003,eigenvalue,"Find the eigenvalues of the 3×3 matrix A.
+
+A = \begin{bmatrix} 8 & 1 & -1 \\ 1 & 2 & -2 \\ -1 & -2 & -10 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -10.362, 2.1034, 8.2586"
+C_3x3_eig_004,eigenvalue,"Find the eigenvalues of the 3×3 matrix A.
+
+A = \begin{bmatrix} 6 & 2 & -1 \\ 2 & -2 & -1 \\ -1 & -1 & 0 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -2.6904, -0.0, 6.6904"
+C_3x3_eig_005,eigenvalue,"Find the eigenvalues of the 3×3 matrix A.
+
+A = \begin{bmatrix} -2 & 3 & -3 \\ 3 & -6 & 0 \\ -3 & 0 & -8 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -9.7056, -6.7522, 0.4578"
+C_3x3_eig_006,eigenvalue,"Find the eigenvalues of the 3×3 matrix A.
+
+A = \begin{bmatrix} 6 & -6 & -8 \\ -6 & 0 & 1 \\ -8 & 1 & 6 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.","\lambda = -5.1923, 1.5515, 15.6408"
+C_3x3_eig_007,eigenvalue,"Find the eigenvalues of the 3×3 matrix A.
+
+A = \begin{bmatrix} -3 & -5 & 5 \\ 3 & 22 & -21 \\ 3 & 24 & -23 \end{bmatrix}
+
+Compute the characteristic polynomial det(A − λI) = 0 and solve for λ.
+Show all steps. List all eigenvalues inside \boxed{}.","\lambda = -3, -2, 1"
+C_3x3_eig_008,eigenvalue,"Find the eigenvalues of the 3×3 matrix A.
+
+A = \begin{bmatrix} 68 & 129 & 96 \\ 0 & 2 & 0 \\ -48 & -94 & -68 \end{bmatrix}
+
+Compute the characteristic polynomial det(A − λI) = 0 and solve for λ.
+Show all steps. List all eigenvalues inside \boxed{}.","\lambda = -4, 2, 4"
+C_3x3_eig_009,eigenvalue,"Find the eigenvalues of the 3×3 matrix A.
+
+A = \begin{bmatrix} -7 & -5 & 0 \\ 2 & 0 & 1 \\ -2 & -2 & -2 \end{bmatrix}
+
+Compute the characteristic polynomial det(A − λI) = 0 and solve for λ.
+Show all steps. List all eigenvalues inside \boxed{}.","\lambda = -4, -3, -2"
+C_3x3_eig_010,eigenvalue,"Find the eigenvalues of the 3×3 matrix A.
+
+A = \begin{bmatrix} -1 & 0 & 0 \\ -30 & 20 & -15 \\ -29 & 20 & -15 \end{bmatrix}
+
+Compute the characteristic polynomial det(A − λI) = 0 and solve for λ.
+Show all steps. List all eigenvalues inside \boxed{}.","\lambda = -1, 0, 5"
+C_3x3_eig_011,eigenvalue,"Find the eigenvalues of the 3×3 matrix A.
+
+A = \begin{bmatrix} -3 & 0 & -4 \\ 3 & 0 & 4 \\ 0 & -3 & 5 \end{bmatrix}
+
+Compute the characteristic polynomial det(A − λI) = 0 and solve for λ.
+Show all steps. List all eigenvalues inside \boxed{}.","\lambda = -1, 0, 3"
+C_3x3_eig_012,eigenvalue,"Find the eigenvalues of the 3×3 matrix A.
+
+A = \begin{bmatrix} 18 & 9 & -14 \\ -22 & -11 & 18 \\ 6 & 3 & -4 \end{bmatrix}
+
+Compute the characteristic polynomial det(A − λI) = 0 and solve for λ.
+Show all steps. List all eigenvalues inside \boxed{}.","\lambda = 0, 1, 2"
+C_3x3_eig_013,eigenvalue,"Find the eigenvalues of the 3×3 matrix A.
+
+A = \begin{bmatrix} -4 & 0 & 0 \\ 0 & -4 & 0 \\ 0 & 0 & -4 \end{bmatrix}
+
+Compute the characteristic polynomial det(A − λI) = 0 and solve for λ.
+Show all steps. List all eigenvalues inside \boxed{}.","\lambda = -4, -4, -4"
+C_3x3_eig_014,eigenvalue,"Find the eigenvalues of the 3×3 matrix A.
+
+A = \begin{bmatrix} 0 & 0 & 0 \\ 8 & -9 & 7 \\ 16 & -18 & 14 \end{bmatrix}
+
+Compute the characteristic polynomial det(A − λI) = 0 and solve for λ.
+Show all steps. List all eigenvalues inside \boxed{}.","\lambda = 0, 0, 5"
+C_3x3_eig_015,eigenvalue,"Find the eigenvalues of the 3×3 matrix A.
+
+A = \begin{bmatrix} -88 & 96 & -40 \\ -176 & 192 & -80 \\ -220 & 240 & -100 \end{bmatrix}
+
+Compute the characteristic polynomial det(A − λI) = 0 and solve for λ.
+Show all steps. List all eigenvalues inside \boxed{}.","\lambda = 0, 0, 4"
+C_3x3_eig_016,eigenvalue,"Find the eigenvalues of the 3×3 matrix A.
+
+A = \begin{bmatrix} -3 & 26 & 32 \\ 1 & 6 & 4 \\ -1 & -2 & 0 \end{bmatrix}
+
+Compute the characteristic polynomial det(A − λI) = 0 and solve for λ.
+Show all steps. List all eigenvalues inside \boxed{}.","\lambda = -1, 0, 4"
+C_3x3_eig_017,eigenvalue,"Find the eigenvalues of the 3×3 matrix A.
+
+A = \begin{bmatrix} 15 & -3 & -18 \\ -2 & 2 & 2 \\ 13 & -1 & -16 \end{bmatrix}
+
+Compute the characteristic polynomial det(A − λI) = 0 and solve for λ.
+Show all steps. List all eigenvalues inside \boxed{}.","\lambda = -3, 0, 4"
+C_3x3_eig_018,eigenvalue,"Find the eigenvalues of the 3×3 matrix A.
+
+A = \begin{bmatrix} 79 & 6 & -70 \\ -100 & -9 & 88 \\ 80 & 6 & -71 \end{bmatrix}
+
+Compute the characteristic polynomial det(A − λI) = 0 and solve for λ.
+Show all steps. List all eigenvalues inside \boxed{}.","\lambda = -3, -1, 3"
+C_3x3_eig_019,eigenvalue,"Find the eigenvalues of the 3×3 matrix A.
+
+A = \begin{bmatrix} -4 & 2 & 0 \\ 0 & -3 & 0 \\ 18 & -68 & 5 \end{bmatrix}
+
+Compute the characteristic polynomial det(A − λI) = 0 and solve for λ.
+Show all steps. List all eigenvalues inside \boxed{}.","\lambda = -4, -3, 5"
+C_3x3_eig_020,eigenvalue,"Find the eigenvalues of the 3×3 matrix A.
+
+A = \begin{bmatrix} 9 & -6 & 0 \\ 4 & -1 & 0 \\ -4 & 6 & 5 \end{bmatrix}
+
+Compute the characteristic polynomial det(A − λI) = 0 and solve for λ.
+Show all steps. List all eigenvalues inside \boxed{}.","\lambda = 3, 5, 5"
+C_3x3_eig_021,eigenvalue,"Find the eigenvalues of the 3×3 matrix A.
+
+A = \begin{bmatrix} -12 & 10 & -30 \\ -8 & 6 & -24 \\ 2 & -2 & 4 \end{bmatrix}
+
+Compute the characteristic polynomial det(A − λI) = 0 and solve for λ.
+Show all steps. List all eigenvalues inside \boxed{}.","\lambda = -2, -2, 2"
+C_3x3_eig_022,eigenvalue,"Find the eigenvalues of the 3×3 matrix A.
+
+A = \begin{bmatrix} -102 & -15 & -57 \\ 75 & 8 & 43 \\ 165 & 25 & 92 \end{bmatrix}
+
+Compute the characteristic polynomial det(A − λI) = 0 and solve for λ.
+Show all steps. List all eigenvalues inside \boxed{}.","\lambda = -3, -2, 3"
+C_3x3_eig_023,eigenvalue,"Find the eigenvalues of the 3×3 matrix A.
+
+A = \begin{bmatrix} -5 & 0 & 0 \\ 0 & -5 & 0 \\ 0 & 0 & -5 \end{bmatrix}
+
+Compute the characteristic polynomial det(A − λI) = 0 and solve for λ.
+Show all steps. List all eigenvalues inside \boxed{}.","\lambda = -5, -5, -5"
+C_3x3_eig_024,eigenvalue,"Find the eigenvalues of the 3×3 matrix A.
+
+A = \begin{bmatrix} -5 & 15 & 15 \\ 0 & -5 & 0 \\ -2 & 11 & 6 \end{bmatrix}
+
+Compute the characteristic polynomial det(A − λI) = 0 and solve for λ.
+Show all steps. List all eigenvalues inside \boxed{}.","\lambda = -5, 0, 1"
+C_3x3_eig_025,eigenvalue,"Find the eigenvalues of the 3×3 matrix A.
+
+A = \begin{bmatrix} 1 & 8 & 10 \\ 2 & -14 & -20 \\ -2 & 16 & 22 \end{bmatrix}
+
+Compute the characteristic polynomial det(A − λI) = 0 and solve for λ.
+Show all steps. List all eigenvalues inside \boxed{}.","\lambda = 2, 2, 5"
+C_3x3_eig_026,eigenvalue,"Find the eigenvalues of the 3×3 matrix A.
+
+A = \begin{bmatrix} 7 & 52 & 12 \\ -9 & -52 & -12 \\ 30 & 165 & 38 \end{bmatrix}
+
+Compute the characteristic polynomial det(A − λI) = 0 and solve for λ.
+Show all steps. List all eigenvalues inside \boxed{}.","\lambda = -4, -2, -1"
+C_3x3_eig_027,eigenvalue,"Find the eigenvalues of the 3×3 matrix A.
+
+A = \begin{bmatrix} -15 & 38 & -27 \\ -2 & 1 & -3 \\ 6 & -22 & 12 \end{bmatrix}
+
+Compute the characteristic polynomial det(A − λI) = 0 and solve for λ.
+Show all steps. List all eigenvalues inside \boxed{}.","\lambda = -4, -1, 3"
+C_3x3_eig_028,eigenvalue,"Find the eigenvalues of the 3×3 matrix A.
+
+A = \begin{bmatrix} -115 & 183 & -15 \\ -76 & 121 & -10 \\ -52 & 83 & -8 \end{bmatrix}
+
+Compute the characteristic polynomial det(A − λI) = 0 and solve for λ.
+Show all steps. List all eigenvalues inside \boxed{}.","\lambda = -3, -1, 2"
+C_3x3_eig_029,eigenvalue,"Find the eigenvalues of the 3×3 matrix A.
+
+A = \begin{bmatrix} 138 & -82 & -54 \\ 179 & -105 & -72 \\ 89 & -55 & -32 \end{bmatrix}
+
+Compute the characteristic polynomial det(A − λI) = 0 and solve for λ.
+Show all steps. List all eigenvalues inside \boxed{}.","\lambda = -5, 2, 4"
+C_3x3_eig_030,eigenvalue,"Find the eigenvalues of the 3×3 matrix A.
+
+A = \begin{bmatrix} -8 & -2 & 0 \\ 12 & 2 & 0 \\ 42 & 14 & 3 \end{bmatrix}
+
+Compute the characteristic polynomial det(A − λI) = 0 and solve for λ.
+Show all steps. List all eigenvalues inside \boxed{}.","\lambda = -4, -2, 3"
+C_3x3_matvec_001,matrix_vector,"Compute the matrix-vector product b = A·x for the 3×3 matrix A and vector x.
+
+A = \begin{bmatrix} -3 & 4 & -2 \\ -2 & 5 & -4 \\ 5 & 5 & 1 \end{bmatrix}
+
+x = \begin{bmatrix} -4 \\ -4 \\ -2 \end{bmatrix}
+
+Compute each entry of b by taking the dot product of each row of A with x.
+Show your steps. Put the final vector b inside \boxed{}.",Ax = \begin{bmatrix} 0 \\ -4 \\ -42 \end{bmatrix}
+C_3x3_matvec_002,matrix_vector,"Compute the matrix-vector product b = A·x for the 3×3 matrix A and vector x.
+
+A = \begin{bmatrix} 1 & -4 & 0 \\ -4 & 0 & -5 \\ 2 & -5 & -3 \end{bmatrix}
+
+x = \begin{bmatrix} -4 \\ 4 \\ -5 \end{bmatrix}
+
+Compute each entry of b by taking the dot product of each row of A with x.
+Show your steps. Put the final vector b inside \boxed{}.",Ax = \begin{bmatrix} -20 \\ 41 \\ -13 \end{bmatrix}
+C_3x3_matvec_003,matrix_vector,"Compute the matrix-vector product b = A·x for the 3×3 matrix A and vector x.
+
+A = \begin{bmatrix} -1 & 1 & 0 \\ 2 & 3 & -1 \\ 4 & -2 & 5 \end{bmatrix}
+
+x = \begin{bmatrix} 0 \\ 3 \\ 4 \end{bmatrix}
+
+Compute each entry of b by taking the dot product of each row of A with x.
+Show your steps. Put the final vector b inside \boxed{}.",Ax = \begin{bmatrix} 3 \\ 5 \\ 14 \end{bmatrix}
+C_3x3_matvec_004,matrix_vector,"Compute the matrix-vector product b = A·x for the 3×3 matrix A and vector x.
+
+A = \begin{bmatrix} 3 & 4 & 0 \\ -5 & 0 & -4 \\ 4 & -3 & -3 \end{bmatrix}
+
+x = \begin{bmatrix} -3 \\ 2 \\ 1 \end{bmatrix}
+
+Compute each entry of b by taking the dot product of each row of A with x.
+Show your steps. Put the final vector b inside \boxed{}.",Ax = \begin{bmatrix} -1 \\ 11 \\ -21 \end{bmatrix}
+C_3x3_matvec_005,matrix_vector,"Compute the matrix-vector product b = A·x for the 3×3 matrix A and vector x.
+
+A = \begin{bmatrix} 5 & -1 & -2 \\ -5 & -5 & -1 \\ 5 & 0 & 4 \end{bmatrix}
+
+x = \begin{bmatrix} -4 \\ -4 \\ 4 \end{bmatrix}
+
+Compute each entry of b by taking the dot product of each row of A with x.
+Show your steps. Put the final vector b inside \boxed{}.",Ax = \begin{bmatrix} -24 \\ 36 \\ -4 \end{bmatrix}
+C_3x3_matvec_006,matrix_vector,"Compute the matrix-vector product b = A·x for the 3×3 matrix A and vector x.
+
+A = \begin{bmatrix} -4 & -5 & -1 \\ 5 & 2 & -4 \\ 4 & 4 & 3 \end{bmatrix}
+
+x = \begin{bmatrix} 4 \\ -3 \\ 5 \end{bmatrix}
+
+Compute each entry of b by taking the dot product of each row of A with x.
+Show your steps. Put the final vector b inside \boxed{}.",Ax = \begin{bmatrix} -6 \\ -6 \\ 19 \end{bmatrix}
+C_3x3_matvec_007,matrix_vector,"Compute the matrix-vector product b = A·x for the 3×3 matrix A and vector x.
+
+A = \begin{bmatrix} -2 & 3 & 1 \\ 3 & 1 & 2 \\ 1 & 3 & 3 \end{bmatrix}
+
+x = \begin{bmatrix} -4 \\ 4 \\ 0 \end{bmatrix}
+
+Compute each entry of b by taking the dot product of each row of A with x.
+Show your steps. Put the final vector b inside \boxed{}.",Ax = \begin{bmatrix} 20 \\ -8 \\ 8 \end{bmatrix}
+C_3x3_matvec_008,matrix_vector,"Compute the matrix-vector product b = A·x for the 3×3 matrix A and vector x.
+
+A = \begin{bmatrix} -2 & 0 & 5 \\ 4 & 4 & 0 \\ 3 & -1 & 2 \end{bmatrix}
+
+x = \begin{bmatrix} 2 \\ -3 \\ -3 \end{bmatrix}
+
+Compute each entry of b by taking the dot product of each row of A with x.
+Show your steps. Put the final vector b inside \boxed{}.",Ax = \begin{bmatrix} -19 \\ -4 \\ 3 \end{bmatrix}
+C_3x3_matvec_009,matrix_vector,"Compute the matrix-vector product b = A·x for the 3×3 matrix A and vector x.
+
+A = \begin{bmatrix} -5 & -4 & -1 \\ 0 & -4 & -1 \\ 1 & -3 & -2 \end{bmatrix}
+
+x = \begin{bmatrix} -1 \\ 0 \\ -1 \end{bmatrix}
+
+Compute each entry of b by taking the dot product of each row of A with x.
+Show your steps. Put the final vector b inside \boxed{}.",Ax = \begin{bmatrix} 6 \\ 1 \\ 1 \end{bmatrix}
+C_3x3_matvec_010,matrix_vector,"Compute the matrix-vector product b = A·x for the 3×3 matrix A and vector x.
+
+A = \begin{bmatrix} 3 & -2 & -1 \\ -1 & -3 & 2 \\ -3 & -2 & 3 \end{bmatrix}
+
+x = \begin{bmatrix} 5 \\ 2 \\ 5 \end{bmatrix}
+
+Compute each entry of b by taking the dot product of each row of A with x.
+Show your steps. Put the final vector b inside \boxed{}.",Ax = \begin{bmatrix} 6 \\ -1 \\ -4 \end{bmatrix}
+C_3x3_matvec_011,matrix_vector,"Compute the matrix-vector product b = A·x for the 3×3 matrix A and vector x.
+
+A = \begin{bmatrix} 4 & 0 & 3 \\ -2 & 0 & 0 \\ 5 & 4 & 0 \end{bmatrix}
+
+x = \begin{bmatrix} 2 \\ -3 \\ 3 \end{bmatrix}
+
+Compute each entry of b by taking the dot product of each row of A with x.
+Show your steps. Put the final vector b inside \boxed{}.",Ax = \begin{bmatrix} 17 \\ -4 \\ -2 \end{bmatrix}
+C_3x3_matvec_012,matrix_vector,"Compute the matrix-vector product b = A·x for the 3×3 matrix A and vector x.
+
+A = \begin{bmatrix} 1 & 0 & 3 \\ 1 & -5 & -2 \\ -4 & 3 & -5 \end{bmatrix}
+
+x = \begin{bmatrix} -3 \\ 1 \\ 2 \end{bmatrix}
+
+Compute each entry of b by taking the dot product of each row of A with x.
+Show your steps. Put the final vector b inside \boxed{}.",Ax = \begin{bmatrix} 3 \\ -12 \\ 5 \end{bmatrix}
+C_3x3_matvec_013,matrix_vector,"Compute the matrix-vector product b = A·x for the 3×3 matrix A and vector x.
+
+A = \begin{bmatrix} 0 & 4 & 5 \\ -4 & 5 & 1 \\ 1 & -4 & 1 \end{bmatrix}
+
+x = \begin{bmatrix} 2 \\ 1 \\ -5 \end{bmatrix}
+
+Compute each entry of b by taking the dot product of each row of A with x.
+Show your steps. Put the final vector b inside \boxed{}.",Ax = \begin{bmatrix} -21 \\ -8 \\ -7 \end{bmatrix}
+C_3x3_matvec_014,matrix_vector,"Compute the matrix-vector product b = A·x for the 3×3 matrix A and vector x.
+
+A = \begin{bmatrix} 0 & 5 & 2 \\ -4 & 5 & 5 \\ -4 & 3 & -1 \end{bmatrix}
+
+x = \begin{bmatrix} 1 \\ -1 \\ 3 \end{bmatrix}
+
+Compute each entry of b by taking the dot product of each row of A with x.
+Show your steps. Put the final vector b inside \boxed{}.",Ax = \begin{bmatrix} 1 \\ 6 \\ -10 \end{bmatrix}
+C_3x3_matvec_015,matrix_vector,"Compute the matrix-vector product b = A·x for the 3×3 matrix A and vector x.
+
+A = \begin{bmatrix} 5 & 3 & 5 \\ 5 & -5 & -3 \\ 2 & 1 & -5 \end{bmatrix}
+
+x = \begin{bmatrix} -4 \\ 0 \\ 1 \end{bmatrix}
+
+Compute each entry of b by taking the dot product of each row of A with x.
+Show your steps. Put the final vector b inside \boxed{}.",Ax = \begin{bmatrix} -15 \\ -23 \\ -13 \end{bmatrix}
+C_3x3_matvec_016,matrix_vector,"Compute the matrix-vector product b = A·x for the 3×3 matrix A and vector x.
+
+A = \begin{bmatrix} -4 & -4 & -4 \\ 1 & -5 & 1 \\ 0 & 0 & 2 \end{bmatrix}
+
+x = \begin{bmatrix} 0 \\ 3 \\ 3 \end{bmatrix}
+
+Compute each entry of b by taking the dot product of each row of A with x.
+Show your steps. Put the final vector b inside \boxed{}.",Ax = \begin{bmatrix} -24 \\ -12 \\ 6 \end{bmatrix}
+C_3x3_matvec_017,matrix_vector,"Compute the matrix-vector product b = A·x for the 3×3 matrix A and vector x.
+
+A = \begin{bmatrix} 5 & 3 & 0 \\ 0 & -3 & 1 \\ -4 & 5 & 4 \end{bmatrix}
+
+x = \begin{bmatrix} -4 \\ 3 \\ -4 \end{bmatrix}
+
+Compute each entry of b by taking the dot product of each row of A with x.
+Show your steps. Put the final vector b inside \boxed{}.",Ax = \begin{bmatrix} -11 \\ -13 \\ 15 \end{bmatrix}
+C_3x3_matvec_018,matrix_vector,"Compute the matrix-vector product b = A·x for the 3×3 matrix A and vector x.
+
+A = \begin{bmatrix} 2 & -5 & 0 \\ 2 & 3 & -1 \\ 5 & 3 & -3 \end{bmatrix}
+
+x = \begin{bmatrix} 2 \\ 3 \\ -2 \end{bmatrix}
+
+Compute each entry of b by taking the dot product of each row of A with x.
+Show your steps. Put the final vector b inside \boxed{}.",Ax = \begin{bmatrix} -11 \\ 15 \\ 25 \end{bmatrix}
+C_3x3_matvec_019,matrix_vector,"Compute the matrix-vector product b = A·x for the 3×3 matrix A and vector x.
+
+A = \begin{bmatrix} 3 & 4 & 3 \\ 3 & 1 & -3 \\ 3 & -1 & 0 \end{bmatrix}
+
+x = \begin{bmatrix} -2 \\ -2 \\ -4 \end{bmatrix}
+
+Compute each entry of b by taking the dot product of each row of A with x.
+Show your steps. Put the final vector b inside \boxed{}.",Ax = \begin{bmatrix} -26 \\ 4 \\ -4 \end{bmatrix}
+C_3x3_matvec_020,matrix_vector,"Compute the matrix-vector product b = A·x for the 3×3 matrix A and vector x.
+
+A = \begin{bmatrix} 5 & -4 & -5 \\ 5 & 1 & -1 \\ 3 & -1 & -4 \end{bmatrix}
+
+x = \begin{bmatrix} 3 \\ -4 \\ 1 \end{bmatrix}
+
+Compute each entry of b by taking the dot product of each row of A with x.
+Show your steps. Put the final vector b inside \boxed{}.",Ax = \begin{bmatrix} 26 \\ 10 \\ 9 \end{bmatrix}
+C_3x3_mult_001,multiplication,"Compute the product AB for the given 3×3 matrices A and B.
+
+A = \begin{bmatrix} -9 & 6 & -3 \\ -5 & -7 & 2 \\ 6 & 9 & -5 \end{bmatrix}, \quad B = \begin{bmatrix} 4 & -5 & 5 \\ 7 & 4 & -5 \\ 2 & 6 & 6 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",AB = \begin{bmatrix} 0 & 51 & -93 \\ -65 & 9 & 22 \\ 77 & -24 & -45 \end{bmatrix}
+C_3x3_mult_002,multiplication,"Compute the product AB for the given 3×3 matrices A and B.
+
+A = \begin{bmatrix} -3 & -6 & -9 \\ -5 & 0 & -5 \\ -6 & -8 & 0 \end{bmatrix}, \quad B = \begin{bmatrix} 9 & -9 & -5 \\ 3 & -6 & 6 \\ 6 & -8 & 7 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",AB = \begin{bmatrix} -99 & 135 & -84 \\ -75 & 85 & -10 \\ -78 & 102 & -18 \end{bmatrix}
+C_3x3_mult_003,multiplication,"Compute the product AB for the given 3×3 matrices A and B.
+
+A = \begin{bmatrix} 2 & 8 & -7 \\ -9 & -9 & 9 \\ 1 & -5 & 2 \end{bmatrix}, \quad B = \begin{bmatrix} -7 & -9 & -9 \\ -2 & 0 & 1 \\ 2 & 3 & 2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",AB = \begin{bmatrix} -44 & -39 & -24 \\ 99 & 108 & 90 \\ 7 & -3 & -10 \end{bmatrix}
+C_3x3_mult_004,multiplication,"Compute the product AB for the given 3×3 matrices A and B.
+
+A = \begin{bmatrix} 4 & -8 & 9 \\ 8 & -7 & 7 \\ -2 & 0 & -8 \end{bmatrix}, \quad B = \begin{bmatrix} 9 & -1 & -3 \\ -6 & 8 & 3 \\ 1 & -6 & -6 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",AB = \begin{bmatrix} 93 & -122 & -90 \\ 121 & -106 & -87 \\ -26 & 50 & 54 \end{bmatrix}
+C_3x3_mult_005,multiplication,"Compute the product AB for the given 3×3 matrices A and B.
+
+A = \begin{bmatrix} 0 & -5 & -1 \\ -7 & 7 & -7 \\ 6 & -6 & 8 \end{bmatrix}, \quad B = \begin{bmatrix} 7 & -3 & -5 \\ 2 & 7 & 3 \\ -7 & -1 & 7 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",AB = \begin{bmatrix} -3 & -34 & -22 \\ 14 & 77 & 7 \\ -26 & -68 & 8 \end{bmatrix}
+C_3x3_mult_006,multiplication,"Compute the product AB for the given 3×3 matrices A and B.
+
+A = \begin{bmatrix} 7 & 6 & 3 \\ 9 & 7 & -6 \\ 2 & -1 & 9 \end{bmatrix}, \quad B = \begin{bmatrix} 2 & -1 & -3 \\ 4 & 9 & 5 \\ 6 & -5 & -7 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",AB = \begin{bmatrix} 56 & 32 & -12 \\ 10 & 84 & 50 \\ 54 & -56 & -74 \end{bmatrix}
+C_3x3_mult_007,multiplication,"Compute the product AB for the given 3×3 matrices A and B.
+
+A = \begin{bmatrix} 2 & -6 & 6 \\ -3 & 3 & 0 \\ -3 & 4 & -5 \end{bmatrix}, \quad B = \begin{bmatrix} -7 & 1 & 1 \\ 8 & 5 & 2 \\ -1 & 0 & 2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",AB = \begin{bmatrix} -68 & -28 & 2 \\ 45 & 12 & 3 \\ 58 & 17 & -5 \end{bmatrix}
+C_3x3_mult_008,multiplication,"Compute the product AB for the given 3×3 matrices A and B.
+
+A = \begin{bmatrix} 7 & -4 & -3 \\ 4 & 3 & -2 \\ 0 & -1 & 8 \end{bmatrix}, \quad B = \begin{bmatrix} -8 & -5 & -5 \\ -4 & 9 & -2 \\ 6 & 3 & -9 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",AB = \begin{bmatrix} -58 & -80 & 0 \\ -56 & 1 & -8 \\ 52 & 15 & -70 \end{bmatrix}
+C_3x3_mult_009,multiplication,"Compute the matrix product C = A × B for the two 3×3 matrices.
+
+A = \begin{bmatrix} -2 & 0 & -2 \\ -4 & 1 & 2 \\ -3 & -2 & -2 \end{bmatrix}
+
+B = \begin{bmatrix} 1 & 2 & 2 \\ 4 & 2 & -2 \\ -4 & 1 & 4 \end{bmatrix}
+
+Show your row-by-column computation steps clearly.
+Put the final 3×3 result matrix inside \boxed{}.",AB = \begin{bmatrix} 6 & -6 & -12 \\ -8 & -4 & -2 \\ -3 & -12 & -10 \end{bmatrix}
+C_3x3_mult_010,multiplication,"Compute the matrix product C = A × B for the two 3×3 matrices.
+
+A = \begin{bmatrix} 4 & -2 & -2 \\ -4 & -3 & 0 \\ 0 & -1 & -2 \end{bmatrix}
+
+B = \begin{bmatrix} 3 & 0 & 3 \\ 4 & -2 & -3 \\ 4 & 1 & -2 \end{bmatrix}
+
+Show your row-by-column computation steps clearly.
+Put the final 3×3 result matrix inside \boxed{}.",AB = \begin{bmatrix} -4 & 2 & 22 \\ -24 & 6 & -3 \\ -12 & 0 & 7 \end{bmatrix}
+C_3x3_mult_011,multiplication,"Compute the matrix product C = A × B for the two 3×3 matrices.
+
+A = \begin{bmatrix} 1 & 0 & 4 \\ -2 & 4 & 4 \\ -3 & -3 & 0 \end{bmatrix}
+
+B = \begin{bmatrix} -4 & -2 & -1 \\ 4 & 4 & -3 \\ 4 & -4 & 2 \end{bmatrix}
+
+Show your row-by-column computation steps clearly.
+Put the final 3×3 result matrix inside \boxed{}.",AB = \begin{bmatrix} 12 & -18 & 7 \\ 40 & 4 & -2 \\ 0 & -6 & 12 \end{bmatrix}
+C_3x3_mult_012,multiplication,"Compute the matrix product C = A × B for the two 3×3 matrices.
+
+A = \begin{bmatrix} 3 & 4 & -2 \\ 4 & -3 & 0 \\ 0 & -2 & -4 \end{bmatrix}
+
+B = \begin{bmatrix} 2 & -1 & 1 \\ -1 & -1 & 3 \\ -4 & 2 & 2 \end{bmatrix}
+
+Show your row-by-column computation steps clearly.
+Put the final 3×3 result matrix inside \boxed{}.",AB = \begin{bmatrix} 10 & -11 & 11 \\ 11 & -1 & -5 \\ 18 & -6 & -14 \end{bmatrix}
+C_3x3_mult_013,multiplication,"Compute the matrix product C = A × B for the two 3×3 matrices.
+
+A = \begin{bmatrix} -1 & -2 & -4 \\ 4 & 4 & -2 \\ -4 & -3 & -4 \end{bmatrix}
+
+B = \begin{bmatrix} 3 & 4 & -3 \\ 2 & -3 & -1 \\ 1 & 2 & 3 \end{bmatrix}
+
+Show your row-by-column computation steps clearly.
+Put the final 3×3 result matrix inside \boxed{}.",AB = \begin{bmatrix} -11 & -6 & -7 \\ 18 & 0 & -22 \\ -22 & -15 & 3 \end{bmatrix}
+C_3x3_mult_014,multiplication,"Compute the matrix product C = A × B for the two 3×3 matrices.
+
+A = \begin{bmatrix} -4 & -3 & -2 \\ -2 & 4 & 2 \\ -2 & 4 & 0 \end{bmatrix}
+
+B = \begin{bmatrix} 0 & -1 & -3 \\ 4 & -4 & -3 \\ -2 & -2 & -3 \end{bmatrix}
+
+Show your row-by-column computation steps clearly.
+Put the final 3×3 result matrix inside \boxed{}.",AB = \begin{bmatrix} -8 & 20 & 27 \\ 12 & -18 & -12 \\ 16 & -14 & -6 \end{bmatrix}
+C_3x3_mult_015,multiplication,"Compute the matrix product C = A × B for the two 3×3 matrices.
+
+A = \begin{bmatrix} -4 & 2 & 4 \\ -3 & -2 & 0 \\ 4 & 2 & 2 \end{bmatrix}
+
+B = \begin{bmatrix} 1 & -1 & -3 \\ 3 & 3 & -4 \\ 2 & -4 & 2 \end{bmatrix}
+
+Show your row-by-column computation steps clearly.
+Put the final 3×3 result matrix inside \boxed{}.",AB = \begin{bmatrix} 10 & -6 & 12 \\ -9 & -3 & 17 \\ 14 & -6 & -16 \end{bmatrix}
+C_3x3_mult_016,multiplication,"Compute the matrix product C = A × B for the two 3×3 matrices.
+
+A = \begin{bmatrix} 3 & -3 & -1 \\ -3 & 1 & 4 \\ -4 & -1 & 4 \end{bmatrix}
+
+B = \begin{bmatrix} -2 & -3 & 0 \\ 0 & 1 & -2 \\ 4 & 0 & -2 \end{bmatrix}
+
+Show your row-by-column computation steps clearly.
+Put the final 3×3 result matrix inside \boxed{}.",AB = \begin{bmatrix} -10 & -12 & 8 \\ 22 & 10 & -10 \\ 24 & 11 & -6 \end{bmatrix}
+C_3x3_mult_017,multiplication,"Compute the matrix product C = A × B for the two 3×3 matrices.
+
+A = \begin{bmatrix} 4 & 4 & 0 \\ -4 & 1 & 0 \\ -3 & 1 & 3 \end{bmatrix}
+
+B = \begin{bmatrix} -4 & 2 & -3 \\ 2 & -1 & -4 \\ 4 & -3 & 1 \end{bmatrix}
+
+Show your row-by-column computation steps clearly.
+Put the final 3×3 result matrix inside \boxed{}.",AB = \begin{bmatrix} -8 & 4 & -28 \\ 18 & -9 & 8 \\ 26 & -16 & 8 \end{bmatrix}
+C_3x3_mult_018,multiplication,"Compute the matrix product C = A × B for the two 3×3 matrices.
+
+A = \begin{bmatrix} -3 & 4 & 2 \\ 3 & -1 & 0 \\ 1 & 3 & 3 \end{bmatrix}
+
+B = \begin{bmatrix} -4 & 1 & -4 \\ -2 & 3 & -2 \\ 3 & 0 & -2 \end{bmatrix}
+
+Show your row-by-column computation steps clearly.
+Put the final 3×3 result matrix inside \boxed{}.",AB = \begin{bmatrix} 10 & 9 & 0 \\ -10 & 0 & -10 \\ -1 & 10 & -16 \end{bmatrix}
+C_3x3_mult_019,multiplication,"Compute the matrix product C = A × B for the two 3×3 matrices.
+
+A = \begin{bmatrix} -1 & 0 & 2 \\ 1 & 4 & 3 \\ 2 & 1 & -2 \end{bmatrix}
+
+B = \begin{bmatrix} -1 & -3 & -1 \\ 4 & -1 & -3 \\ 1 & 4 & 3 \end{bmatrix}
+
+Show your row-by-column computation steps clearly.
+Put the final 3×3 result matrix inside \boxed{}.",AB = \begin{bmatrix} 3 & 11 & 7 \\ 18 & 5 & -4 \\ 0 & -15 & -11 \end{bmatrix}
+C_3x3_mult_020,multiplication,"Compute the matrix product C = A × B for the two 3×3 matrices.
+
+A = \begin{bmatrix} -2 & 0 & 0 \\ -2 & -2 & -2 \\ 4 & 2 & 3 \end{bmatrix}
+
+B = \begin{bmatrix} 3 & 4 & -4 \\ 3 & -4 & 0 \\ 1 & -1 & -3 \end{bmatrix}
+
+Show your row-by-column computation steps clearly.
+Put the final 3×3 result matrix inside \boxed{}.",AB = \begin{bmatrix} -6 & -8 & 8 \\ -14 & 2 & 14 \\ 21 & 5 & -25 \end{bmatrix}
+C_3x3_nullity_001,nullity,"Find the nullity of the 3×3 matrix A.
+
+A = \begin{bmatrix} 3 & 4 & 3 \\ -4 & 2 & 2 \\ 1 & 2 & -3 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 0
+C_3x3_nullity_002,nullity,"Find the nullity of the 3×3 matrix A.
+
+A = \begin{bmatrix} 4 & -4 & -4 \\ -4 & 2 & -4 \\ 12 & -10 & -4 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 1
+C_3x3_nullity_003,nullity,"Find the nullity of the 3×3 matrix A.
+
+A = \begin{bmatrix} 0 & 0 & 0 \\ 1 & -2 & 2 \\ -1 & 2 & -2 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 2
+C_3x3_nullity_004,nullity,"Find the nullity of the 3×3 matrix A.
+
+A = \begin{bmatrix} 1 & 4 & -4 \\ -1 & 2 & -1 \\ 0 & 12 & -10 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 1
+C_3x3_nullity_005,nullity,"Find the nullity of the 3×3 matrix A.
+
+A = \begin{bmatrix} -12 & 9 & 6 \\ 4 & -3 & -2 \\ 8 & -6 & -4 \end{bmatrix}
+
+Recall: nullity = number of columns − rank.
+First find the rank using row reduction, then compute the nullity.
+Show your steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 2
+C_3x3_nullity_006,nullity,"Find the nullity of the 3×3 matrix A.
+
+A = \begin{bmatrix} -4 & 3 & 2 \\ 0 & 0 & 0 \\ 0 & 0 & 0 \end{bmatrix}
+
+Recall: nullity = number of columns − rank.
+First find the rank using row reduction, then compute the nullity.
+Show your steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 2
+C_3x3_nullity_007,nullity,"Find the nullity of the 3×3 matrix A.
+
+A = \begin{bmatrix} 8 & -2 & 4 \\ -16 & 4 & -8 \\ -16 & 4 & -8 \end{bmatrix}
+
+Recall: nullity = number of columns − rank.
+First find the rank using row reduction, then compute the nullity.
+Show your steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 2
+C_3x3_nullity_008,nullity,"Find the nullity of the 3×3 matrix A.
+
+A = \begin{bmatrix} -8 & -2 & -4 \\ -12 & -3 & -6 \\ 0 & 0 & 0 \end{bmatrix}
+
+Recall: nullity = number of columns − rank.
+First find the rank using row reduction, then compute the nullity.
+Show your steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 2
+C_3x3_nullity_009,nullity,"Find the nullity of the 3×3 matrix A.
+
+A = \begin{bmatrix} 8 & -12 & -12 \\ 8 & -12 & -12 \\ 4 & -6 & -6 \end{bmatrix}
+
+Recall: nullity = number of columns − rank.
+First find the rank using row reduction, then compute the nullity.
+Show your steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 2
+C_3x3_nullity_010,nullity,"Find the nullity of the 3×3 matrix A.
+
+A = \begin{bmatrix} 4 & 0 & -2 \\ 0 & 2 & -6 \\ 10 & -1 & -2 \end{bmatrix}
+
+Recall: nullity = number of columns − rank.
+First find the rank using row reduction, then compute the nullity.
+Show your steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 1
+C_3x3_nullity_011,nullity,"Find the nullity of the 3×3 matrix A.
+
+A = \begin{bmatrix} -3 & 7 & 6 \\ 9 & 5 & 8 \\ 0 & -4 & -4 \end{bmatrix}
+
+Recall: nullity = number of columns − rank.
+First find the rank using row reduction, then compute the nullity.
+Show your steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 1
+C_3x3_nullity_012,nullity,"Find the nullity of the 3×3 matrix A.
+
+A = \begin{bmatrix} -12 & 12 & -4 \\ 6 & -6 & 2 \\ -3 & 3 & -1 \end{bmatrix}
+
+Recall: nullity = number of columns − rank.
+First find the rank using row reduction, then compute the nullity.
+Show your steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 2
+C_3x3_nullity_013,nullity,"Find the nullity of the 3×3 matrix A.
+
+A = \begin{bmatrix} 0 & 0 & -4 \\ 0 & 0 & 0 \\ 0 & 0 & -12 \end{bmatrix}
+
+Recall: nullity = number of columns − rank.
+First find the rank using row reduction, then compute the nullity.
+Show your steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 2
+C_3x3_nullity_014,nullity,"Find the nullity of the 3×3 matrix A.
+
+A = \begin{bmatrix} -1 & -1 & 1 \\ 4 & 4 & -4 \\ 4 & 4 & -4 \end{bmatrix}
+
+Recall: nullity = number of columns − rank.
+First find the rank using row reduction, then compute the nullity.
+Show your steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 2
+C_3x3_nullity_015,nullity,"Find the nullity of the 3×3 matrix A.
+
+A = \begin{bmatrix} 12 & 8 & 16 \\ 3 & 2 & 4 \\ 6 & 4 & 8 \end{bmatrix}
+
+Recall: nullity = number of columns − rank.
+First find the rank using row reduction, then compute the nullity.
+Show your steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 2
+C_3x3_nullity_016,nullity,"Find the nullity of the 3×3 matrix A.
+
+A = \begin{bmatrix} 2 & 0 & -22 \\ 1 & 2 & 3 \\ 1 & 4 & 17 \end{bmatrix}
+
+Recall: nullity = number of columns − rank.
+First find the rank using row reduction, then compute the nullity.
+Show your steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 1
+C_3x3_nullity_017,nullity,"Find the nullity of the 3×3 matrix A.
+
+A = \begin{bmatrix} 2 & 1 & 4 \\ 14 & 4 & 24 \\ 11 & 1 & 16 \end{bmatrix}
+
+Recall: nullity = number of columns − rank.
+First find the rank using row reduction, then compute the nullity.
+Show your steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 1
+C_3x3_nullity_018,nullity,"Find the nullity of the 3×3 matrix A.
+
+A = \begin{bmatrix} 6 & -12 & -12 \\ 12 & -14 & -9 \\ 9 & -12 & -9 \end{bmatrix}
+
+Recall: nullity = number of columns − rank.
+First find the rank using row reduction, then compute the nullity.
+Show your steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 1
+C_3x3_nullity_019,nullity,"Find the nullity of the 3×3 matrix A.
+
+A = \begin{bmatrix} 1 & -1 & 4 \\ 0 & 0 & 0 \\ 4 & -4 & 16 \end{bmatrix}
+
+Recall: nullity = number of columns − rank.
+First find the rank using row reduction, then compute the nullity.
+Show your steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 2
+C_3x3_nullity_020,nullity,"Find the nullity of the 3×3 matrix A.
+
+A = \begin{bmatrix} 12 & 8 & 16 \\ -9 & -6 & -12 \\ -6 & -4 & -8 \end{bmatrix}
+
+Recall: nullity = number of columns − rank.
+First find the rank using row reduction, then compute the nullity.
+Show your steps. Put your final numerical answer inside \boxed{}.",\text{nullity}(A) = 2
+C_3x3_pow2_001,matrix_power,"Compute A² = A × A for the 3×3 matrix A.
+
+A = \begin{bmatrix} 4 & 4 & -1 \\ 3 & 1 & 0 \\ -3 & -1 & 1 \end{bmatrix}
+
+Multiply A by itself. Show all row-by-column steps.
+Put the final 3×3 result matrix inside \boxed{}.",A^2 = \begin{bmatrix} 31 & 21 & -5 \\ 15 & 13 & -3 \\ -18 & -14 & 4 \end{bmatrix}
+C_3x3_pow2_002,matrix_power,"Compute A² = A × A for the 3×3 matrix A.
+
+A = \begin{bmatrix} 4 & -4 & 2 \\ 3 & 4 & -1 \\ -3 & -2 & 3 \end{bmatrix}
+
+Multiply A by itself. Show all row-by-column steps.
+Put the final 3×3 result matrix inside \boxed{}.",A^2 = \begin{bmatrix} -2 & -36 & 18 \\ 27 & 6 & -1 \\ -27 & -2 & 5 \end{bmatrix}
+C_3x3_pow2_003,matrix_power,"Compute A² = A × A for the 3×3 matrix A.
+
+A = \begin{bmatrix} 3 & 1 & -3 \\ -3 & 0 & 1 \\ -4 & 2 & 0 \end{bmatrix}
+
+Multiply A by itself. Show all row-by-column steps.
+Put the final 3×3 result matrix inside \boxed{}.",A^2 = \begin{bmatrix} 18 & -3 & -8 \\ -13 & -1 & 9 \\ -18 & -4 & 14 \end{bmatrix}
+C_3x3_pow2_004,matrix_power,"Compute A² = A × A for the 3×3 matrix A.
+
+A = \begin{bmatrix} -4 & -4 & 0 \\ 2 & 3 & -1 \\ -2 & 4 & 0 \end{bmatrix}
+
+Multiply A by itself. Show all row-by-column steps.
+Put the final 3×3 result matrix inside \boxed{}.",A^2 = \begin{bmatrix} 8 & 4 & 4 \\ 0 & -3 & -3 \\ 16 & 20 & -4 \end{bmatrix}
+C_3x3_pow2_005,matrix_power,"Compute A² = A × A for the 3×3 matrix A.
+
+A = \begin{bmatrix} -2 & -1 & -4 \\ -2 & 0 & 4 \\ 2 & 3 & 0 \end{bmatrix}
+
+Multiply A by itself. Show all row-by-column steps.
+Put the final 3×3 result matrix inside \boxed{}.",A^2 = \begin{bmatrix} -2 & -10 & 4 \\ 12 & 14 & 8 \\ -10 & -2 & 4 \end{bmatrix}
+C_3x3_pow2_006,matrix_power,"Compute A² = A × A for the 3×3 matrix A.
+
+A = \begin{bmatrix} -4 & -1 & 4 \\ -4 & 3 & 2 \\ -2 & 3 & 3 \end{bmatrix}
+
+Multiply A by itself. Show all row-by-column steps.
+Put the final 3×3 result matrix inside \boxed{}.",A^2 = \begin{bmatrix} 12 & 13 & -6 \\ 0 & 19 & -4 \\ -10 & 20 & 7 \end{bmatrix}
+C_3x3_pow2_007,matrix_power,"Compute A² = A × A for the 3×3 matrix A.
+
+A = \begin{bmatrix} -4 & -4 & 1 \\ 4 & -4 & 1 \\ -3 & 1 & 1 \end{bmatrix}
+
+Multiply A by itself. Show all row-by-column steps.
+Put the final 3×3 result matrix inside \boxed{}.",A^2 = \begin{bmatrix} -3 & 33 & -7 \\ -35 & 1 & 1 \\ 13 & 9 & -1 \end{bmatrix}
+C_3x3_pow2_008,matrix_power,"Compute A² = A × A for the 3×3 matrix A.
+
+A = \begin{bmatrix} -4 & 2 & 4 \\ 3 & -4 & -2 \\ -2 & 0 & -3 \end{bmatrix}
+
+Multiply A by itself. Show all row-by-column steps.
+Put the final 3×3 result matrix inside \boxed{}.",A^2 = \begin{bmatrix} 14 & -16 & -32 \\ -20 & 22 & 26 \\ 14 & -4 & 1 \end{bmatrix}
+C_3x3_pow2_009,matrix_power,"Compute A² = A × A for the 3×3 matrix A.
+
+A = \begin{bmatrix} 3 & 2 & 3 \\ -3 & -4 & 4 \\ -2 & 1 & 4 \end{bmatrix}
+
+Multiply A by itself. Show all row-by-column steps.
+Put the final 3×3 result matrix inside \boxed{}.",A^2 = \begin{bmatrix} -3 & 1 & 29 \\ -5 & 14 & -9 \\ -17 & -4 & 14 \end{bmatrix}
+C_3x3_pow2_010,matrix_power,"Compute A² = A × A for the 3×3 matrix A.
+
+A = \begin{bmatrix} -4 & -4 & -4 \\ -3 & -4 & 3 \\ 1 & 4 & 3 \end{bmatrix}
+
+Multiply A by itself. Show all row-by-column steps.
+Put the final 3×3 result matrix inside \boxed{}.",A^2 = \begin{bmatrix} 24 & 16 & -8 \\ 27 & 40 & 9 \\ -13 & -8 & 17 \end{bmatrix}
+C_3x3_pow2_011,matrix_power,"Compute A² = A × A for the 3×3 matrix A.
+
+A = \begin{bmatrix} 4 & -2 & -2 \\ 3 & -2 & -4 \\ 2 & 3 & 4 \end{bmatrix}
+
+Multiply A by itself. Show all row-by-column steps.
+Put the final 3×3 result matrix inside \boxed{}.",A^2 = \begin{bmatrix} 6 & -10 & -8 \\ -2 & -14 & -14 \\ 25 & 2 & 0 \end{bmatrix}
+C_3x3_pow2_012,matrix_power,"Compute A² = A × A for the 3×3 matrix A.
+
+A = \begin{bmatrix} 4 & -3 & 2 \\ 3 & 2 & 3 \\ 3 & 0 & -4 \end{bmatrix}
+
+Multiply A by itself. Show all row-by-column steps.
+Put the final 3×3 result matrix inside \boxed{}.",A^2 = \begin{bmatrix} 13 & -18 & -9 \\ 27 & -5 & 0 \\ 0 & -9 & 22 \end{bmatrix}
+C_3x3_pow2_013,matrix_power,"Compute A² = A × A for the 3×3 matrix A.
+
+A = \begin{bmatrix} 0 & -3 & -3 \\ -3 & 2 & 0 \\ 0 & 2 & 0 \end{bmatrix}
+
+Multiply A by itself. Show all row-by-column steps.
+Put the final 3×3 result matrix inside \boxed{}.",A^2 = \begin{bmatrix} 9 & -12 & 0 \\ -6 & 13 & 9 \\ -6 & 4 & 0 \end{bmatrix}
+C_3x3_pow2_014,matrix_power,"Compute A² = A × A for the 3×3 matrix A.
+
+A = \begin{bmatrix} 1 & -4 & 3 \\ 0 & -3 & 3 \\ 2 & -4 & -3 \end{bmatrix}
+
+Multiply A by itself. Show all row-by-column steps.
+Put the final 3×3 result matrix inside \boxed{}.",A^2 = \begin{bmatrix} 7 & -4 & -18 \\ 6 & -3 & -18 \\ -4 & 16 & 3 \end{bmatrix}
+C_3x3_pow2_015,matrix_power,"Compute A² = A × A for the 3×3 matrix A.
+
+A = \begin{bmatrix} -4 & -2 & -4 \\ 2 & 0 & 4 \\ 2 & 1 & 0 \end{bmatrix}
+
+Multiply A by itself. Show all row-by-column steps.
+Put the final 3×3 result matrix inside \boxed{}.",A^2 = \begin{bmatrix} 4 & 4 & 8 \\ 0 & 0 & -8 \\ -6 & -4 & -4 \end{bmatrix}
+C_3x3_pow2_016,matrix_power,"Compute A² = A × A for the 3×3 matrix A.
+
+A = \begin{bmatrix} -4 & -4 & 1 \\ -4 & -4 & -3 \\ 3 & 0 & 2 \end{bmatrix}
+
+Multiply A by itself. Show all row-by-column steps.
+Put the final 3×3 result matrix inside \boxed{}.",A^2 = \begin{bmatrix} 35 & 32 & 10 \\ 23 & 32 & 2 \\ -6 & -12 & 7 \end{bmatrix}
+C_3x3_pow2_017,matrix_power,"Compute A² = A × A for the 3×3 matrix A.
+
+A = \begin{bmatrix} -1 & -3 & -1 \\ -4 & 2 & -3 \\ -1 & 4 & 1 \end{bmatrix}
+
+Multiply A by itself. Show all row-by-column steps.
+Put the final 3×3 result matrix inside \boxed{}.",A^2 = \begin{bmatrix} 14 & -7 & 9 \\ -1 & 4 & -5 \\ -16 & 15 & -10 \end{bmatrix}
+C_3x3_pow2_018,matrix_power,"Compute A² = A × A for the 3×3 matrix A.
+
+A = \begin{bmatrix} 0 & 0 & 3 \\ -2 & 1 & 3 \\ 1 & 0 & -3 \end{bmatrix}
+
+Multiply A by itself. Show all row-by-column steps.
+Put the final 3×3 result matrix inside \boxed{}.",A^2 = \begin{bmatrix} 3 & 0 & -9 \\ 1 & 1 & -12 \\ -3 & 0 & 12 \end{bmatrix}
+C_3x3_pow2_019,matrix_power,"Compute A² = A × A for the 3×3 matrix A.
+
+A = \begin{bmatrix} -2 & 4 & 0 \\ -2 & -1 & 1 \\ 0 & 2 & -2 \end{bmatrix}
+
+Multiply A by itself. Show all row-by-column steps.
+Put the final 3×3 result matrix inside \boxed{}.",A^2 = \begin{bmatrix} -4 & -12 & 4 \\ 6 & -5 & -3 \\ -4 & -6 & 6 \end{bmatrix}
+C_3x3_pow2_020,matrix_power,"Compute A² = A × A for the 3×3 matrix A.
+
+A = \begin{bmatrix} 1 & -1 & 4 \\ -3 & -3 & 0 \\ 0 & 2 & -1 \end{bmatrix}
+
+Multiply A by itself. Show all row-by-column steps.
+Put the final 3×3 result matrix inside \boxed{}.",A^2 = \begin{bmatrix} 4 & 10 & 0 \\ 6 & 12 & -12 \\ -6 & -8 & 1 \end{bmatrix}
+C_3x3_rank_001,rank,"Find the rank of the 3×3 matrix A.
+
+A = \begin{bmatrix} 9 & 7 & 4 \\ -1 & 4 & -9 \\ 9 & 3 & 3 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 3
+C_3x3_rank_002,rank,"Find the rank of the 3×3 matrix A.
+
+A = \begin{bmatrix} -5 & -5 & 2 \\ -4 & 2 & 1 \\ 0 & 0 & 0 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 2
+C_3x3_rank_003,rank,"Find the rank of the 3×3 matrix A.
+
+A = \begin{bmatrix} -5 & 0 & -1 \\ 5 & 3 & -5 \\ 5 & 0 & 1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 2
+C_3x3_rank_004,rank,"Find the rank of the 3×3 matrix A.
+
+A = \begin{bmatrix} 0 & -4 & 0 \\ -4 & -4 & -4 \\ 8 & 4 & 8 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 2
+C_3x3_rank_005,rank,"Find the rank of the 3×3 matrix A.
+
+A = \begin{bmatrix} 2 & 1 & 4 \\ -3 & -5 & -1 \\ -1 & 3 & -7 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 2
+C_3x3_rank_006,rank,"Find the rank of the 3×3 matrix A.
+
+A = \begin{bmatrix} -5 & -8 & -4 \\ -8 & 3 & 1 \\ 1 & 6 & 1 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 3
+C_3x3_rank_007,rank,"Find the rank of the 3×3 matrix A.
+
+A = \begin{bmatrix} -3 & 3 & -4 \\ -9 & 9 & -12 \\ -3 & 3 & -4 \end{bmatrix}
+
+Use row reduction to find the number of non-zero rows in row echelon form.
+Show your row operations. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 1
+C_3x3_rank_008,rank,"Find the rank of the 3×3 matrix A.
+
+A = \begin{bmatrix} 1 & 1 & -2 \\ 5 & -5 & -2 \\ -1 & 0 & 0 \end{bmatrix}
+
+Use row reduction to find the number of non-zero rows in row echelon form.
+Show your row operations. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 3
+C_3x3_rank_009,rank,"Find the rank of the 3×3 matrix A.
+
+A = \begin{bmatrix} -5 & -8 & -2 \\ -3 & -7 & 1 \\ 0 & -1 & 1 \end{bmatrix}
+
+Use row reduction to find the number of non-zero rows in row echelon form.
+Show your row operations. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 2
+C_3x3_rank_010,rank,"Find the rank of the 3×3 matrix A.
+
+A = \begin{bmatrix} 1 & -2 & -3 \\ 3 & -2 & 1 \\ -3 & -1 & 0 \end{bmatrix}
+
+Use row reduction to find the number of non-zero rows in row echelon form.
+Show your row operations. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 3
+C_3x3_rank_011,rank,"Find the rank of the 3×3 matrix A.
+
+A = \begin{bmatrix} 1 & 0 & -2 \\ 5 & 0 & 3 \\ 3 & 1 & 4 \end{bmatrix}
+
+Use row reduction to find the number of non-zero rows in row echelon form.
+Show your row operations. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 3
+C_3x3_rank_012,rank,"Find the rank of the 3×3 matrix A.
+
+A = \begin{bmatrix} -2 & -9 & 18 \\ -6 & 9 & -6 \\ -4 & 6 & -4 \end{bmatrix}
+
+Use row reduction to find the number of non-zero rows in row echelon form.
+Show your row operations. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 2
+C_3x3_rank_013,rank,"Find the rank of the 3×3 matrix A.
+
+A = \begin{bmatrix} -3 & -3 & -3 \\ 0 & 0 & -6 \\ 4 & 4 & -4 \end{bmatrix}
+
+Use row reduction to find the number of non-zero rows in row echelon form.
+Show your row operations. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 2
+C_3x3_rank_014,rank,"Find the rank of the 3×3 matrix A.
+
+A = \begin{bmatrix} 1 & -2 & 0 \\ -4 & 3 & -2 \\ -5 & 3 & 4 \end{bmatrix}
+
+Use row reduction to find the number of non-zero rows in row echelon form.
+Show your row operations. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 3
+C_3x3_rank_015,rank,"Find the rank of the 3×3 matrix A.
+
+A = \begin{bmatrix} 6 & -9 & 10 \\ -7 & 8 & -5 \\ -1 & 5 & -11 \end{bmatrix}
+
+Use row reduction to find the number of non-zero rows in row echelon form.
+Show your row operations. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 2
+C_3x3_rank_016,rank,"Find the rank of the 3×3 matrix A.
+
+A = \begin{bmatrix} 0 & -12 & 12 \\ 0 & 0 & 0 \\ 0 & -4 & 4 \end{bmatrix}
+
+Use row reduction to find the number of non-zero rows in row echelon form.
+Show your row operations. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 1
+C_3x3_rank_017,rank,"Find the rank of the 3×3 matrix A.
+
+A = \begin{bmatrix} 5 & -1 & 3 \\ -1 & -2 & 3 \\ 2 & -4 & 2 \end{bmatrix}
+
+Use row reduction to find the number of non-zero rows in row echelon form.
+Show your row operations. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 3
+C_3x3_rank_018,rank,"Find the rank of the 3×3 matrix A.
+
+A = \begin{bmatrix} 3 & -1 & 5 \\ 2 & -2 & -5 \\ 2 & -3 & 3 \end{bmatrix}
+
+Use row reduction to find the number of non-zero rows in row echelon form.
+Show your row operations. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 3
+C_3x3_rank_019,rank,"Find the rank of the 3×3 matrix A.
+
+A = \begin{bmatrix} 0 & 0 & -4 \\ 2 & -4 & -1 \\ 4 & 5 & 5 \end{bmatrix}
+
+Use row reduction to find the number of non-zero rows in row echelon form.
+Show your row operations. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 3
+C_3x3_rank_020,rank,"Find the rank of the 3×3 matrix A.
+
+A = \begin{bmatrix} 5 & 1 & -3 \\ 4 & 3 & 5 \\ 2 & -4 & 0 \end{bmatrix}
+
+Use row reduction to find the number of non-zero rows in row echelon form.
+Show your row operations. Put your final numerical answer inside \boxed{}.",\text{rank}(A) = 3
+C_3x3_trace_001,trace,"Find the trace of the 3×3 matrix A.
+
+A = \begin{bmatrix} 1 & 2 & 0 \\ 6 & -2 & -4 \\ 2 & -2 & -6 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = -7
+C_3x3_trace_002,trace,"Find the trace of the 3×3 matrix A.
+
+A = \begin{bmatrix} -2 & 8 & -5 \\ -1 & -6 & 7 \\ -1 & -9 & 3 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = -5
+C_3x3_trace_003,trace,"Find the trace of the 3×3 matrix A.
+
+A = \begin{bmatrix} 6 & 3 & 4 \\ -7 & -4 & 8 \\ 9 & -5 & 5 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = 7
+C_3x3_trace_004,trace,"Find the trace of the 3×3 matrix A.
+
+A = \begin{bmatrix} -8 & 0 & 8 \\ 3 & -5 & -9 \\ -9 & 8 & 5 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = -8
+C_3x3_trace_005,trace,"Find the trace of the 3×3 matrix A.
+
+A = \begin{bmatrix} 7 & 1 & 7 \\ 3 & -9 & -8 \\ -1 & -7 & -9 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = -11
+C_3x3_trace_006,trace,"Find the trace of the 3×3 matrix A.
+
+A = \begin{bmatrix} 6 & -4 & 7 \\ -5 & -5 & -4 \\ -7 & -5 & -5 \end{bmatrix}
+
+Show all intermediate steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = -4
+C_3x3_trace_007,trace,"Compute the trace of the 3×3 matrix A.
+
+A = \begin{bmatrix} -5 & 4 & 2 \\ -1 & -1 & 5 \\ -5 & 3 & -4 \end{bmatrix}
+
+The trace is the sum of the diagonal elements.
+Show your steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = -10
+C_3x3_trace_008,trace,"Compute the trace of the 3×3 matrix A.
+
+A = \begin{bmatrix} -5 & 0 & 6 \\ 3 & 3 & 3 \\ 4 & 0 & -5 \end{bmatrix}
+
+The trace is the sum of the diagonal elements.
+Show your steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = -7
+C_3x3_trace_009,trace,"Compute the trace of the 3×3 matrix A.
+
+A = \begin{bmatrix} 4 & -1 & 0 \\ -2 & -4 & 6 \\ 4 & 2 & -1 \end{bmatrix}
+
+The trace is the sum of the diagonal elements.
+Show your steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = -1
+C_3x3_trace_010,trace,"Compute the trace of the 3×3 matrix A.
+
+A = \begin{bmatrix} 4 & 1 & -1 \\ -1 & -4 & -5 \\ 1 & 5 & -6 \end{bmatrix}
+
+The trace is the sum of the diagonal elements.
+Show your steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = -6
+C_3x3_trace_011,trace,"Compute the trace of the 3×3 matrix A.
+
+A = \begin{bmatrix} 5 & 4 & -3 \\ 2 & -4 & 3 \\ 3 & -2 & -6 \end{bmatrix}
+
+The trace is the sum of the diagonal elements.
+Show your steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = -5
+C_3x3_trace_012,trace,"Compute the trace of the 3×3 matrix A.
+
+A = \begin{bmatrix} 6 & -1 & 5 \\ 2 & 4 & 3 \\ -4 & -2 & 0 \end{bmatrix}
+
+The trace is the sum of the diagonal elements.
+Show your steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = 10
+C_3x3_trace_013,trace,"Compute the trace of the 3×3 matrix A.
+
+A = \begin{bmatrix} 0 & -6 & 1 \\ -4 & 3 & 2 \\ 5 & 3 & -2 \end{bmatrix}
+
+The trace is the sum of the diagonal elements.
+Show your steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = 1
+C_3x3_trace_014,trace,"Compute the trace of the 3×3 matrix A.
+
+A = \begin{bmatrix} 6 & -1 & -2 \\ 5 & -2 & -6 \\ 0 & 4 & -4 \end{bmatrix}
+
+The trace is the sum of the diagonal elements.
+Show your steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = 0
+C_3x3_trace_015,trace,"Compute the trace of the 3×3 matrix A.
+
+A = \begin{bmatrix} 0 & -5 & 2 \\ 0 & -2 & -4 \\ 1 & 2 & 6 \end{bmatrix}
+
+The trace is the sum of the diagonal elements.
+Show your steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = 4
+C_3x3_trace_016,trace,"Compute the trace of the 3×3 matrix A.
+
+A = \begin{bmatrix} -1 & -4 & 4 \\ 2 & 3 & -5 \\ -2 & 3 & 4 \end{bmatrix}
+
+The trace is the sum of the diagonal elements.
+Show your steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = 6
+C_3x3_trace_017,trace,"Compute the trace of the 3×3 matrix A.
+
+A = \begin{bmatrix} -1 & 4 & 4 \\ -1 & 5 & -3 \\ -3 & 2 & 2 \end{bmatrix}
+
+The trace is the sum of the diagonal elements.
+Show your steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = 6
+C_3x3_trace_018,trace,"Compute the trace of the 3×3 matrix A.
+
+A = \begin{bmatrix} -5 & 4 & -4 \\ 4 & -6 & 4 \\ 4 & 4 & 2 \end{bmatrix}
+
+The trace is the sum of the diagonal elements.
+Show your steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = -9
+C_3x3_trace_019,trace,"Compute the trace of the 3×3 matrix A.
+
+A = \begin{bmatrix} 0 & 3 & -3 \\ 4 & 1 & -1 \\ 0 & 1 & -6 \end{bmatrix}
+
+The trace is the sum of the diagonal elements.
+Show your steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = -5
+C_3x3_trace_020,trace,"Compute the trace of the 3×3 matrix A.
+
+A = \begin{bmatrix} -5 & -3 & -5 \\ -1 & 2 & 2 \\ 0 & 5 & 1 \end{bmatrix}
+
+The trace is the sum of the diagonal elements.
+Show your steps. Put your final numerical answer inside \boxed{}.",\text{tr}(A) = -2
+C_3x3_trans_001,transpose,"Find the transpose of the 3×3 matrix A.
+
+A = \begin{bmatrix} -5 & 3 & 1 \\ 2 & 1 & 1 \\ -5 & 1 & 4 \end{bmatrix}
+
+The transpose A^T is obtained by swapping rows and columns.
+Write out A^T explicitly. Put the final matrix inside \boxed{}.",A^T = \begin{bmatrix} -5 & 2 & -5 \\ 3 & 1 & 1 \\ 1 & 1 & 4 \end{bmatrix}
+C_3x3_trans_002,transpose,"Find the transpose of the 3×3 matrix A.
+
+A = \begin{bmatrix} -3 & 1 & -6 \\ -2 & -1 & 6 \\ -4 & -3 & -1 \end{bmatrix}
+
+The transpose A^T is obtained by swapping rows and columns.
+Write out A^T explicitly. Put the final matrix inside \boxed{}.",A^T = \begin{bmatrix} -3 & -2 & -4 \\ 1 & -1 & -3 \\ -6 & 6 & -1 \end{bmatrix}
+C_3x3_trans_003,transpose,"Find the transpose of the 3×3 matrix A.
+
+A = \begin{bmatrix} 6 & 5 & -6 \\ -3 & 4 & -6 \\ 5 & -3 & 5 \end{bmatrix}
+
+The transpose A^T is obtained by swapping rows and columns.
+Write out A^T explicitly. Put the final matrix inside \boxed{}.",A^T = \begin{bmatrix} 6 & -3 & 5 \\ 5 & 4 & -3 \\ -6 & -6 & 5 \end{bmatrix}
+C_3x3_trans_004,transpose,"Find the transpose of the 3×3 matrix A.
+
+A = \begin{bmatrix} -3 & -1 & 2 \\ -5 & 1 & 0 \\ 4 & 6 & 2 \end{bmatrix}
+
+The transpose A^T is obtained by swapping rows and columns.
+Write out A^T explicitly. Put the final matrix inside \boxed{}.",A^T = \begin{bmatrix} -3 & -5 & 4 \\ -1 & 1 & 6 \\ 2 & 0 & 2 \end{bmatrix}
+C_3x3_trans_005,transpose,"Find the transpose of the 3×3 matrix A.
+
+A = \begin{bmatrix} -1 & -1 & -1 \\ 4 & -2 & -4 \\ -2 & -6 & -5 \end{bmatrix}
+
+The transpose A^T is obtained by swapping rows and columns.
+Write out A^T explicitly. Put the final matrix inside \boxed{}.",A^T = \begin{bmatrix} -1 & 4 & -2 \\ -1 & -2 & -6 \\ -1 & -4 & -5 \end{bmatrix}
+C_3x3_trans_006,transpose,"Find the transpose of the 3×3 matrix A.
+
+A = \begin{bmatrix} -5 & 4 & 3 \\ 3 & 0 & 3 \\ -4 & 5 & 0 \end{bmatrix}
+
+The transpose A^T is obtained by swapping rows and columns.
+Write out A^T explicitly. Put the final matrix inside \boxed{}.",A^T = \begin{bmatrix} -5 & 3 & -4 \\ 4 & 0 & 5 \\ 3 & 3 & 0 \end{bmatrix}
+C_3x3_trans_007,transpose,"Find the transpose of the 3×3 matrix A.
+
+A = \begin{bmatrix} 6 & -5 & 0 \\ 3 & 0 & -1 \\ -4 & -2 & -3 \end{bmatrix}
+
+The transpose A^T is obtained by swapping rows and columns.
+Write out A^T explicitly. Put the final matrix inside \boxed{}.",A^T = \begin{bmatrix} 6 & 3 & -4 \\ -5 & 0 & -2 \\ 0 & -1 & -3 \end{bmatrix}
+C_3x3_trans_008,transpose,"Find the transpose of the 3×3 matrix A.
+
+A = \begin{bmatrix} -3 & 2 & 2 \\ 1 & -2 & 6 \\ -5 & -2 & -5 \end{bmatrix}
+
+The transpose A^T is obtained by swapping rows and columns.
+Write out A^T explicitly. Put the final matrix inside \boxed{}.",A^T = \begin{bmatrix} -3 & 1 & -5 \\ 2 & -2 & -2 \\ 2 & 6 & -5 \end{bmatrix}
+C_3x3_trans_009,transpose,"Find the transpose of the 3×3 matrix A.
+
+A = \begin{bmatrix} -2 & 6 & -2 \\ 5 & 0 & 3 \\ -1 & -3 & 3 \end{bmatrix}
+
+The transpose A^T is obtained by swapping rows and columns.
+Write out A^T explicitly. Put the final matrix inside \boxed{}.",A^T = \begin{bmatrix} -2 & 5 & -1 \\ 6 & 0 & -3 \\ -2 & 3 & 3 \end{bmatrix}
+C_3x3_trans_010,transpose,"Find the transpose of the 3×3 matrix A.
+
+A = \begin{bmatrix} 6 & -3 & 4 \\ -3 & 3 & 4 \\ -1 & 3 & -3 \end{bmatrix}
+
+The transpose A^T is obtained by swapping rows and columns.
+Write out A^T explicitly. Put the final matrix inside \boxed{}.",A^T = \begin{bmatrix} 6 & -3 & -1 \\ -3 & 3 & 3 \\ 4 & 4 & -3 \end{bmatrix}
+C_3x3_trans_011,transpose,"Find the transpose of the 3×3 matrix A.
+
+A = \begin{bmatrix} -5 & -5 & -1 \\ 5 & -5 & -1 \\ 3 & -4 & 3 \end{bmatrix}
+
+The transpose A^T is obtained by swapping rows and columns.
+Write out A^T explicitly. Put the final matrix inside \boxed{}.",A^T = \begin{bmatrix} -5 & 5 & 3 \\ -5 & -5 & -4 \\ -1 & -1 & 3 \end{bmatrix}
+C_3x3_trans_012,transpose,"Find the transpose of the 3×3 matrix A.
+
+A = \begin{bmatrix} -3 & 4 & 1 \\ 1 & -4 & 0 \\ 5 & -6 & 3 \end{bmatrix}
+
+The transpose A^T is obtained by swapping rows and columns.
+Write out A^T explicitly. Put the final matrix inside \boxed{}.",A^T = \begin{bmatrix} -3 & 1 & 5 \\ 4 & -4 & -6 \\ 1 & 0 & 3 \end{bmatrix}
+C_3x3_trans_013,transpose,"Find the transpose of the 3×3 matrix A.
+
+A = \begin{bmatrix} 0 & 3 & 2 \\ -1 & -2 & 2 \\ -5 & 1 & -5 \end{bmatrix}
+
+The transpose A^T is obtained by swapping rows and columns.
+Write out A^T explicitly. Put the final matrix inside \boxed{}.",A^T = \begin{bmatrix} 0 & -1 & -5 \\ 3 & -2 & 1 \\ 2 & 2 & -5 \end{bmatrix}
+C_3x3_trans_014,transpose,"Find the transpose of the 3×3 matrix A.
+
+A = \begin{bmatrix} 2 & 2 & -5 \\ 3 & -1 & 4 \\ -6 & -4 & 0 \end{bmatrix}
+
+The transpose A^T is obtained by swapping rows and columns.
+Write out A^T explicitly. Put the final matrix inside \boxed{}.",A^T = \begin{bmatrix} 2 & 3 & -6 \\ 2 & -1 & -4 \\ -5 & 4 & 0 \end{bmatrix}
+C_3x3_trans_015,transpose,"Find the transpose of the 3×3 matrix A.
+
+A = \begin{bmatrix} -4 & -2 & 2 \\ -5 & 2 & -5 \\ -4 & 1 & 4 \end{bmatrix}
+
+The transpose A^T is obtained by swapping rows and columns.
+Write out A^T explicitly. Put the final matrix inside \boxed{}.",A^T = \begin{bmatrix} -4 & -5 & -4 \\ -2 & 2 & 1 \\ 2 & -5 & 4 \end{bmatrix}
+C_3x3_trans_016,transpose,"Find the transpose of the 3×3 matrix A.
+
+A = \begin{bmatrix} -4 & -3 & 6 \\ 6 & 1 & -1 \\ -2 & 1 & 1 \end{bmatrix}
+
+The transpose A^T is obtained by swapping rows and columns.
+Write out A^T explicitly. Put the final matrix inside \boxed{}.",A^T = \begin{bmatrix} -4 & 6 & -2 \\ -3 & 1 & 1 \\ 6 & -1 & 1 \end{bmatrix}
+C_3x3_trans_017,transpose,"Find the transpose of the 3×3 matrix A.
+
+A = \begin{bmatrix} -3 & -6 & -5 \\ 6 & -1 & 0 \\ 0 & 4 & -6 \end{bmatrix}
+
+The transpose A^T is obtained by swapping rows and columns.
+Write out A^T explicitly. Put the final matrix inside \boxed{}.",A^T = \begin{bmatrix} -3 & 6 & 0 \\ -6 & -1 & 4 \\ -5 & 0 & -6 \end{bmatrix}
+C_3x3_trans_018,transpose,"Find the transpose of the 3×3 matrix A.
+
+A = \begin{bmatrix} -5 & -3 & 0 \\ 2 & 0 & -1 \\ 6 & -4 & 1 \end{bmatrix}
+
+The transpose A^T is obtained by swapping rows and columns.
+Write out A^T explicitly. Put the final matrix inside \boxed{}.",A^T = \begin{bmatrix} -5 & 2 & 6 \\ -3 & 0 & -4 \\ 0 & -1 & 1 \end{bmatrix}
+C_3x3_trans_019,transpose,"Find the transpose of the 3×3 matrix A.
+
+A = \begin{bmatrix} 1 & 0 & 4 \\ -3 & 6 & -2 \\ 1 & 0 & 5 \end{bmatrix}
+
+The transpose A^T is obtained by swapping rows and columns.
+Write out A^T explicitly. Put the final matrix inside \boxed{}.",A^T = \begin{bmatrix} 1 & -3 & 1 \\ 0 & 6 & 0 \\ 4 & -2 & 5 \end{bmatrix}
+C_3x3_trans_020,transpose,"Find the transpose of the 3×3 matrix A.
+
+A = \begin{bmatrix} -1 & -3 & -6 \\ -2 & 4 & -6 \\ 5 & 1 & -5 \end{bmatrix}
+
+The transpose A^T is obtained by swapping rows and columns.
+Write out A^T explicitly. Put the final matrix inside \boxed{}.",A^T = \begin{bmatrix} -1 & -2 & 5 \\ -3 & 4 & 1 \\ -6 & -6 & -5 \end{bmatrix}
