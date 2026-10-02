@@ -45,7 +45,7 @@ All commands run from the repo root with `uv run python`.
 
 ## Stage 1: Inference (`pipeline/inference.py`)
 
-Run zero-shot inference via CLI (alternative to Streamlit):
+Run zero-shot inference via CLI:
 
 ```bash
 # Dry run (preview prompts, no API calls)
@@ -164,27 +164,6 @@ data/
 ```
 
 All pipeline output is written to `data/output/{Model}/` — this is the central location forResults, failures JSONL, and judge CSVs.
-
----
-
-## Streamlit App (`linalg_app.py`)
-
-An interactive pipeline manager for running all three stages without CLI.
-
-```bash
-uv run streamlit run linalg_app.py --server.port 8512
-```
-
-> **Port tip:** If app doesn't load, try manually navigating to `http://localhost:8512` — browsers may remember port 8503 from prior sessions.
-
-**Features:**
-- **Stage 1 (Inference):** Select benchmark CSV, choose model, run inference. Output in `data/output/{Model}/`
-- **Stage 2 (Build Judge):** Select failures JSONL → classify errors with error taxonomy
-- **Stage 3 (Validate):** Verify/correct Stage 2 labels with second independent pass
-- **Auto-refresh:** Job monitors update every 2 seconds during execution
-- **Sidebar controls:** Dry run, resume, limit, API keys all configurable
-
-All stages write to `data/output/{Model}/` subdirectories.
 
 ---
 
