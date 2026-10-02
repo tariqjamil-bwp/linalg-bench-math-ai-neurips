@@ -177,6 +177,20 @@ All pipeline output is written to `data/output/{Model}/` — this is the central
 
 ---
 
+## Citation
+
+```bibtex
+@inproceedings{agarwal2026linalgbench,
+  title     = {LinAlg-Bench: A Benchmark Exposing Structural Failure Modes in LLM Linear
+               Algebra -- Where Models Stop Computing and Start Hallucinating},
+  author    = {Agarwal, Shradha and Jamil, Tariq and Rajbhar, Deepak},
+  booktitle = {NeurIPS 2026 Workshop on Mathematical Reasoning and AI (MATH-AI)},
+  year      = {2026}
+}
+```
+
+---
+
 ## License
 
 CC BY 4.0 — see `LICENSE`.
