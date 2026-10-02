@@ -161,7 +161,7 @@ Evaluation: `main_pipeline/format_eval.py` scores format variant responses again
 
 ## Appendix Experiments (`appendix_codes/`)
 
-Three self-contained pipelines backing the appendix. Each ships its own run guide with the full
+Three self-contained pipelines for extended experiments beyond the MATH-AI paper (results included in the extended dataset release). Each ships its own run guide with the full
 command sequence, so those steps are not duplicated here:
 
 | Experiment | Directory | Run guide |
